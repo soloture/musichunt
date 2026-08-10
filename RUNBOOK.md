@@ -52,9 +52,17 @@ fetch.
 
 ## 2. Curate
 
-- Bias toward recent finds (rough guideline: released/active in the last ~60
-  days), but a deeper cut is fine if it's a genuinely new discovery for the
-  seed pool.
+**This is a new-release feed, not an artist directory.** Every pick must be
+anchored to one specific, named, dated release (album/EP/single/track) that
+you can point to. "This artist is worth knowing" is not a pick on its own —
+if a candidate from source C or D (associated/similar) doesn't have a
+concrete recent release you can name, either keep digging for one or drop
+the candidate. Don't pad the day with bio-only entries.
+
+- Bias toward recent finds (rough guideline: released in the last ~60 days),
+  but a deeper cut is fine if it's a genuinely new discovery for the seed
+  pool — the release still has to be real and datable, just not necessarily
+  brand new.
 - Skip anything already present in `docs/data/*.json` (match by name).
 - Mix across the four source types and across subgenres — don't let one
   label or sound dominate a single day.
@@ -65,6 +73,9 @@ fetch.
 
 Follow the schema in `seeds/SCHEMA.md`. In particular:
 
+- `release`: required for every pick — `title`, `release_type`, and a
+  best-confirmed `date`. This is what makes it a "new release" and not just
+  an artist recommendation; don't write a pick without one.
 - `bio`: 2-3 sentences — who they are, label/scene history. Neutral, factual,
   no invented biographical details — if you're not sure of a fact, leave it
   out rather than guess.

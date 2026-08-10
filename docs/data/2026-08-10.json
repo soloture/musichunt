@@ -17,7 +17,12 @@
         "website": "https://www.steverachmad.com"
       },
       "bandcamp_embed": null,
-      "purchase_link": "https://sterac.bandcamp.com/album/light-and-time"
+      "purchase_link": "https://sterac.bandcamp.com/album/light-and-time",
+      "release": {
+        "title": "Light And Time",
+        "release_type": "album",
+        "date": "2026-08-07"
+      }
     },
     {
       "name": "Martinou",
@@ -34,7 +39,12 @@
         "bandcamp": "https://mulemusiq.bandcamp.com/album/ever-changing-ep"
       },
       "bandcamp_embed": null,
-      "purchase_link": "https://mulemusiq.bandcamp.com/album/ever-changing-ep"
+      "purchase_link": "https://mulemusiq.bandcamp.com/album/ever-changing-ep",
+      "release": {
+        "title": "Ever Changing EP",
+        "release_type": "EP",
+        "date": "2026-07-17"
+      }
     },
     {
       "name": "Wata Igarashi",
@@ -50,7 +60,12 @@
         "bandcamp": "https://wataigarashi.bandcamp.com/album/kaleidoscopic"
       },
       "bandcamp_embed": null,
-      "purchase_link": "https://wataigarashi.bandcamp.com/album/kaleidoscopic"
+      "purchase_link": "https://wataigarashi.bandcamp.com/album/kaleidoscopic",
+      "release": {
+        "title": "Kaleidoscopic",
+        "release_type": "EP",
+        "date": "2026-02-12"
+      }
     },
     {
       "name": "Nicola Cruz",
@@ -67,7 +82,12 @@
         "bandcamp": "https://kalaharioystercult.bandcamp.com/album/telemagenta-ep"
       },
       "bandcamp_embed": null,
-      "purchase_link": "https://kalaharioystercult.bandcamp.com/album/telemagenta-ep"
+      "purchase_link": "https://kalaharioystercult.bandcamp.com/album/telemagenta-ep",
+      "release": {
+        "title": "Telemagenta EP",
+        "release_type": "EP",
+        "date": "2026-03-27"
+      }
     },
     {
       "name": "Closet Yi",
@@ -83,7 +103,12 @@
         "bandcamp": "https://closetyi.bandcamp.com/track/dynamisante"
       },
       "bandcamp_embed": null,
-      "purchase_link": "https://closetyi.bandcamp.com/track/dynamisante"
+      "purchase_link": "https://closetyi.bandcamp.com/track/dynamisante",
+      "release": {
+        "title": "Dynamisante",
+        "release_type": "single",
+        "date": "2026-04-03"
+      }
     },
     {
       "name": "Forest Drive West",
@@ -99,7 +124,12 @@
         "bandcamp": "https://forestdrivewest.bandcamp.com/album/mantis-1920"
       },
       "bandcamp_embed": null,
-      "purchase_link": "https://forestdrivewest.bandcamp.com/album/mantis-1920"
+      "purchase_link": "https://forestdrivewest.bandcamp.com/album/mantis-1920",
+      "release": {
+        "title": "Mantis 1920",
+        "release_type": "album",
+        "date": "2026-06-05"
+      }
     },
     {
       "name": "DJ Plant Texture",
@@ -115,7 +145,12 @@
         "bandcamp": "https://liesrecords.bandcamp.com/album/oscillazione"
       },
       "bandcamp_embed": null,
-      "purchase_link": "https://liesrecords.bandcamp.com/album/oscillazione"
+      "purchase_link": "https://liesrecords.bandcamp.com/album/oscillazione",
+      "release": {
+        "title": "Oscillazione",
+        "release_type": "album",
+        "date": "2026-02-06"
+      }
     },
     {
       "name": "Legowelt",
@@ -132,7 +167,12 @@
         "bandcamp": "https://legowelt.bandcamp.com/album/zorlok-compressor-ii"
       },
       "bandcamp_embed": null,
-      "purchase_link": "https://legowelt.bandcamp.com/album/zorlok-compressor-ii"
+      "purchase_link": "https://legowelt.bandcamp.com/album/zorlok-compressor-ii",
+      "release": {
+        "title": "Zorlok Compressor II",
+        "release_type": "album",
+        "date": "2026-08-06"
+      }
     }
   ]
 }

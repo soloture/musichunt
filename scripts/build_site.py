@@ -60,6 +60,13 @@ def render_links(links, purchase_link):
     return "\n".join(items)
 
 
+def fmt_release_date(date_str):
+    try:
+        return datetime.strptime(date_str, "%Y-%m-%d").strftime("%b %-d, %Y")
+    except (ValueError, TypeError):
+        return date_str or ""
+
+
 def render_card(pick):
     name = esc(pick.get("name"))
     ptype = (pick.get("type") or "artist").lower()
@@ -73,6 +80,7 @@ def render_card(pick):
     links = pick.get("links") or {}
     purchase_link = pick.get("purchase_link")
     embed = pick.get("bandcamp_embed")
+    release = pick.get("release") or {}
 
     media_html = ""
     if embed and embed.get("iframe_src"):
@@ -81,13 +89,28 @@ def render_card(pick):
             f'src="{esc(embed["iframe_src"])}" seamless loading="lazy" title="{name} on Bandcamp"></iframe>'
         )
 
+    release_type = release.get("release_type", "")
+    release_type = "EP" if release_type.lower() == "ep" else release_type.capitalize()
+    release_date = fmt_release_date(release.get("date", ""))
+    release_meta = " · ".join(x for x in [esc(release_type), esc(release_date)] if x)
+    release_badge = f'<span class="release-badge">{release_meta}</span>' if release_meta else ""
+
+    if release.get("title"):
+        headline = esc(release["title"])
+        byline = f'<p class="card-artist">{name}</p>'
+    else:
+        headline = name
+        byline = ""
+
     return f"""
     <article class="card">
       <header class="card-header">
         <span class="type-badge type-{esc(ptype)}">{esc(ptype.upper())}</span>
         <span class="source-badge source-{esc(source_type)}">{source_label}</span>
+        {release_badge}
       </header>
-      <h3 class="card-name">{name}</h3>
+      <h3 class="card-name">{headline}</h3>
+      {byline}
       {f'<p class="source-note">{source_note}</p>' if source_note else ""}
       <div class="tags">{genre_html}</div>
       <p class="bio">{bio}</p>

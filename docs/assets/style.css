@@ -107,7 +107,7 @@ section { margin-bottom: 48px; }
   flex-wrap: wrap;
 }
 
-.type-badge, .source-badge {
+.type-badge, .source-badge, .release-badge {
   font-size: 0.68rem;
   font-weight: 700;
   letter-spacing: 0.04em;
@@ -126,10 +126,26 @@ section { margin-bottom: 48px; }
   color: var(--text-muted);
 }
 
+.release-badge {
+  background: transparent;
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+  text-transform: none;
+  letter-spacing: 0;
+  margin-left: auto;
+}
+
 .card-name {
   margin: 2px 0 0;
   font-size: 1.15rem;
   font-weight: 700;
+}
+
+.card-artist {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  font-weight: 600;
 }
 
 .source-note {

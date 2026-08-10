@@ -60,6 +60,11 @@ regenerated from whatever's re-imported.
     {
       "name": "Artist or Label Name",
       "type": "artist",
+      "release": {
+        "title": "Some EP",
+        "release_type": "EP",
+        "date": "2026-08-07"
+      },
       "source_type": "label_watch",
       "source_note": "New EP on Livity Sound, a label you've got several tracks from.",
       "genres": ["UK bass", "dub techno"],
@@ -84,5 +89,6 @@ regenerated from whatever's re-imported.
 
 Field notes:
 - `type`: `"artist"` or `"label"`.
-- `source_type`: one of `label_watch`, `dj_set_artist`, `associated`, `similar` — see `RUNBOOK.md` for what each means.
+- `release`: **required, no exceptions.** This is a new-release feed, not an artist directory -- every pick exists because of a specific, named, dated release. `title` is the EP/album/single/track name, `release_type` is one of `album`/`EP`/`single`/`track`/`compilation`, `date` is `YYYY-MM-DD` (best confirmed date; if only a month is known, use the 1st and note the uncertainty in `source_note`). If you can't pin a concrete release to a candidate, don't write the pick -- being "associated" or "similar" to something good is a reason to *notice* an artist, not a reason to publish them without a release.
+- `source_type`: one of `label_watch`, `dj_set_artist`, `associated`, `similar` — see `RUNBOOK.md` for what each means. This is *how the artist was found*; `release` is *what's actually new*. Both are required.
 - `bandcamp_embed`: `null` if there's no Bandcamp page to embed; use `scripts/bandcamp_lookup.py <url>` to resolve it. When null, `purchase_link` or `links` carry the fallback.
