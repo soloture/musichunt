@@ -1175,7 +1175,14 @@
       "Program_051726"
     ],
     "track_count": 5,
-    "labels": []
+    "labels": [
+      "Curving Track",
+      "Gudu Records",
+      "Honey Badger Records",
+      "Hotflush Recordings",
+      "Silk Road Sounds"
+    ],
+    "notes": "Seoul-based. Shares Honey Badger Records with Jesse You."
   },
   {
     "name": "Compassion Crew",
@@ -2840,6 +2847,25 @@
     "notes": "Planet Mu roster."
   },
   {
+    "name": "Jesse You",
+    "source": "discovered",
+    "genres": [
+      "House",
+      "Techno",
+      "Ambient",
+      "Disco",
+      "Downtempo"
+    ],
+    "labels": [
+      "Walls and Pals",
+      "Honey Badger Records",
+      "FuFu Records"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Seoul-based DJ/producer; co-founded Walls and Pals with Mogwaa (Aug 2021); debut single \"Bamboozle\" on Honey Badger Records."
+  },
+  {
     "name": "Jlin",
     "source": "rekordbox",
     "genres": [
@@ -3898,7 +3924,17 @@
       "LGR"
     ],
     "track_count": 1,
-    "labels": []
+    "labels": [
+      "Clique Records",
+      "Gudu Records",
+      "Klasse Wrecks",
+      "MM Discos",
+      "Spring Theory",
+      "Star Creature",
+      "Walls and Pals",
+      "Zen2000"
+    ],
+    "notes": "South Korean producer (Seungyoung Lee); co-founded Walls and Pals with Jesse You (Aug 2021)."
   },
   {
     "name": "Monty Luke",

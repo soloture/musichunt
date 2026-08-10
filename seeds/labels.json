@@ -9,6 +9,30 @@
     "notes": "Cajmere's label; released a dozen+ Glenn Underground singles/EPs in 1995-96."
   },
   {
+    "name": "Clique Records",
+    "source": "discovered",
+    "genres": [
+      "Electronic"
+    ],
+    "links": {
+      "bandcamp": "https://cliquerecords.bandcamp.com"
+    },
+    "notes": "Released Mogwaa's 07307 cassette (2018)."
+  },
+  {
+    "name": "Curving Track",
+    "source": "discovered",
+    "genres": [
+      "House",
+      "Techno",
+      "Breaks"
+    ],
+    "links": {
+      "bandcamp": "https://curvingtrack.bandcamp.com"
+    },
+    "notes": "London label; Closet Yi's Bmore Baby EP was its inaugural release."
+  },
+  {
     "name": "Cómeme",
     "source": "discovered",
     "genres": [
@@ -31,6 +55,42 @@
       "bandcamp": "https://dekmantel.bandcamp.com"
     },
     "notes": "Amsterdam. Dazion's \"Grooveboxxx\" is on here."
+  },
+  {
+    "name": "FuFu Records",
+    "source": "discovered",
+    "genres": [
+      "House",
+      "Techno",
+      "Ambient"
+    ],
+    "links": {
+      "bandcamp": "https://fufurecords.bandcamp.com"
+    },
+    "notes": "Hong Kong label/agency; featured Jesse You on its '88 - Double Happiness Vol. 5' comp."
+  },
+  {
+    "name": "Gudu Records",
+    "source": "discovered",
+    "genres": [
+      "House"
+    ],
+    "links": {
+      "bandcamp": "https://gudurecords.bandcamp.com"
+    },
+    "notes": "Peggy Gou's Berlin label, founded 2019. Mogwaa is on the roster."
+  },
+  {
+    "name": "Honey Badger Records",
+    "source": "discovered",
+    "genres": [
+      "House",
+      "Techno"
+    ],
+    "links": {
+      "bandcamp": "https://honeybadgerrecords.bandcamp.com"
+    },
+    "notes": "Released Closet Yi's Ruminate/Point of Hue EPs and Jesse You's debut single 'Bamboozle'."
   },
   {
     "name": "Hotflush Recordings",
@@ -89,6 +149,18 @@
       "bandcamp": "https://lump-rec.bandcamp.com"
     },
     "notes": "Valparaíso, Chile-based. Credited as \"Artist\" on Various Artists compilation tracks in the Rekordbox export -- it's actually the label."
+  },
+  {
+    "name": "MM Discos",
+    "source": "discovered",
+    "genres": [
+      "Italo Disco",
+      "Edits"
+    ],
+    "links": {
+      "bandcamp": "https://mmdiscos.bandcamp.com"
+    },
+    "notes": "Berlin label, since 2015. Released Mogwaa's Del Mar and Hazy Dreams."
   },
   {
     "name": "Multi Culti",
@@ -157,6 +229,17 @@
     "notes": "Cajual sublabel founded by Curtis Jones (Cajmere/Green Velvet)."
   },
   {
+    "name": "Silk Road Sounds",
+    "source": "discovered",
+    "genres": [
+      "Global Club"
+    ],
+    "links": {
+      "bandcamp": "https://silkroadsounds.bandcamp.com"
+    },
+    "notes": "Hong Kong via London, launched by Yeti Out (2018). Released Closet Yi's Riverside Pawn Shop."
+  },
+  {
     "name": "Soundman Chronicles",
     "source": "discovered",
     "genres": [
@@ -167,6 +250,27 @@
       "ra": "https://ra.co/labels/9969"
     },
     "notes": "Parris's own label, founded 2013 -- Rabit, Wen, Etch, Facta."
+  },
+  {
+    "name": "Spring Theory",
+    "source": "discovered",
+    "genres": [
+      "Electronic"
+    ],
+    "links": {},
+    "notes": "Brooklyn label; released Mogwaa's Pilgrim EP."
+  },
+  {
+    "name": "Star Creature",
+    "source": "discovered",
+    "genres": [
+      "Boogie",
+      "Disco"
+    ],
+    "links": {
+      "bandcamp": "https://starcreature.bandcamp.com"
+    },
+    "notes": "Chicago boogie/disco label. Mogwaa roster."
   },
   {
     "name": "The Trilogy Tapes",
@@ -203,6 +307,30 @@
       "bandcamp": "https://visionsrecordings.bandcamp.com"
     },
     "notes": "Founded by Alex Attias, 1999, London. Same Rekordbox mis-tagging as Lump Records above."
+  },
+  {
+    "name": "Walls and Pals",
+    "source": "discovered",
+    "genres": [
+      "Electronic",
+      "House"
+    ],
+    "links": {
+      "bandcamp": "https://wallsandpals.bandcamp.com"
+    },
+    "notes": "Seoul label co-founded by Mogwaa & Jesse You, launched August 2021."
+  },
+  {
+    "name": "Zen2000",
+    "source": "discovered",
+    "genres": [
+      "Electronic",
+      "Ambient"
+    ],
+    "links": {
+      "bandcamp": "https://zen2000.bandcamp.com"
+    },
+    "notes": "Released Mogwaa's A Garden Inside."
   },
   {
     "name": "ZZK Records",
