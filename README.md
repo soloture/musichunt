@@ -32,15 +32,26 @@ infra to maintain, and no API keys required.
 
 ## Importing your Rekordbox library
 
-1. In Rekordbox: File → Export Collection in xml format.
-2. Run:
-   ```
-   python3 scripts/parse_rekordbox.py path/to/rekordbox.xml
-   ```
-   This populates `seeds/artists.json` (and tops up `seeds/labels.json`)
-   from the `Artist`, `Remixer`, and `Label` fields on every track in your
-   collection. Safe to re-run any time you export a fresh copy — it merges
-   rather than overwrites.
+Two ways in, and they merge together rather than overwrite:
+
+**Playlist track-list exports** (what's currently seeded) — in Rekordbox,
+right-click a playlist → Export track list, save as `.txt`. Then:
+```
+python3 scripts/parse_rekordbox_playlists.py playlist1.txt playlist2.txt ...
+```
+Pulls Artist + Genre from every track, and records which playlist(s) each
+artist showed up in (handy mood/set context: `Bass`, `slow`, `Bar`, etc.).
+No label data in this format.
+
+**Full Collection XML export** — File → Export Collection in xml format,
+then:
+```
+python3 scripts/parse_rekordbox.py path/to/rekordbox.xml
+```
+Same idea, plus pulls `Label` and `Remixer` fields since the full XML export
+carries them. Worth doing at some point to seed `seeds/labels.json` for real.
+
+Either is safe to re-run any time you export a fresh copy.
 
 ## Adding labels/artists by hand
 

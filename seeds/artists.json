@@ -1,1 +1,5454 @@
-[]
+[
+  {
+    "name": "Abacus",
+    "source": "rekordbox",
+    "genres": [
+      "Deep House"
+    ],
+    "playlists": [
+      "House",
+      "LGR",
+      "UKHouse"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "Abra",
+    "source": "rekordbox",
+    "genres": [
+      "R&B/Soul"
+    ],
+    "playlists": [
+      "Bar"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "AceMo",
+    "source": "rekordbox",
+    "genres": [
+      "House"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Addison Groove",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bar",
+      "Bass"
+    ],
+    "track_count": 4,
+    "labels": []
+  },
+  {
+    "name": "Adonijah",
+    "source": "rekordbox",
+    "genres": [
+      "Modern Dancehall"
+    ],
+    "playlists": [
+      "House",
+      "slow"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Africa Hitech",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Africaine 808",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "African Vibration",
+    "source": "rekordbox",
+    "genres": [
+      "Africa"
+    ],
+    "playlists": [
+      "Bass",
+      "slow"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Afrikan Sciences",
+    "source": "rekordbox",
+    "genres": [
+      "House"
+    ],
+    "playlists": [
+      "Hyperjazz",
+      "slow"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Afriqua",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "Bar",
+      "slow"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Agrupacion Capitan",
+    "source": "rekordbox",
+    "genres": [
+      "Alternative"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Aiwaa",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass",
+      "slow"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Akimbo",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Alessandro Alessandroni",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Alex Attias & Dego",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "UKHouse"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Alex Dimitri South Soul",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Alex Kassian",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "slow",
+      "spritual"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "AlunaGeorge",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Anchorsong",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass",
+      "slow"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Anda",
+    "source": "rekordbox",
+    "genres": [
+      "K-Pop"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Andrea Benini",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "slow",
+      "spritual"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "Andrew Pekler",
+    "source": "rekordbox",
+    "genres": [
+      "Electronica"
+    ],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Andy Mac",
+    "source": "rekordbox",
+    "genres": [
+      "Dub"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "ANOHNI",
+    "source": "rekordbox",
+    "genres": [
+      "Alternative"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Anthony Naples",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Anthony Naples & DJ Python",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Anunaku",
+    "source": "rekordbox",
+    "genres": [
+      "IDM/Experimental"
+    ],
+    "playlists": [
+      "Bass",
+      "House_Percussive",
+      "UKHouse"
+    ],
+    "track_count": 4,
+    "labels": []
+  },
+  {
+    "name": "Anunaku & Dj Plead",
+    "source": "rekordbox",
+    "genres": [
+      "Techno"
+    ],
+    "playlists": [
+      "Bass",
+      "House_Percussive",
+      "Hyperjazz"
+    ],
+    "track_count": 4,
+    "labels": []
+  },
+  {
+    "name": "Ape Chimba,El Sembrao, Ground ,Juan Diego Illescas, Nicola Cruz, Shamanic Catharsis",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Aquarius Heaven",
+    "source": "rekordbox",
+    "genres": [
+      "House"
+    ],
+    "playlists": [
+      "Bar",
+      "slow"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Arilu",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Ariwo",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic",
+      "World"
+    ],
+    "playlists": [
+      "Hyperjazz",
+      "slow"
+    ],
+    "track_count": 5,
+    "labels": []
+  },
+  {
+    "name": "Arnaldo",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "ASOY",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "House_Percussive",
+      "LGR",
+      "Program_051726"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "Auntie Flo",
+    "source": "rekordbox",
+    "genres": [
+      "Electronica"
+    ],
+    "playlists": [
+      "Bar",
+      "UKHouse",
+      "slow"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "Autechre",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Aybee",
+    "source": "rekordbox",
+    "genres": [
+      "Techno"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Ayobayo Band",
+    "source": "rekordbox",
+    "genres": [
+      "Africa"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Azu Tiwaline",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass",
+      "Hyperjazz"
+    ],
+    "track_count": 4,
+    "labels": []
+  },
+  {
+    "name": "B La B",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "B12",
+    "source": "rekordbox",
+    "genres": [
+      "Electronica"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Bakongo",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Balint Boldizsar",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Balkan Beat Box",
+    "source": "rekordbox",
+    "genres": [
+      "Alternative"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Baloji",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Hyperjazz"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Baltra",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Barda",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Baronhawk Poitier",
+    "source": "rekordbox",
+    "genres": [
+      "Techno"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Barrio Lindo & GROUND",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Barrio Lindo & Jin Yerei",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Barrio Lindo & Kraut",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Bass Clef",
+    "source": "rekordbox",
+    "genres": [
+      "Techno"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Beesmunt Soundsystem",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bar",
+      "slow"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Begin",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "Bar",
+      "PercussiveChill"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "bela",
+    "source": "rekordbox",
+    "genres": [
+      "Electronica"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "BEN HAUKE",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "House_Percussive",
+      "LGR",
+      "Program_051726"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "Berg-Jaär",
+    "source": "rekordbox",
+    "genres": [
+      "Techno"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Bergsonist",
+    "source": "rekordbox",
+    "genres": [
+      "Dance",
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Binkbeats",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Bison & Squareffekt",
+    "source": "rekordbox",
+    "genres": [
+      "House"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Bjørn Torske",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Hyperjazz",
+      "spritual"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Bjørn Torske, Kjetil D. Brandsdal, The Orb & Owen Pallett",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Black Coffee",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Black Motion",
+    "source": "rekordbox",
+    "genres": [
+      "Dance",
+      "House"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 4,
+    "labels": []
+  },
+  {
+    "name": "Black Noi$e",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bar"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Blackpocket & Steve Spacek",
+    "source": "rekordbox",
+    "genres": [
+      "Electronica"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Blacksea Não Maya & Piquenos Djs Do Guetto",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Blaqstarr",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Blood Wine Or Honey",
+    "source": "rekordbox",
+    "genres": [
+      "Downtempo"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Blu & Union Analogtronics",
+    "source": "rekordbox",
+    "genres": [
+      "Hip-Hop/Rap"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Bok Bok",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Bolts",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Boogzbrown",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "BOSCO & Speakerfoxxx",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Brackles",
+    "source": "rekordbox",
+    "genres": [
+      "Dance",
+      "Garage"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Brain Machine",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Branko",
+    "source": "rekordbox",
+    "genres": [
+      "World"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Brown Cow & Arpan",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Bruxas",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Bufiman",
+    "source": "rekordbox",
+    "genres": [
+      "Dance",
+      "IDM/Experimental"
+    ],
+    "playlists": [
+      "Program_051726",
+      "slow",
+      "spritual"
+    ],
+    "track_count": 6,
+    "labels": []
+  },
+  {
+    "name": "Byron the Aquarius",
+    "source": "rekordbox",
+    "genres": [
+      "R&B/Soul"
+    ],
+    "playlists": [
+      "Bar"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "CADEJO",
+    "source": "rekordbox",
+    "genres": [
+      "R&B/Soul"
+    ],
+    "playlists": [
+      "Hyperjazz"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Call Super",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Cantillate",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Carl Cox & Nile Rodgers",
+    "source": "rekordbox",
+    "genres": [
+      "Techno"
+    ],
+    "playlists": [
+      "Bar"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Carlos Niño & Friends",
+    "source": "rekordbox",
+    "genres": [
+      "Jazz"
+    ],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Chance The Rapper",
+    "source": "rekordbox",
+    "genres": [
+      "Hip-Hop/Rap"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Chico Mann & Captain Planet",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Chrome Sparks",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Citizen Boy",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Clap! Clap!",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 7,
+    "labels": []
+  },
+  {
+    "name": "Closet Yi",
+    "source": "rekordbox",
+    "genres": [
+      "Dance",
+      "House"
+    ],
+    "playlists": [
+      "Bar",
+      "Bass",
+      "House_Percussive",
+      "Hyperjazz",
+      "Program_051726"
+    ],
+    "track_count": 5,
+    "labels": []
+  },
+  {
+    "name": "Compassion Crew",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "Bar"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Control Machete",
+    "source": "rekordbox",
+    "genres": [
+      "Electronica"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Coozie Mellers",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Cosmo Vitelli",
+    "source": "rekordbox",
+    "genres": [
+      "Dance",
+      "Electronic"
+    ],
+    "playlists": [
+      "slow",
+      "spritual"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "Cruel Boyz",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "Cumbia Cosmonauts",
+    "source": "rekordbox",
+    "genres": [
+      "Urbano latino"
+    ],
+    "playlists": [
+      "Bass",
+      "spritual"
+    ],
+    "track_count": 5,
+    "labels": []
+  },
+  {
+    "name": "CYBER",
+    "source": "rekordbox",
+    "genres": [
+      "Pop"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "D.K.",
+    "source": "rekordbox",
+    "genres": [
+      "House"
+    ],
+    "playlists": [
+      "Bass",
+      "slow"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "Damon Eliza Palermo",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Dana Shanti",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "UKHouse"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Dance Regular",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "House",
+      "UKHouse"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "Dandara & Victor Norman",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Daniel Haaksman",
+    "source": "rekordbox",
+    "genres": [
+      "Afro-Pop",
+      "Baile Funk"
+    ],
+    "playlists": [
+      "Bass",
+      "House_Percussive"
+    ],
+    "track_count": 4,
+    "labels": []
+  },
+  {
+    "name": "Dazion",
+    "source": "rekordbox",
+    "genres": [
+      "House"
+    ],
+    "playlists": [
+      "Bar",
+      "Hyperjazz",
+      "PercussiveChill"
+    ],
+    "track_count": 5,
+    "labels": []
+  },
+  {
+    "name": "DEAN",
+    "source": "rekordbox",
+    "genres": [
+      "R&B/Soul"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Deekapz",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass",
+      "slow"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "Deena Abdelwahed",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "Dego & Kaidi",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bar"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Delay Grounds",
+    "source": "rekordbox",
+    "genres": [
+      "Breakbeat"
+    ],
+    "playlists": [
+      "UKHouse"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Dengue Dengue Dengue",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass",
+      "slow"
+    ],
+    "track_count": 7,
+    "labels": []
+  },
+  {
+    "name": "Denis Mpunga & Paul K.",
+    "source": "rekordbox",
+    "genres": [
+      "IDM/Experimental"
+    ],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Design Default",
+    "source": "rekordbox",
+    "genres": [
+      "Ambient"
+    ],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Die Orangen",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass",
+      "slow"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "Diplo",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "DJ C-Bit",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "DJ Diamond",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "DJ Elmoe",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "DJ Hank",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "Hyperjazz"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "DJ Heure",
+    "source": "rekordbox",
+    "genres": [
+      "House"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Dj Jauche",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "House",
+      "LGR"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "DJ Khalab",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "DJ Killa E",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "DJ Koze",
+    "source": "rekordbox",
+    "genres": [
+      "Electronica"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "DJ Lag",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "DJ Mexican",
+    "source": "rekordbox",
+    "genres": [
+      "Electronica"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "dj mitsu the beats",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "DJ Nate",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "DJ Nigga Fox",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "DJ Normal 4",
+    "source": "rekordbox",
+    "genres": [
+      "House"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "DJ Paypal",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Dj Plead",
+    "source": "rekordbox",
+    "genres": [
+      "World"
+    ],
+    "playlists": [
+      "Bar",
+      "slow"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "Dj Python",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bar",
+      "Bass"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "DJ Rashad",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "DJ Roc",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "DJ Sports",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "Bass",
+      "Hyperjazz"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "DJ Trouble",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "dJJ",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "DK",
+    "source": "rekordbox",
+    "genres": [
+      "House"
+    ],
+    "playlists": [
+      "Bar"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "DNGDNGDNG & Dengue Dengue Dengue",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "DONSURF",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "LGR",
+      "Program_051726"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Drake & Future",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Duke Hugh",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bar"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Dungen",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Egoless",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "El Bu'ho",
+    "source": "rekordbox",
+    "genres": [
+      "House"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "El Búho",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Elias Fassos & RisK",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Elninodiablo",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Hyperjazz"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Emma-Jean Thackray",
+    "source": "rekordbox",
+    "genres": [
+      "Jazz"
+    ],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Emo Kid",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Enzo Elia",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Equiknoxx",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Erasers",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic",
+      "Indie Rock"
+    ],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Eris Drew",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "EROFEEV",
+    "source": "rekordbox",
+    "genres": [
+      "Techno"
+    ],
+    "playlists": [
+      "Hyperjazz"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Esnard Boisdur",
+    "source": "rekordbox",
+    "genres": [
+      "Caribbean"
+    ],
+    "playlists": [
+      "Bar"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "EVM128",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "UKHouse"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Exile Di Brave & Gavsborg",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Florist",
+    "source": "rekordbox",
+    "genres": [
+      "House"
+    ],
+    "playlists": [
+      "Bass",
+      "Program_051726",
+      "spritual"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "Foodman",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass",
+      "slow"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Footshooter",
+    "source": "rekordbox",
+    "genres": [
+      "House"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Four Tet",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Francis Bebey",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "François X",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Frente Cumbiero",
+    "source": "rekordbox",
+    "genres": [
+      "Latino"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Gabriele Poso",
+    "source": "rekordbox",
+    "genres": [
+      "House"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Gaijin Blues",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Galcher Lustwerk",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bar",
+      "House",
+      "LGR",
+      "Program_051726"
+    ],
+    "track_count": 4,
+    "labels": []
+  },
+  {
+    "name": "Gamayun",
+    "source": "rekordbox",
+    "genres": [
+      "Techno"
+    ],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Gary Gritness",
+    "source": "rekordbox",
+    "genres": [
+      "Techno"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Gaspa",
+    "source": "rekordbox",
+    "genres": [
+      "World"
+    ],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Gato Preto",
+    "source": "rekordbox",
+    "genres": [
+      "Afro-Beat"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Gats",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass",
+      "slow"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Gazelle Twin",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Geju, Betelgeize & James Oclahoma",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Gene Hunt",
+    "source": "rekordbox",
+    "genres": [
+      "House"
+    ],
+    "playlists": [
+      "House",
+      "slow"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Ghetto Kumbé",
+    "source": "rekordbox",
+    "genres": [
+      "Latino"
+    ],
+    "playlists": [
+      "House_Percussive",
+      "Program_051726"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Gil.sm",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "LGR",
+      "UKHouse"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Glenn Underground",
+    "source": "rekordbox",
+    "genres": [
+      "Dance",
+      "House"
+    ],
+    "playlists": [
+      "Bar",
+      "House",
+      "LGR",
+      "slow"
+    ],
+    "track_count": 7,
+    "labels": []
+  },
+  {
+    "name": "Gonjasufi",
+    "source": "rekordbox",
+    "genres": [
+      "Alternative"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "GooseBumps",
+    "source": "rekordbox",
+    "genres": [
+      "K-Pop"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Gratts",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "House",
+      "LGR"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "Greenwood Rhythm Coalition",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Guedra Guedra",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Guedra Guedra كدرة كدرة",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass",
+      "LGR"
+    ],
+    "track_count": 4,
+    "labels": []
+  },
+  {
+    "name": "Guido",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "UKHouse"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "GutterFunk",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "LGR",
+      "Program_051726",
+      "UKHouse"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "Hamilton Brothers",
+    "source": "rekordbox",
+    "genres": [
+      "Disco"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Haruka Salt & Tongji",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Hazards of Prophecy",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "UKHouse"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Headhunter",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Hector Plimmer",
+    "source": "rekordbox",
+    "genres": [
+      "Downtempo"
+    ],
+    "playlists": [
+      "Bass",
+      "spritual"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "Hello Psychaleppo",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "HENNY FAT MOUTH",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "UKHouse"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Henry Keen",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "UKHouse"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Henry Wu",
+    "source": "rekordbox",
+    "genres": [
+      "House"
+    ],
+    "playlists": [
+      "Bar"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Herbert Munkhammar & Michel Dida",
+    "source": "rekordbox",
+    "genres": [
+      "Hip-Hop"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Here Lies Man",
+    "source": "rekordbox",
+    "genres": [
+      "Alternative"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "History of Colour",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Horatio Luna",
+    "source": "rekordbox",
+    "genres": [
+      "House"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Horsepower Productions",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "HUMA",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bar",
+      "PercussiveChill"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Hypna",
+    "source": "rekordbox",
+    "genres": [
+      "Techno"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "IKON & Temitope Phil-Ebosie",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass",
+      "slow"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Individualist",
+    "source": "rekordbox",
+    "genres": [
+      "House"
+    ],
+    "playlists": [
+      "Bass",
+      "LGR"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Ink Project",
+    "source": "rekordbox",
+    "genres": [
+      "Dub"
+    ],
+    "playlists": [
+      "Hyperjazz",
+      "UKHouse"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Inner City, Kevin Saunderson, Dantiez, Carl Waller",
+    "source": "rekordbox",
+    "genres": [
+      "UK Garage / Bassline"
+    ],
+    "playlists": [
+      "House"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Inverse Cinematics",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "LGR"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Isa GT",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "ISA GT",
+    "source": "rekordbox",
+    "genres": [
+      "Electro house/electroclash"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Isaiah Rashad",
+    "source": "rekordbox",
+    "genres": [
+      "Hip-Hop/Rap"
+    ],
+    "playlists": [
+      "Bass",
+      "Hyperjazz"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Israel Vich & Yong Jai Kim",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Ivan Conti",
+    "source": "rekordbox",
+    "genres": [
+      "House"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Iñigo Vontier",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Jad & The Ladyboy",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass",
+      "slow",
+      "spritual"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "JaJa",
+    "source": "rekordbox",
+    "genres": [
+      "Downtempo"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Jlin",
+    "source": "rekordbox",
+    "genres": [
+      "Dance",
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "JNS",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bar"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Joe",
+    "source": "rekordbox",
+    "genres": [
+      "Bass / Club",
+      "House"
+    ],
+    "playlists": [
+      "Bar",
+      "Program_051726",
+      "UKHouse",
+      "slow"
+    ],
+    "track_count": 4,
+    "labels": []
+  },
+  {
+    "name": "Joe Mubare",
+    "source": "rekordbox",
+    "genres": [
+      "Rock"
+    ],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Joey G ii",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "Bar",
+      "PercussiveChill"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "John Roberts",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Jonquera",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Jules Etienne",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Jun Kamoda",
+    "source": "rekordbox",
+    "genres": [
+      "Techno"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Ka Baird",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Kalbata & Maayan Nidam",
+    "source": "rekordbox",
+    "genres": [
+      "Techno"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "KAM-BU",
+    "source": "rekordbox",
+    "genres": [
+      "Hip-Hop/Rap"
+    ],
+    "playlists": [
+      "UKHouse"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Kamangâ",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Kamixlo",
+    "source": "rekordbox",
+    "genres": [
+      "Techno"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Karima F",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "Bar",
+      "Bass"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Kelman Duran & Mess Kid",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Kid Creole & The Coconuts",
+    "source": "rekordbox",
+    "genres": [
+      "Disco"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "King Britt",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bar"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "King Britt & Oba Funke",
+    "source": "rekordbox",
+    "genres": [
+      "Techno"
+    ],
+    "playlists": [
+      "Bar"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Knopha",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "KOKOKO!",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Krakatau",
+    "source": "rekordbox",
+    "genres": [
+      "Jazz"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Kraut",
+    "source": "rekordbox",
+    "genres": [
+      "World"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Krokakai",
+    "source": "rekordbox",
+    "genres": [
+      "Pop"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Kross Section",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Program_051726"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Kurtiss",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Hyperjazz"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "Kush Jones",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic",
+      "House"
+    ],
+    "playlists": [
+      "Bass",
+      "House"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Kwabs",
+    "source": "rekordbox",
+    "genres": [
+      "Alternative"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Kyle Hall",
+    "source": "rekordbox",
+    "genres": [
+      "House"
+    ],
+    "playlists": [
+      "House",
+      "UKHouse"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Kym Sugiru",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "KΣITO",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "L'Eclair",
+    "source": "rekordbox",
+    "genres": [
+      "Rock"
+    ],
+    "playlists": [
+      "Bass",
+      "slow",
+      "spritual"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "L'Eclair & The Mauskovic Dance Band",
+    "source": "rekordbox",
+    "genres": [
+      "Alternative"
+    ],
+    "playlists": [
+      "slow",
+      "spritual"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Lady Jay",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Lagartijeando",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass",
+      "Hyperjazz",
+      "slow",
+      "spritual"
+    ],
+    "track_count": 13,
+    "labels": []
+  },
+  {
+    "name": "Lagartijeando, Barda & BirdZzie",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Laksa",
+    "source": "rekordbox",
+    "genres": [
+      "Techno"
+    ],
+    "playlists": [
+      "House_Percussive",
+      "UKHouse"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Last Nubian",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "UKHouse"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "LCSM \"Likwid Continual Space Motion\"",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "LGR",
+      "Program_051726",
+      "UKHouse"
+    ],
+    "track_count": 5,
+    "labels": []
+  },
+  {
+    "name": "Leclair",
+    "source": "rekordbox",
+    "genres": [
+      "Alternative"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Leonce",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Lethal Bizzle & Stormzy",
+    "source": "rekordbox",
+    "genres": [
+      "Hip-Hop"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Leveldva",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Lexx",
+    "source": "rekordbox",
+    "genres": [
+      "Electronica"
+    ],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Lil Jabba",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Little Simz",
+    "source": "rekordbox",
+    "genres": [
+      "Hip-Hop/Rap"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Lobisomem",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Logic1000",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Lokal Affair",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Lost Souls Of Saturn",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Lump Records",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass",
+      "slow"
+    ],
+    "track_count": 6,
+    "labels": []
+  },
+  {
+    "name": "Lurka",
+    "source": "rekordbox",
+    "genres": [
+      "Bass"
+    ],
+    "playlists": [
+      "Bar",
+      "Bass",
+      "PercussiveChill"
+    ],
+    "track_count": 6,
+    "labels": []
+  },
+  {
+    "name": "M.I.A.",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Maajo",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Maalib & WRKMS",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "LGR"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Machweo",
+    "source": "rekordbox",
+    "genres": [
+      "World"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Major Lazer",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Malik Hendricks",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "UKHouse"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Man Jumping",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Manasseh",
+    "source": "rekordbox",
+    "genres": [
+      "Reggae"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Mansoor Hassan",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Manuel Sahagun",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "LGR",
+      "Program_051726",
+      "UKHouse"
+    ],
+    "track_count": 4,
+    "labels": []
+  },
+  {
+    "name": "Martha Pinel",
+    "source": "rekordbox",
+    "genres": [
+      "Deep House"
+    ],
+    "playlists": [
+      "House"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Matanza",
+    "source": "rekordbox",
+    "genres": [
+      "World"
+    ],
+    "playlists": [
+      "Bar"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Mateis e. aqir",
+    "source": "rekordbox",
+    "genres": [
+      "House"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Matias Aguayo",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass",
+      "slow"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Matica",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "UKHouse"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Maurice Louca",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Max Cooper",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Max Graef",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Mente Orgánica",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Mess Kid",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Metome",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic",
+      "Instrumental"
+    ],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "Michael",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Mike Fabulous",
+    "source": "rekordbox",
+    "genres": [
+      "Dub"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "MikeQ & Dj Sliink",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Mim Suleiman",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Mina",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "MinaeMinae",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "MNTH",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Mogwaa",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "LGR"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Monty Luke",
+    "source": "rekordbox",
+    "genres": [
+      "Electronica"
+    ],
+    "playlists": [
+      "Bar",
+      "Bass"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Mood Schula",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Moon & Bouncers",
+    "source": "rekordbox",
+    "genres": [
+      "Funk"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Mukk",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "House_Percussive",
+      "Program_051726"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Mumdance",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Murlo",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass",
+      "House_Percussive"
+    ],
+    "track_count": 4,
+    "labels": []
+  },
+  {
+    "name": "Mystica Tribe",
+    "source": "rekordbox",
+    "genres": [
+      "House"
+    ],
+    "playlists": [
+      "Bar",
+      "Bass",
+      "slow"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "Nadia Rose",
+    "source": "rekordbox",
+    "genres": [
+      "Hip-Hop/Rap"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "NameBrandSound",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "UKHouse"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Nass El Hal & Azu Tiwaline",
+    "source": "rekordbox",
+    "genres": [
+      "French Pop"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Nass El Hal & Ghost of Christmas",
+    "source": "rekordbox",
+    "genres": [
+      "French Pop"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Nathan Micay",
+    "source": "rekordbox",
+    "genres": [
+      "Techno"
+    ],
+    "playlists": [
+      "Program_051726"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Native Cruise",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "Bar"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Nato (FR)",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Nerftoss",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Neuropol",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Niagara",
+    "source": "rekordbox",
+    "genres": [
+      "Dance",
+      "Rock"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Nick Muir, John Digweed",
+    "source": "rekordbox",
+    "genres": [
+      "Breaks / Breakbeat / UK Bass"
+    ],
+    "playlists": [
+      "House"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Nicola Cruz",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bar",
+      "Bass",
+      "slow"
+    ],
+    "track_count": 5,
+    "labels": []
+  },
+  {
+    "name": "Nidia",
+    "source": "rekordbox",
+    "genres": [
+      "Bass"
+    ],
+    "playlists": [
+      "Bass",
+      "spritual"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Nihiloxica",
+    "source": "rekordbox",
+    "genres": [
+      "Africa"
+    ],
+    "playlists": [
+      "Bass",
+      "slow"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Nonames featuring Marger & D.Ablo",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Nubiyan Twist",
+    "source": "rekordbox",
+    "genres": [
+      "Soul"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Nídia & Valentina",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Hyperjazz"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Offshore and Coen",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Okmalumkoolkat",
+    "source": "rekordbox",
+    "genres": [
+      "Breakbeat",
+      "House"
+    ],
+    "playlists": [
+      "Bass",
+      "Hyperjazz"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "Olamide",
+    "source": "rekordbox",
+    "genres": [
+      "World"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Old Money",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Om Unit",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Orlando Volcano",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Oscar Key Sung",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Oscar Neves",
+    "source": "rekordbox",
+    "genres": [
+      "Que Bajo Records"
+    ],
+    "playlists": [
+      "Bass",
+      "House_Percussive",
+      "Hyperjazz"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "Oscar P & FNX OMAR",
+    "source": "rekordbox",
+    "genres": [
+      "House"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Osunlade",
+    "source": "rekordbox",
+    "genres": [
+      "Dance",
+      "Electronic"
+    ],
+    "playlists": [
+      "Bar",
+      "Bass"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Otakhee",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bar",
+      "Bass"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "OTAKHEE",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Hyperjazz"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Overland",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bar",
+      "Bass"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Panda Bear",
+    "source": "rekordbox",
+    "genres": [
+      "Alternative"
+    ],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Panda Dub",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 5,
+    "labels": []
+  },
+  {
+    "name": "Parris",
+    "source": "rekordbox",
+    "genres": [
+      "Downtempo",
+      "Electronic",
+      "Techno"
+    ],
+    "playlists": [
+      "Bass",
+      "Hyperjazz",
+      "UKHouse",
+      "slow"
+    ],
+    "track_count": 5,
+    "labels": []
+  },
+  {
+    "name": "Particle Ray",
+    "source": "rekordbox",
+    "genres": [
+      "House"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Payfone",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bar"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Pelada",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Pev & Kowton",
+    "source": "rekordbox",
+    "genres": [
+      "Electronica"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Pierre Kwenders",
+    "source": "rekordbox",
+    "genres": [
+      "Worldwide"
+    ],
+    "playlists": [
+      "Bar",
+      "House"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Prins Thomas",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Private Agenda",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bar",
+      "PercussiveChill"
+    ],
+    "track_count": 4,
+    "labels": []
+  },
+  {
+    "name": "Proc Fiskal",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "PT Musik",
+    "source": "rekordbox",
+    "genres": [
+      "Urbano latino"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Pursuit Grooves",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass",
+      "spritual"
+    ],
+    "track_count": 4,
+    "labels": []
+  },
+  {
+    "name": "Quantic and His Combo Bárbaro & Cut Chemist",
+    "source": "rekordbox",
+    "genres": [
+      "Latino"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Ramzi",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "RAMZi",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Ranka",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "House_Percussive"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Ras G & The African Space Program",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Ras G & The Afrikan Space Program",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Ratomagoson",
+    "source": "rekordbox",
+    "genres": [
+      "House"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Raven Sorvino",
+    "source": "rekordbox",
+    "genres": [
+      "Infectious Wave"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Redrago",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bar"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Reuben Vaun Smith",
+    "source": "rekordbox",
+    "genres": [
+      "Lounge"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Rizzla",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "Roland Bocquet & Yann Beguin",
+    "source": "rekordbox",
+    "genres": [
+      "Original Score"
+    ],
+    "playlists": [
+      "Hyperjazz",
+      "slow",
+      "spritual"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "Romare",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Roska",
+    "source": "rekordbox",
+    "genres": [
+      "House"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "RP Boo",
+    "source": "rekordbox",
+    "genres": [
+      "Dance",
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 5,
+    "labels": []
+  },
+  {
+    "name": "Sam Binga",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Sam Wilkes",
+    "source": "rekordbox",
+    "genres": [
+      "Jazz"
+    ],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Sansibar",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Sascha Funke",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Satanicpornocultshop",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Science Fiction",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Program_051726"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Sea Bee",
+    "source": "rekordbox",
+    "genres": [
+      "World"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Sean Green",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Program_051726"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Sean McCabe, Harold Matthews Jr",
+    "source": "rekordbox",
+    "genres": [
+      "Dance / Pop"
+    ],
+    "playlists": [
+      "House"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Second Storey",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Secret Circuit",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Hyperjazz"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Section Boyz",
+    "source": "rekordbox",
+    "genres": [
+      "Hip-Hop/Rap"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Sentinel 793",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "UKHouse"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Senyaka",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Serkan Eles",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Shanti Celeste",
+    "source": "rekordbox",
+    "genres": [
+      "Techno"
+    ],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "ShaqIsDope",
+    "source": "rekordbox",
+    "genres": [
+      "Hip-Hop/Rap"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "SHE Spells Doom",
+    "source": "rekordbox",
+    "genres": [
+      "Techno"
+    ],
+    "playlists": [
+      "Bass",
+      "House_Percussive"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "She's Drunk",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Shed",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Shifted",
+    "source": "rekordbox",
+    "genres": [
+      "Techno"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Shining Path",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Show Dem Camp",
+    "source": "rekordbox",
+    "genres": [
+      "Hip  Hop"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "SHXCXCHCXSH",
+    "source": "rekordbox",
+    "genres": [
+      "Techno"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Siete Catorce & Amazondotcom",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass",
+      "slow"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Significant Other",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "SIMULATION",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Sintaro Fujita",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "SJ Tequilla",
+    "source": "rekordbox",
+    "genres": [
+      "Dance",
+      "Electronic"
+    ],
+    "playlists": [
+      "slow",
+      "spritual"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "Skepta",
+    "source": "rekordbox",
+    "genres": [
+      "Hip-Hop/Rap"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Sleep D",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Sleepertrain",
+    "source": "rekordbox",
+    "genres": [
+      "Ambient"
+    ],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "SML",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Hyperjazz"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Sojeso & Mignon",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Sol Power All-Stars, Chicago Afrobeat Project, Tony Allen",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "LGR"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Son Of Dan",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "UKHouse"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Sonny Okosun",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Souleance",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Space Ghost",
+    "source": "rekordbox",
+    "genres": [
+      "House"
+    ],
+    "playlists": [
+      "Bar",
+      "spritual"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Spacefunk Dub",
+    "source": "rekordbox",
+    "genres": [
+      "Techno (Raw / Deep / Hypnotic)"
+    ],
+    "playlists": [
+      "LGR"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Spoek Mathambo",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bar",
+      "Bass"
+    ],
+    "track_count": 4,
+    "labels": []
+  },
+  {
+    "name": "Steve Lehman",
+    "source": "rekordbox",
+    "genres": [
+      "Jazz"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Steve Spacek",
+    "source": "rekordbox",
+    "genres": [
+      "House"
+    ],
+    "playlists": [
+      "Bass",
+      "Hyperjazz",
+      "UKHouse"
+    ],
+    "track_count": 6,
+    "labels": []
+  },
+  {
+    "name": "Stones Taro",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Hyperjazz"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Suba",
+    "source": "rekordbox",
+    "genres": [
+      "Rock y Alternativo"
+    ],
+    "playlists": [
+      "Bass",
+      "spritual"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "T5UMUT5UMU",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic",
+      "Techno"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Talaboman",
+    "source": "rekordbox",
+    "genres": [
+      "Electronica"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Te'amir",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Teengirl Fantasy",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "TEMIDOLLFACE",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "TEYMORI",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "Bar",
+      "House_Percussive",
+      "slow"
+    ],
+    "track_count": 5,
+    "labels": []
+  },
+  {
+    "name": "Tha Pope",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "The Bug",
+    "source": "rekordbox",
+    "genres": [
+      "Hip-Hop/Rap"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "The Gritness Acoustronics",
+    "source": "rekordbox",
+    "genres": [
+      "Jazz"
+    ],
+    "playlists": [
+      "Hyperjazz"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "The Hard Workers",
+    "source": "rekordbox",
+    "genres": [
+      "Africa"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "The Last Poets",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "UKHouse"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "The Mauskovic Dance Band & L'Eclair",
+    "source": "rekordbox",
+    "genres": [
+      "Alternative"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Theo Parrish",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Time Cow & Rege Sosa",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Tolouse Low Trax",
+    "source": "rekordbox",
+    "genres": [
+      "IDM/Experimental"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Tom Esselle",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "LGR"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Topdown Dialectic",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Toya Delazy",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Traxman",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "TRE'BORE",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Tribal Brothers & DJ Polo",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Trinidadian Deep",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "House_Percussive"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Tropical Twista Records",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Tubby Isiah",
+    "source": "rekordbox",
+    "genres": [
+      "Downtempo"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Tunde Olaniran",
+    "source": "rekordbox",
+    "genres": [
+      "Hip-Hop/Rap"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Tyu",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bar",
+      "slow"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "TĀLĀ",
+    "source": "rekordbox",
+    "genres": [
+      "Electronica"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "TĀLĀ & MissingNo",
+    "source": "rekordbox",
+    "genres": [
+      "Electronica"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Udasa",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Unge Ferrari",
+    "source": "rekordbox",
+    "genres": [
+      "Pop"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "UPZ & Black Motion",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "Bar",
+      "Bass",
+      "House_Percussive",
+      "slow"
+    ],
+    "track_count": 5,
+    "labels": []
+  },
+  {
+    "name": "Urbano De Castro",
+    "source": "rekordbox",
+    "genres": [
+      "Que Bajo Records"
+    ],
+    "playlists": [
+      "Bass",
+      "House_Percussive"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Various Artists",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "slow",
+      "spritual"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "VATOGATO",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Vibration Black Finger",
+    "source": "rekordbox",
+    "genres": [
+      "Vocal Jazz"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Victor",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Vikter Duplaix",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "Program_051726",
+      "UKHouse"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Vincenzo Pizzi",
+    "source": "rekordbox",
+    "genres": [
+      "Techno"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Visions Recordings",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "House",
+      "House_Percussive",
+      "LGR",
+      "Program_051726",
+      "UKHouse"
+    ],
+    "track_count": 10,
+    "labels": []
+  },
+  {
+    "name": "Walter Ego",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 3,
+    "labels": []
+  },
+  {
+    "name": "WaqWaq Kingdom",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic",
+      "Reggae"
+    ],
+    "playlists": [
+      "Bass",
+      "Hyperjazz",
+      "LGR",
+      "Program_051726",
+      "slow"
+    ],
+    "track_count": 7,
+    "labels": []
+  },
+  {
+    "name": "William Onyeabor",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "Bass"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Yemanjo",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "slow"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Yetsuby",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "Hyperjazz"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Yoshinori Hayashi, Diskjokke, Meanderthals & Arp",
+    "source": "rekordbox",
+    "genres": [
+      "Electronic"
+    ],
+    "playlists": [
+      "spritual"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Yuu Udagawa",
+    "source": "rekordbox",
+    "genres": [],
+    "playlists": [
+      "UKHouse"
+    ],
+    "track_count": 1,
+    "labels": []
+  },
+  {
+    "name": "Zatua",
+    "source": "rekordbox",
+    "genres": [
+      "Electronica"
+    ],
+    "playlists": [
+      "Bass",
+      "spritual"
+    ],
+    "track_count": 2,
+    "labels": []
+  },
+  {
+    "name": "Zillas on Acid",
+    "source": "rekordbox",
+    "genres": [
+      "Dance"
+    ],
+    "playlists": [
+      "Bass",
+      "slow"
+    ],
+    "track_count": 2,
+    "labels": []
+  }
+]

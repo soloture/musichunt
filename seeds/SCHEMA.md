@@ -25,7 +25,9 @@ Rekordbox parser, or via the daily research routine adding labels it discovers.
 
 ## `seeds/artists.json`
 
-Same shape as labels, plus `labels` (labels this artist has released on):
+Same shape as labels, plus `labels` (labels this artist has released on) and
+`playlists` (which of your Rekordbox playlists they showed up in -- useful
+mood/set-context signal, e.g. `"Bass"`, `"slow"`, `"Bar"`):
 
 ```json
 {
@@ -33,15 +35,18 @@ Same shape as labels, plus `labels` (labels this artist has released on):
   "source": "rekordbox",
   "genres": ["dubstep", "techno"],
   "labels": ["Punch Drunk", "Livity Sound"],
+  "playlists": ["Bass", "UKHouse"],
   "track_count": 6,
   "links": { "bandcamp": "...", "instagram": "..." },
   "last_checked": "2026-08-01"
 }
 ```
 
-`source: "rekordbox"` entries are produced by `scripts/parse_rekordbox.py` from
-your DJ sets and should not be hand-edited for `track_count` (it's regenerated
-on every import).
+`source: "rekordbox"` entries come from `scripts/parse_rekordbox_playlists.py`
+(playlist track-list `.txt` exports -- artist/genre/playlist, no label data)
+and/or `scripts/parse_rekordbox.py` (full Collection XML export -- adds
+label/remixer data). Both merge rather than overwrite; `track_count` is
+regenerated from whatever's re-imported.
 
 ## `docs/data/YYYY-MM-DD.json` (one file per daily hunt)
 
