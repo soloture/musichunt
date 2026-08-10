@@ -1,5 +1,16 @@
 [
   {
+    "name": "Axis",
+    "source": "manual",
+    "genres": [
+      "Techno"
+    ],
+    "links": {
+      "website": "https://www.axisrecords.com/#new-releases"
+    },
+    "notes": "Jeff Mills' Detroit techno label."
+  },
+  {
     "name": "Cajual Records",
     "source": "discovered",
     "genres": [
@@ -93,6 +104,20 @@
     "notes": "Released Closet Yi's Ruminate/Point of Hue EPs and Jesse You's debut single 'Bamboozle'."
   },
   {
+    "name": "Hot Biscuit Recordings",
+    "source": "manual",
+    "genres": [
+      "Funk",
+      "Soul",
+      "Disco",
+      "Edits"
+    ],
+    "links": {
+      "bandcamp": "https://hotbiscuitrecordings.bandcamp.com"
+    },
+    "notes": "Newcastle Upon Tyne, UK -- Rahaan, Mark Grusane, DJ Nature."
+  },
+  {
     "name": "Hotflush Recordings",
     "source": "discovered",
     "genres": [
@@ -102,6 +127,31 @@
     ],
     "links": {},
     "notes": "Closet Yi's \"Simmer\" EP (2022) is on here."
+  },
+  {
+    "name": "House of Underground",
+    "source": "manual",
+    "genres": [
+      "House",
+      "Deep House",
+      "Acid"
+    ],
+    "links": {
+      "bandcamp": "https://houseofunderground.bandcamp.com"
+    },
+    "notes": "Paris label; first release was a Boo Williams EP."
+  },
+  {
+    "name": "HyperJazz",
+    "source": "manual",
+    "genres": [
+      "Jazz",
+      "Electronic"
+    ],
+    "links": {
+      "bandcamp": "https://hyperjazzrecords.bandcamp.com"
+    },
+    "notes": "Rome label. Same name as one of your Rekordbox playlists (Hyperjazz) -- worth checking whether that's the connection."
   },
   {
     "name": "I.O.T Records",
@@ -139,6 +189,19 @@
     "notes": "Dengue Dengue Dengue's own label, launched 2020."
   },
   {
+    "name": "L.I.E.S",
+    "source": "manual",
+    "genres": [
+      "House",
+      "Techno",
+      "Lo-fi"
+    ],
+    "links": {
+      "website": "https://liesrecords.com/collections/all"
+    },
+    "notes": "Ron Morelli's raw house/techno label, LA (formerly NY)."
+  },
+  {
     "name": "Lump Records",
     "source": "rekordbox",
     "genres": [
@@ -161,6 +224,19 @@
       "bandcamp": "https://mmdiscos.bandcamp.com"
     },
     "notes": "Berlin label, since 2015. Released Mogwaa's Del Mar and Hazy Dreams."
+  },
+  {
+    "name": "Mule Musiq",
+    "source": "manual",
+    "genres": [
+      "House",
+      "Techno",
+      "Balearic"
+    ],
+    "links": {
+      "bandcamp": "https://mulemusiq.bandcamp.com"
+    },
+    "notes": "Tokyo label."
   },
   {
     "name": "Multi Culti",
@@ -187,6 +263,21 @@
     "notes": "Released Dazion's \"A Bridge Between Lovers\"."
   },
   {
+    "name": "Mutual Intentions",
+    "source": "manual",
+    "genres": [
+      "Hip-Hop/Rap",
+      "Jazz",
+      "Soul",
+      "Electronic"
+    ],
+    "links": {
+      "website": "http://www.mutualintentions.com/",
+      "bandcamp": "https://shop.mutualintentions.com/music"
+    },
+    "notes": "Oslo label/crew -- SRAW, Ivan Ave, Yogisoul, Fredfades."
+  },
+  {
     "name": "N.A.A.F.I",
     "source": "discovered",
     "genres": [
@@ -206,6 +297,49 @@
       "bandcamp": "https://nousklaer.bandcamp.com"
     },
     "notes": "Rotterdam label; released Nicola Cruz's Kinesia EP."
+  },
+  {
+    "name": "Oath",
+    "source": "manual",
+    "genres": [
+      "House",
+      "Deep House",
+      "Tribal House",
+      "Leftfield",
+      "Ambient House",
+      "Balearic"
+    ],
+    "links": {
+      "website": "https://oathcreations.com/releases/",
+      "bandcamp": "https://oathcreations.bandcamp.com"
+    },
+    "notes": "Istanbul label."
+  },
+  {
+    "name": "Paesaggi",
+    "source": "manual",
+    "genres": [
+      "Ambient",
+      "Library Music"
+    ],
+    "links": {
+      "bandcamp": "https://paesaggirecords.bandcamp.com"
+    },
+    "notes": "Tuscany label."
+  },
+  {
+    "name": "Palms & Charms",
+    "source": "manual",
+    "genres": [
+      "Balearic",
+      "Disco",
+      "Downtempo",
+      "House"
+    ],
+    "links": {
+      "bandcamp": "https://palmsandcharms.bandcamp.com"
+    },
+    "notes": "Tokyo & Hong Kong label, founded 2014 -- Max Essa, Mallorquín, Barnaby Bruce."
   },
   {
     "name": "Planet Mu",
@@ -229,6 +363,30 @@
     "notes": "Cajual sublabel founded by Curtis Jones (Cajmere/Green Velvet)."
   },
   {
+    "name": "Right Tempo",
+    "source": "manual",
+    "genres": [
+      "Italo Disco"
+    ],
+    "links": {
+      "discogs": "https://www.discogs.com/label/26104-Right-Tempo"
+    },
+    "notes": "Rome label."
+  },
+  {
+    "name": "Shall Not Fade",
+    "source": "manual",
+    "genres": [
+      "House",
+      "UK Garage",
+      "Bass"
+    ],
+    "links": {
+      "bandcamp": "https://shallnotfade.bandcamp.com"
+    },
+    "notes": "UK label."
+  },
+  {
     "name": "Silk Road Sounds",
     "source": "discovered",
     "genres": [
@@ -250,6 +408,18 @@
       "ra": "https://ra.co/labels/9969"
     },
     "notes": "Parris's own label, founded 2013 -- Rabit, Wen, Etch, Facta."
+  },
+  {
+    "name": "Space Echo",
+    "source": "manual",
+    "genres": [
+      "Disco",
+      "Edits"
+    ],
+    "links": {
+      "bandcamp": "https://spaceechorecords.bandcamp.com"
+    },
+    "notes": "Milan label."
   },
   {
     "name": "Spring Theory",
@@ -319,6 +489,20 @@
       "bandcamp": "https://wallsandpals.bandcamp.com"
     },
     "notes": "Seoul label co-founded by Mogwaa & Jesse You, launched August 2021."
+  },
+  {
+    "name": "Welt Discos",
+    "source": "manual",
+    "genres": [
+      "House",
+      "Techno",
+      "Experimental"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/weltdiscos/?hl=en",
+      "bandcamp": "https://weltdiscos.bandcamp.com"
+    },
+    "notes": "Lisbon label run by Joe Delon, launched 2020 with Carpet & Snares."
   },
   {
     "name": "Zen2000",
