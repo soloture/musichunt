@@ -1691,6 +1691,20 @@
     "labels": []
   },
   {
+    "name": "DJ Plant Texture",
+    "source": "discovered",
+    "genres": [
+      "Techno"
+    ],
+    "labels": [
+      "L.I.E.S",
+      "Ilian Tape"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Donato Basile, Bari, Italy. Also released on Ilian Tape, Return to Disorder, Tresor."
+  },
+  {
     "name": "Dj Plead",
     "source": "rekordbox",
     "genres": [
@@ -3431,6 +3445,22 @@
     ],
     "track_count": 1,
     "labels": []
+  },
+  {
+    "name": "Legowelt",
+    "source": "discovered",
+    "genres": [
+      "Electro",
+      "Acid",
+      "House"
+    ],
+    "labels": [
+      "L.I.E.S",
+      "Nightwind Records"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Danny Wolfers, The Hague. Long-running L.I.E.S. roster artist; releases much of his own work on his Nightwind Records imprint."
   },
   {
     "name": "Lena Willikens",
