@@ -1,1 +1,191 @@
-[]
+[
+  {
+    "name": "Cajual Records",
+    "source": "discovered",
+    "genres": [
+      "Chicago House"
+    ],
+    "links": {},
+    "notes": "Cajmere's label; released a dozen+ Glenn Underground singles/EPs in 1995-96."
+  },
+  {
+    "name": "Cómeme",
+    "source": "discovered",
+    "genres": [
+      "House",
+      "Global Club"
+    ],
+    "links": {
+      "bandcamp": "https://comeme.bandcamp.com"
+    },
+    "notes": "Bufiman released \"SWITCH BEATS\" here."
+  },
+  {
+    "name": "Dekmantel Records",
+    "source": "discovered",
+    "genres": [
+      "House",
+      "Techno"
+    ],
+    "links": {
+      "bandcamp": "https://dekmantel.bandcamp.com"
+    },
+    "notes": "Amsterdam. Dazion's \"Grooveboxxx\" is on here."
+  },
+  {
+    "name": "Hotflush Recordings",
+    "source": "discovered",
+    "genres": [
+      "House",
+      "Techno",
+      "Bass"
+    ],
+    "links": {},
+    "notes": "Closet Yi's \"Simmer\" EP (2022) is on here."
+  },
+  {
+    "name": "I.O.T Records",
+    "source": "discovered",
+    "genres": [
+      "Dub",
+      "Techno",
+      "Desert electronic"
+    ],
+    "links": {
+      "website": "https://www.iotrecords.org"
+    },
+    "notes": "Azu Tiwaline's label -- The Fifth Dream, Forest Drive West."
+  },
+  {
+    "name": "Idle Hands",
+    "source": "discovered",
+    "genres": [
+      "Bass",
+      "Techno",
+      "Dub"
+    ],
+    "links": {
+      "bandcamp": "https://idlehands.bandcamp.com"
+    },
+    "notes": "Bristol label/shop tied to Parris's scene. Inactive since 2022 -- historical context, not an active watch target."
+  },
+  {
+    "name": "Lump Records",
+    "source": "rekordbox",
+    "genres": [
+      "World",
+      "Global Club"
+    ],
+    "links": {
+      "bandcamp": "https://lump-rec.bandcamp.com"
+    },
+    "notes": "Valparaíso, Chile-based. Credited as \"Artist\" on Various Artists compilation tracks in the Rekordbox export -- it's actually the label."
+  },
+  {
+    "name": "Multi Culti",
+    "source": "discovered",
+    "genres": [
+      "Global Club",
+      "Folklorica"
+    ],
+    "links": {
+      "bandcamp": "https://multiculti.bandcamp.com"
+    },
+    "notes": "Nicola Cruz's core label -- Cantos de Visión, Hybridism, and more."
+  },
+  {
+    "name": "Music From Memory",
+    "source": "discovered",
+    "genres": [
+      "Balearic",
+      "Outsider disco"
+    ],
+    "links": {
+      "bandcamp": "https://music-from-memory.bandcamp.com"
+    },
+    "notes": "Released Dazion's \"A Bridge Between Lovers\"."
+  },
+  {
+    "name": "Nous'klaer Audio",
+    "source": "discovered",
+    "genres": [
+      "Electronic"
+    ],
+    "links": {
+      "bandcamp": "https://nousklaer.bandcamp.com"
+    },
+    "notes": "Rotterdam label; released Nicola Cruz's Kinesia EP."
+  },
+  {
+    "name": "Planet Mu",
+    "source": "discovered",
+    "genres": [
+      "Footwork",
+      "IDM/Experimental"
+    ],
+    "links": {
+      "website": "https://planet.mu"
+    },
+    "notes": "Mike Paradinas' label; released RP Boo's Legacy and Established!."
+  },
+  {
+    "name": "Soundman Chronicles",
+    "source": "discovered",
+    "genres": [
+      "Bass",
+      "Dubstep-adjacent"
+    ],
+    "links": {
+      "ra": "https://ra.co/labels/9969"
+    },
+    "notes": "Parris's own label, founded 2013 -- Rabit, Wen, Etch, Facta."
+  },
+  {
+    "name": "The Trilogy Tapes",
+    "source": "discovered",
+    "genres": [
+      "Electronic",
+      "Experimental"
+    ],
+    "links": {
+      "bandcamp": "https://thetrilogytapes.bandcamp.com"
+    },
+    "notes": "Run by Will Bankhead, London. A Parris release outlet."
+  },
+  {
+    "name": "Tropical Twista Records",
+    "source": "rekordbox",
+    "genres": [
+      "Downtempo",
+      "Global"
+    ],
+    "links": {
+      "bandcamp": "https://tropicaltwistarecords.bandcamp.com"
+    },
+    "notes": "Brazil-based since 2015. Same Rekordbox mis-tagging as above."
+  },
+  {
+    "name": "Visions Recordings",
+    "source": "rekordbox",
+    "genres": [
+      "Jazz",
+      "Deep Techno"
+    ],
+    "links": {
+      "bandcamp": "https://visionsrecordings.bandcamp.com"
+    },
+    "notes": "Founded by Alex Attias, 1999, London. Same Rekordbox mis-tagging as Lump Records above."
+  },
+  {
+    "name": "ZZK Records",
+    "source": "discovered",
+    "genres": [
+      "Latin American electronic",
+      "Cumbia"
+    ],
+    "links": {
+      "bandcamp": "https://zzkrecords.bandcamp.com"
+    },
+    "notes": "Lagartijeando's (Mati Zundel) home label, Buenos Aires."
+  }
+]

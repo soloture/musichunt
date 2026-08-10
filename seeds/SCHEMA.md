@@ -22,6 +22,9 @@ Array of label objects, deduped by `name`:
 
 Only `name` is required. Everything else fills in over time — manually, via the
 Rekordbox parser, or via the daily research routine adding labels it discovers.
+An optional `notes` string is fine for freeform context (why it's seeded, an
+artist connection, "inactive since X" for defunct labels that shouldn't be
+watched for new releases).
 
 ## `seeds/artists.json`
 

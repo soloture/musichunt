@@ -3202,17 +3202,6 @@
     "labels": []
   },
   {
-    "name": "Lump Records",
-    "source": "rekordbox",
-    "genres": [],
-    "playlists": [
-      "Bass",
-      "slow"
-    ],
-    "track_count": 6,
-    "labels": []
-  },
-  {
     "name": "Lurka",
     "source": "rekordbox",
     "genres": [
@@ -5136,16 +5125,6 @@
     "labels": []
   },
   {
-    "name": "Tropical Twista Records",
-    "source": "rekordbox",
-    "genres": [],
-    "playlists": [
-      "slow"
-    ],
-    "track_count": 1,
-    "labels": []
-  },
-  {
     "name": "Tubby Isiah",
     "source": "rekordbox",
     "genres": [
@@ -5326,20 +5305,6 @@
       "Bass"
     ],
     "track_count": 1,
-    "labels": []
-  },
-  {
-    "name": "Visions Recordings",
-    "source": "rekordbox",
-    "genres": [],
-    "playlists": [
-      "House",
-      "House_Percussive",
-      "LGR",
-      "Program_051726",
-      "UKHouse"
-    ],
-    "track_count": 10,
     "labels": []
   },
   {
