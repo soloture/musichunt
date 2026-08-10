@@ -70,6 +70,15 @@
     "notes": "Bristol label/shop tied to Parris's scene. Inactive since 2022 -- historical context, not an active watch target."
   },
   {
+    "name": "Kebrada",
+    "source": "discovered",
+    "genres": [
+      "Latin American electronic"
+    ],
+    "links": {},
+    "notes": "Dengue Dengue Dengue's own label, launched 2020."
+  },
+  {
     "name": "Lump Records",
     "source": "rekordbox",
     "genres": [
@@ -106,6 +115,16 @@
     "notes": "Released Dazion's \"A Bridge Between Lovers\"."
   },
   {
+    "name": "N.A.A.F.I",
+    "source": "discovered",
+    "genres": [
+      "Electronic",
+      "Global Club"
+    ],
+    "links": {},
+    "notes": "Mexico City label; released Dengue Dengue Dengue's \"Fiebre\"."
+  },
+  {
     "name": "Nous'klaer Audio",
     "source": "discovered",
     "genres": [
@@ -127,6 +146,15 @@
       "website": "https://planet.mu"
     },
     "notes": "Mike Paradinas' label; released RP Boo's Legacy and Established!."
+  },
+  {
+    "name": "Relief Records",
+    "source": "discovered",
+    "genres": [
+      "Chicago House"
+    ],
+    "links": {},
+    "notes": "Cajual sublabel founded by Curtis Jones (Cajmere/Green Velvet)."
   },
   {
     "name": "Soundman Chronicles",

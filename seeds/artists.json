@@ -240,6 +240,18 @@
     "labels": []
   },
   {
+    "name": "Andi Otto",
+    "source": "discovered",
+    "genres": [
+      "Electronic",
+      "World"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Multi Culti roster."
+  },
+  {
     "name": "Andrea Benini",
     "source": "rekordbox",
     "genres": [
@@ -275,6 +287,17 @@
     ],
     "track_count": 1,
     "labels": []
+  },
+  {
+    "name": "Animal Chuki",
+    "source": "discovered",
+    "genres": [
+      "Latin American electronic"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "ZZK Records roster (Peru)."
   },
   {
     "name": "ANOHNI",
@@ -872,6 +895,17 @@
     "labels": []
   },
   {
+    "name": "Boo Williams",
+    "source": "discovered",
+    "genres": [
+      "Chicago House"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Cajual Records roster; Glenn Underground's Strictly Jaz Unit partner."
+  },
+  {
     "name": "Boogzbrown",
     "source": "rekordbox",
     "genres": [
@@ -994,16 +1028,30 @@
     "labels": []
   },
   {
+    "name": "Cajmere",
+    "source": "discovered",
+    "genres": [
+      "Chicago House"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Cajual Records founder, aka Green Velvet."
+  },
+  {
     "name": "Call Super",
     "source": "rekordbox",
     "genres": [
-      "Dance"
+      "Dance",
+      "House",
+      "Techno"
     ],
     "playlists": [
       "Bass"
     ],
     "track_count": 2,
-    "labels": []
+    "labels": [],
+    "notes": "Dekmantel roster."
   },
   {
     "name": "Cantillate",
@@ -1040,6 +1088,17 @@
     ],
     "track_count": 2,
     "labels": []
+  },
+  {
+    "name": "CCTemple",
+    "source": "discovered",
+    "genres": [
+      "Electronic"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "I.O.T Records roster."
   },
   {
     "name": "Chance The Rapper",
@@ -1179,6 +1238,18 @@
     "labels": []
   },
   {
+    "name": "CS + Kreme",
+    "source": "discovered",
+    "genres": [
+      "Electronic",
+      "Experimental"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "The Trilogy Tapes roster."
+  },
+  {
     "name": "Cumbia Cosmonauts",
     "source": "rekordbox",
     "genres": [
@@ -1215,6 +1286,18 @@
     ],
     "track_count": 3,
     "labels": []
+  },
+  {
+    "name": "Dam-Funk",
+    "source": "discovered",
+    "genres": [
+      "Funk",
+      "Boogie"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Music From Memory roster."
   },
   {
     "name": "Damon Eliza Palermo",
@@ -1372,6 +1455,17 @@
     "labels": []
   },
   {
+    "name": "Derrick Carter",
+    "source": "discovered",
+    "genres": [
+      "Chicago House"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Cajual Records roster."
+  },
+  {
     "name": "Design Default",
     "source": "rekordbox",
     "genres": [
@@ -1476,12 +1570,16 @@
   {
     "name": "DJ Khalab",
     "source": "rekordbox",
-    "genres": [],
+    "genres": [
+      "Electronic",
+      "World"
+    ],
     "playlists": [
       "Bass"
     ],
     "track_count": 1,
-    "labels": []
+    "labels": [],
+    "notes": "Similar artist to Kiki Hitomi/WaqWaq Kingdom."
   },
   {
     "name": "DJ Killa E",
@@ -1614,12 +1712,15 @@
   {
     "name": "DJ Rashad",
     "source": "rekordbox",
-    "genres": [],
+    "genres": [
+      "Footwork"
+    ],
     "playlists": [
       "Bass"
     ],
     "track_count": 1,
-    "labels": []
+    "labels": [],
+    "notes": "Planet Mu roster; footwork pioneer."
   },
   {
     "name": "DJ Roc",
@@ -1630,6 +1731,17 @@
     ],
     "track_count": 1,
     "labels": []
+  },
+  {
+    "name": "DJ Sneak",
+    "source": "discovered",
+    "genres": [
+      "Chicago House"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Cajual Records roster."
   },
   {
     "name": "DJ Sports",
@@ -1700,6 +1812,17 @@
     ],
     "track_count": 2,
     "labels": []
+  },
+  {
+    "name": "Dorisburg",
+    "source": "discovered",
+    "genres": [
+      "Electronic"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Nous'klaer Audio roster."
   },
   {
     "name": "Drake & Future",
@@ -1889,6 +2012,17 @@
     "labels": []
   },
   {
+    "name": "Etch",
+    "source": "discovered",
+    "genres": [
+      "Bass"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Soundman Chronicles roster."
+  },
+  {
     "name": "EVM128",
     "source": "rekordbox",
     "genres": [],
@@ -1909,6 +2043,29 @@
     ],
     "track_count": 1,
     "labels": []
+  },
+  {
+    "name": "Facta",
+    "source": "discovered",
+    "genres": [
+      "Bass",
+      "House"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Soundman Chronicles roster; frequent Parris/K-LONE collaborator."
+  },
+  {
+    "name": "Fatima Yamaha",
+    "source": "discovered",
+    "genres": [
+      "Electronic"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Dekmantel roster."
   },
   {
     "name": "Florist",
@@ -1948,6 +2105,17 @@
     ],
     "track_count": 1,
     "labels": []
+  },
+  {
+    "name": "Forest Drive West",
+    "source": "discovered",
+    "genres": [
+      "Techno"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Similar artist to Azu Tiwaline; stripped-down hypnotic techno."
   },
   {
     "name": "Four Tet",
@@ -2131,6 +2299,30 @@
     "labels": []
   },
   {
+    "name": "George FitzGerald",
+    "source": "discovered",
+    "genres": [
+      "House",
+      "Techno"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Hotflush Recordings roster."
+  },
+  {
+    "name": "Ghetto Kumbe",
+    "source": "discovered",
+    "genres": [
+      "Latin American electronic",
+      "Cumbia"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "ZZK Records roster (Colombia)."
+  },
+  {
     "name": "Ghetto Kumbé",
     "source": "rekordbox",
     "genres": [
@@ -2142,6 +2334,18 @@
     ],
     "track_count": 2,
     "labels": []
+  },
+  {
+    "name": "Gigi Masin",
+    "source": "discovered",
+    "genres": [
+      "Ambient",
+      "Balearic"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Music From Memory's flagship reissue artist."
   },
   {
     "name": "Gil.sm",
@@ -2169,6 +2373,28 @@
     ],
     "track_count": 7,
     "labels": []
+  },
+  {
+    "name": "Gold Panda",
+    "source": "discovered",
+    "genres": [
+      "Electronic"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Similar artist to Clap! Clap!."
+  },
+  {
+    "name": "Golden Bug",
+    "source": "discovered",
+    "genres": [
+      "Electronic"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Multi Culti roster."
   },
   {
     "name": "Gonjasufi",
@@ -2603,17 +2829,31 @@
     "labels": []
   },
   {
+    "name": "Jana Rush",
+    "source": "discovered",
+    "genres": [
+      "Footwork"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Planet Mu roster."
+  },
+  {
     "name": "Jlin",
     "source": "rekordbox",
     "genres": [
       "Dance",
-      "Electronic"
+      "Electronic",
+      "Footwork",
+      "IDM/Experimental"
     ],
     "playlists": [
       "Bass"
     ],
     "track_count": 3,
-    "labels": []
+    "labels": [],
+    "notes": "Planet Mu roster."
   },
   {
     "name": "JNS",
@@ -2689,6 +2929,18 @@
     "labels": []
   },
   {
+    "name": "Joy Orbison",
+    "source": "discovered",
+    "genres": [
+      "Bass",
+      "House"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Hotflush Recordings roster."
+  },
+  {
     "name": "Jules Etienne",
     "source": "rekordbox",
     "genres": [
@@ -2711,6 +2963,18 @@
     ],
     "track_count": 1,
     "labels": []
+  },
+  {
+    "name": "K-LONE",
+    "source": "discovered",
+    "genres": [
+      "Bass",
+      "House"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Soundman Chronicles roster; frequent Parris collaborator."
   },
   {
     "name": "Ka Baird",
@@ -2834,6 +3098,18 @@
     "labels": []
   },
   {
+    "name": "King Midas Sound",
+    "source": "discovered",
+    "genres": [
+      "Dub",
+      "Bass"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Kiki Hitomi collaboration project with Kevin Martin (The Bug) and Roger Robinson."
+  },
+  {
     "name": "Knopha",
     "source": "rekordbox",
     "genres": [],
@@ -2854,6 +3130,28 @@
     ],
     "track_count": 1,
     "labels": []
+  },
+  {
+    "name": "Konduku",
+    "source": "discovered",
+    "genres": [
+      "Electronic"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Nous'klaer Audio roster."
+  },
+  {
+    "name": "Koreless",
+    "source": "discovered",
+    "genres": [
+      "Electronic"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Parris/Facta/K-LONE remixed his \"Joy Squad / Primes\" single."
   },
   {
     "name": "Krakatau",
@@ -3052,6 +3350,29 @@
     "labels": []
   },
   {
+    "name": "Lamin Fofana",
+    "source": "discovered",
+    "genres": [
+      "Electronic",
+      "Experimental"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "The Trilogy Tapes roster."
+  },
+  {
+    "name": "Lapalux",
+    "source": "discovered",
+    "genres": [
+      "Electronic"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Similar artist to Clap! Clap!."
+  },
+  {
     "name": "Last Nubian",
     "source": "rekordbox",
     "genres": [],
@@ -3084,6 +3405,18 @@
     ],
     "track_count": 1,
     "labels": []
+  },
+  {
+    "name": "Lena Willikens",
+    "source": "discovered",
+    "genres": [
+      "Electronic",
+      "Experimental"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Cómeme-associated artist."
   },
   {
     "name": "Leonce",
@@ -3370,17 +3703,31 @@
     "labels": []
   },
   {
+    "name": "Mateo Kingman",
+    "source": "discovered",
+    "genres": [
+      "Latin American electronic"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "ZZK/AYA Records roster (Ecuador)."
+  },
+  {
     "name": "Matias Aguayo",
     "source": "rekordbox",
     "genres": [
-      "Electronic"
+      "Electronic",
+      "Global Club",
+      "House"
     ],
     "playlists": [
       "Bass",
       "slow"
     ],
     "track_count": 2,
-    "labels": []
+    "labels": [],
+    "notes": "Cómeme label founder."
   },
   {
     "name": "Matica",
@@ -3587,6 +3934,28 @@
     ],
     "track_count": 1,
     "labels": []
+  },
+  {
+    "name": "Motor City Drum Ensemble",
+    "source": "discovered",
+    "genres": [
+      "House"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Dekmantel roster."
+  },
+  {
+    "name": "Mount Kimbie",
+    "source": "discovered",
+    "genres": [
+      "Electronic"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Hotflush Recordings roster."
   },
   {
     "name": "Mukk",
@@ -3998,6 +4367,17 @@
     "labels": []
   },
   {
+    "name": "Palms Trax",
+    "source": "discovered",
+    "genres": [
+      "House"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Dekmantel roster."
+  },
+  {
     "name": "Panda Bear",
     "source": "rekordbox",
     "genres": [
@@ -4049,6 +4429,17 @@
     "labels": []
   },
   {
+    "name": "Paul Johnson",
+    "source": "discovered",
+    "genres": [
+      "Chicago House"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Cajual Records roster."
+  },
+  {
     "name": "Payfone",
     "source": "rekordbox",
     "genres": [
@@ -4083,6 +4474,29 @@
     ],
     "track_count": 1,
     "labels": []
+  },
+  {
+    "name": "Peverelist",
+    "source": "discovered",
+    "genres": [
+      "UK Bass",
+      "Techno"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Similar artist to Azu Tiwaline; Bristol dub-techno/bass figure."
+  },
+  {
+    "name": "Philipp Gorbachev",
+    "source": "discovered",
+    "genres": [
+      "House"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Cómeme roster (Moscow)."
   },
   {
     "name": "Pierre Kwenders",
@@ -4172,6 +4586,18 @@
     "labels": []
   },
   {
+    "name": "Rabit",
+    "source": "discovered",
+    "genres": [
+      "Bass",
+      "Experimental"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Soundman Chronicles roster."
+  },
+  {
     "name": "Ramzi",
     "source": "rekordbox",
     "genres": [
@@ -4252,6 +4678,18 @@
     "labels": []
   },
   {
+    "name": "Red Axes",
+    "source": "discovered",
+    "genres": [
+      "Electronic",
+      "Post-punk"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Multi Culti roster."
+  },
+  {
     "name": "Redrago",
     "source": "rekordbox",
     "genres": [
@@ -4305,13 +4743,26 @@
     "name": "Romare",
     "source": "rekordbox",
     "genres": [
-      "Electronic"
+      "Electronic",
+      "Sample-based"
     ],
     "playlists": [
       "slow"
     ],
     "track_count": 1,
-    "labels": []
+    "labels": [],
+    "notes": "Similar artist to Clap! Clap!; also already crops up via label comps."
+  },
+  {
+    "name": "Ron Trent",
+    "source": "discovered",
+    "genres": [
+      "Chicago House"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Glenn Underground's second-wave Chicago house contemporary."
   },
   {
     "name": "Roska",
@@ -4361,6 +4812,17 @@
     "labels": []
   },
   {
+    "name": "Sano",
+    "source": "discovered",
+    "genres": [
+      "House"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Cómeme roster (Medellín)."
+  },
+  {
     "name": "Sansibar",
     "source": "rekordbox",
     "genres": [
@@ -4376,13 +4838,16 @@
     "name": "Sascha Funke",
     "source": "rekordbox",
     "genres": [
-      "Electronic"
+      "Electronic",
+      "House",
+      "Techno"
     ],
     "playlists": [
       "Bass"
     ],
     "track_count": 1,
-    "labels": []
+    "labels": [],
+    "notes": "Multi Culti roster."
   },
   {
     "name": "Satanicpornocultshop",
@@ -4757,6 +5222,17 @@
     "labels": []
   },
   {
+    "name": "Son Rompe Pera",
+    "source": "discovered",
+    "genres": [
+      "Cumbia"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "ZZK Records roster (Mexico)."
+  },
+  {
     "name": "Sonny Okosun",
     "source": "rekordbox",
     "genres": [
@@ -4866,6 +5342,17 @@
     ],
     "track_count": 3,
     "labels": []
+  },
+  {
+    "name": "Suso Saíz",
+    "source": "discovered",
+    "genres": [
+      "Ambient"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Music From Memory reissue artist."
   },
   {
     "name": "T5UMUT5UMU",
@@ -5084,13 +5571,15 @@
     "name": "Traxman",
     "source": "rekordbox",
     "genres": [
-      "Electronic"
+      "Electronic",
+      "Footwork"
     ],
     "playlists": [
       "Bass"
     ],
     "track_count": 1,
-    "labels": []
+    "labels": [],
+    "notes": "Planet Mu roster."
   },
   {
     "name": "TRE'BORE",
@@ -5208,6 +5697,30 @@
     ],
     "track_count": 1,
     "labels": []
+  },
+  {
+    "name": "Untold",
+    "source": "discovered",
+    "genres": [
+      "Bass",
+      "Techno"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Hotflush Recordings roster."
+  },
+  {
+    "name": "upsammy",
+    "source": "discovered",
+    "genres": [
+      "Techno",
+      "Electronic"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Dekmantel / Nous'klaer Audio roster."
   },
   {
     "name": "UPZ & Black Motion",
@@ -5335,6 +5848,28 @@
     "labels": []
   },
   {
+    "name": "Wata Igarashi",
+    "source": "discovered",
+    "genres": [
+      "Techno"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Dekmantel roster."
+  },
+  {
+    "name": "WEN",
+    "source": "discovered",
+    "genres": [
+      "Bass"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Soundman Chronicles roster."
+  },
+  {
     "name": "William Onyeabor",
     "source": "rekordbox",
     "genres": [
@@ -5381,6 +5916,40 @@
     "labels": []
   },
   {
+    "name": "Young Marco",
+    "source": "discovered",
+    "genres": [
+      "House",
+      "Balearic"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Dekmantel roster; also released on Music From Memory."
+  },
+  {
+    "name": "Yu Su",
+    "source": "discovered",
+    "genres": [
+      "Electronic"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Music From Memory roster."
+  },
+  {
+    "name": "Yugen Blakrok",
+    "source": "discovered",
+    "genres": [
+      "Hip-Hop/Rap"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "I.O.T Records roster."
+  },
+  {
     "name": "Yuu Udagawa",
     "source": "rekordbox",
     "genres": [],
@@ -5415,5 +5984,16 @@
     ],
     "track_count": 2,
     "labels": []
+  },
+  {
+    "name": "Zongamin",
+    "source": "discovered",
+    "genres": [
+      "Electronic"
+    ],
+    "labels": [],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Multi Culti roster."
   }
 ]
