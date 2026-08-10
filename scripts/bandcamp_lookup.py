@@ -6,6 +6,10 @@ Usage:
 
 Prints JSON: {"type": "album"|"track", "id": "...", "iframe_src": "...", "source_url": "..."}
 or {"error": "..."} if it couldn't be resolved (e.g. not a Bandcamp track/album page).
+
+Note: this fetches bandcamp.com directly, which the Claude Code Remote
+sandbox's network egress policy blocks. Run this from your own machine, not
+from inside the daily research routine -- see RUNBOOK.md.
 """
 import html as htmllib
 import json

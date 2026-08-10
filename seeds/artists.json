@@ -3705,6 +3705,20 @@
     "labels": []
   },
   {
+    "name": "Martinou",
+    "source": "discovered",
+    "genres": [
+      "House",
+      "Ambient Techno"
+    ],
+    "labels": [
+      "Mule Musiq"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Malmö, Sweden producer. Atmospheric deep house / melodic breakbeat."
+  },
+  {
     "name": "Matanza",
     "source": "rekordbox",
     "genres": [
@@ -5343,6 +5357,20 @@
     "labels": []
   },
   {
+    "name": "Steve Rachmad",
+    "source": "discovered",
+    "genres": [
+      "Techno",
+      "Ambient"
+    ],
+    "labels": [
+      "Dekmantel Records"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Dutch techno pioneer (45 years active); \"Light And Time\" (Aug 2026) is his first Dekmantel album, ambient/orchestral turn."
+  },
+  {
     "name": "Steve Spacek",
     "source": "rekordbox",
     "genres": [
@@ -5889,7 +5917,9 @@
     "genres": [
       "Techno"
     ],
-    "labels": [],
+    "labels": [
+      "Dekmantel Records"
+    ],
     "playlists": [],
     "track_count": 0,
     "notes": "Dekmantel roster."

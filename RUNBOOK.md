@@ -39,11 +39,16 @@ found labels/artists into `seeds/*.json`.
 search "labels like X", "artists similar to Y", Bandcamp's "fans also like",
 RA's related-artists, genre-adjacent recommendation lists/blogs.
 
-Use web search and page fetches freely. Prefer primary sources: Bandcamp,
-Resident Advisor, label sites, artist Instagram bios/posts. Instagram's own
-search/API access is unreliable for automation — treat it as a place to
-*verify* an artist/label's current activity via their public profile page,
-not a primary crawling target.
+**Use WebSearch only — do not use WebFetch, curl, or `bandcamp_lookup.py` to
+fetch pages directly.** This environment's network egress is locked down to a
+narrow allowlist; direct requests to bandcamp.com, ra.co, instagram.com, and
+most label/artist sites are blocked at the proxy (confirmed: `curl` and
+WebFetch both fail with `EGRESS_BLOCKED`/403 against these domains — this is
+an org-level policy, not a transient error, so don't retry it). WebSearch
+works fine and its result snippets are consistently enough to get an artist
+bio, release date, label affiliation, and the canonical Bandcamp/RA/website
+URL to link to. Do all research through WebSearch; never block on a direct
+fetch.
 
 ## 2. Curate
 
@@ -68,11 +73,14 @@ Follow the schema in `seeds/SCHEMA.md`. In particular:
 - `source_note`: one line making the connection concrete, e.g. "Remix collab
   with Peverelist, already in your sets" or "Fans-also-like from Livity
   Sound."
-- `bandcamp_embed`: if there's a Bandcamp link, resolve it with
-  `python3 scripts/bandcamp_lookup.py <url>` and use the returned
-  `iframe_src`. If that fails or there's no Bandcamp page, leave it `null`
-  and make sure `links`/`purchase_link` gives a fast way to listen elsewhere
-  (RA, artist site, etc).
+- `bandcamp_embed`: leave this `null`. Resolving it requires fetching the
+  Bandcamp page directly (`scripts/bandcamp_lookup.py`), which doesn't work
+  from inside this environment (see the egress note above) — it's kept in
+  the repo for the DJ to run from their own machine if they want to backfill
+  embeds later. Always populate `links.bandcamp` (or `purchase_link`) with
+  the direct URL from a WebSearch result instead — that's the reliable path
+  and the site already renders a "Buy / Listen" button from it when there's
+  no embed.
 
 ## 4. Publish
 

@@ -68,6 +68,16 @@
     "notes": "Amsterdam. Dazion's \"Grooveboxxx\" is on here."
   },
   {
+    "name": "Delsin Records",
+    "source": "discovered",
+    "genres": [
+      "Techno",
+      "Electronic"
+    ],
+    "links": {},
+    "notes": "Amsterdam label. Released Forest Drive West's \"Mantis 1920\" (June 2026)."
+  },
+  {
     "name": "FuFu Records",
     "source": "discovered",
     "genres": [
@@ -178,6 +188,18 @@
       "bandcamp": "https://idlehands.bandcamp.com"
     },
     "notes": "Bristol label/shop tied to Parris's scene. Inactive since 2022 -- historical context, not an active watch target."
+  },
+  {
+    "name": "Kalahari Oyster Cult",
+    "source": "discovered",
+    "genres": [
+      "House",
+      "Electronic"
+    ],
+    "links": {
+      "bandcamp": "https://kalaharioystercult.bandcamp.com"
+    },
+    "notes": "Amsterdam label run by Colin Volvert (Rey Colino). Released Nicola Cruz's \"Telemagenta\" EP (March 2026)."
   },
   {
     "name": "Kebrada",
@@ -314,6 +336,17 @@
       "bandcamp": "https://oathcreations.bandcamp.com"
     },
     "notes": "Istanbul label."
+  },
+  {
+    "name": "Otheroom Records",
+    "source": "discovered",
+    "genres": [
+      "Techno"
+    ],
+    "links": {
+      "bandcamp": "https://otheroomrecords.bandcamp.com"
+    },
+    "notes": "Closet Yi's own personal imprint, Seoul."
   },
   {
     "name": "Paesaggi",

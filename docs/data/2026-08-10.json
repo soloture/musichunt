@@ -1,0 +1,90 @@
+{
+  "date": "2026-08-10",
+  "picks": [
+    {
+      "name": "Steve Rachmad",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on Dekmantel Records, watched via your Dazion/Wata Igarashi connections.",
+      "genres": ["Techno", "Ambient"],
+      "bio": "Dutch techno pioneer (recording since the late 1980s as Sterac and under his own name) marking 45 years in electronic music. \"Light And Time\", out August 7, 2026, is his first album for Dekmantel.",
+      "why_listen": "A deliberate change of direction — orchestral samples arranged in Kontakt, layered over his usual synth/drum-machine language, making it his most ambient record to date. Good for a room that wants texture over drive.",
+      "links": {
+        "bandcamp": "https://sterac.bandcamp.com/album/light-and-time",
+        "website": "https://www.steverachmad.com"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://sterac.bandcamp.com/album/light-and-time"
+    },
+    {
+      "name": "Martinou",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on Mule Musiq.",
+      "genres": ["House", "Ambient Techno"],
+      "bio": "Producer from Malmö, Sweden. \"Ever Changing EP\" (July 17, 2026) is his second release on Mule Musiq, following the \"Matter\" EP.",
+      "why_listen": "Dreamy, atmospheric deep house with a melodic breakbeat streak that nods to 90s ambient techno — a good change-of-pace record for a set that needs to breathe.",
+      "links": {
+        "bandcamp": "https://mulemusiq.bandcamp.com/album/ever-changing-ep"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://mulemusiq.bandcamp.com/album/ever-changing-ep"
+    },
+    {
+      "name": "Wata Igarashi",
+      "type": "artist",
+      "source_type": "associated",
+      "source_note": "Dekmantel roster mate of Steve Rachmad (both on the label's UFO-adjacent techno side).",
+      "genres": ["Techno"],
+      "bio": "Japanese techno producer known for hypnotic, psychedelic long-form tracks. \"Kaleidoscopic\" is his EP for Dekmantel's UFO series, which leans into the festival's darker, more experimental stages.",
+      "why_listen": "Trance-adjacent techno that builds slowly and stays hypnotic rather than peak-time obvious — pairs well with a Steve Rachmad pick tonight if you want a matched pair to work with.",
+      "links": {
+        "bandcamp": "https://wataigarashi.bandcamp.com/album/kaleidoscopic"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://wataigarashi.bandcamp.com/album/kaleidoscopic"
+    },
+    {
+      "name": "Nicola Cruz",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library (multiple tracks/labels seeded). New EP since.",
+      "genres": ["Electronic", "Global Club"],
+      "bio": "Quito, Ecuador producer, previously seeded via Multi Culti and Nous'klaer Audio. \"Telemagenta\" EP (March 27, 2026) is out on Kalahari Oyster Cult, recorded and cut in Quito.",
+      "why_listen": "Four tracks (Telemagenta, RainDrop, Vessel, Heliocenter) that go back to his club-ready side after some more ambient-leaning recent work — described as him \"flexing versatility\" again.",
+      "links": {
+        "bandcamp": "https://kalaharioystercult.bandcamp.com/album/telemagenta-ep"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://kalaharioystercult.bandcamp.com/album/telemagenta-ep"
+    },
+    {
+      "name": "Closet Yi",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library (Bar/Bass/House_Percussive/Hyperjazz/Program_051726 playlists).",
+      "genres": ["Techno"],
+      "bio": "Seoul producer, previously seeded with labels Hotflush, Honey Badger, Gudu, Curving Track, Silk Road Sounds. \"Dynamisante\", \"Dynamometro\" and \"Dynamissimo\" (April 3, 2026) came out on Otheroom Records — her own personal imprint.",
+      "why_listen": "Straight techno from her own label rather than a guest slot elsewhere — a good read on where her sound is headed on her own terms.",
+      "links": {
+        "bandcamp": "https://closetyi.bandcamp.com/track/dynamisante"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://closetyi.bandcamp.com/track/dynamisante"
+    },
+    {
+      "name": "Forest Drive West",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "Similar artist to Azu Tiwaline (already seeded) -- stripped-down hypnotic techno.",
+      "genres": ["Techno"],
+      "bio": "Joe Baker, producer from Plaistow, East London. \"Mantis 1920\" (June 5, 2026) is an 8-track album on Delsin Records, with guest spots from Patrick Russell and DB1.",
+      "why_listen": "Spans ambient/spacious downtempo through to techy drum funk and dancehall-coded swagger in one record -- useful if you want a single release that covers a few different moods in your set.",
+      "links": {
+        "bandcamp": "https://forestdrivewest.bandcamp.com/album/mantis-1920"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://forestdrivewest.bandcamp.com/album/mantis-1920"
+    }
+  ]
+}
