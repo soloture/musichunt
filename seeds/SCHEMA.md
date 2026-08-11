@@ -74,7 +74,8 @@ regenerated from whatever's re-imported.
         "bandcamp": "https://...",
         "website": "https://...",
         "instagram": "https://...",
-        "ra": "https://ra.co/..."
+        "ra": "https://ra.co/...",
+        "soundcloud": "https://soundcloud.com/..."
       },
       "bandcamp_embed": {
         "type": "album",

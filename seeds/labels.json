@@ -1,5 +1,17 @@
 [
   {
+    "name": "Altered Circuits",
+    "source": "discovered",
+    "genres": [
+      "Techno",
+      "House"
+    ],
+    "links": {
+      "bandcamp": "https://alteredcircuitsbrussels.bandcamp.com"
+    },
+    "notes": "Brussels label. Released Mogwaa's \"Ionic\" on the Various 2 comp (Feb 2026)."
+  },
+  {
     "name": "Axis",
     "source": "manual",
     "genres": [
@@ -442,6 +454,18 @@
       "bandcamp": "https://silkroadsounds.bandcamp.com"
     },
     "notes": "Hong Kong via London, launched by Yeti Out (2018). Released Closet Yi's Riverside Pawn Shop."
+  },
+  {
+    "name": "Smugglers Way",
+    "source": "discovered",
+    "genres": [
+      "Electronic",
+      "Global Club"
+    ],
+    "links": {
+      "bandcamp": "https://elaminus.bandcamp.com/album/qu-les-pas-a-mis-amigos"
+    },
+    "notes": "Label under the Domino umbrella. Released Ela Minus & Nick León's \"qué les pasó a mis amigos?\" EP (Aug 2026)."
   },
   {
     "name": "Soundman Chronicles",

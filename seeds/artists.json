@@ -1390,6 +1390,20 @@
     "labels": []
   },
   {
+    "name": "Debit",
+    "source": "discovered",
+    "genres": [
+      "Techno",
+      "Guaracha"
+    ],
+    "labels": [
+      "N.A.A.F.I"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "NYC producer/visual artist (also half of HD XD). Border-crossing guaracha-techno hybrid."
+  },
+  {
     "name": "Deekapz",
     "source": "rekordbox",
     "genres": [
@@ -1912,6 +1926,19 @@
     ],
     "track_count": 1,
     "labels": []
+  },
+  {
+    "name": "Ela Minus",
+    "source": "discovered",
+    "genres": [
+      "Electronic"
+    ],
+    "labels": [
+      "Smugglers Way"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Colombian producer/synth artist, now collaborating with Nick León."
   },
   {
     "name": "Elias Fassos & RisK",
@@ -2859,6 +2886,19 @@
     "playlists": [],
     "track_count": 0,
     "notes": "Planet Mu roster."
+  },
+  {
+    "name": "Jeff Mills",
+    "source": "discovered",
+    "genres": [
+      "Techno"
+    ],
+    "labels": [
+      "Axis"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Detroit techno originator (ex-Underground Resistance), runs Axis Records."
   },
   {
     "name": "Jesse You",
@@ -4207,6 +4247,20 @@
     "labels": []
   },
   {
+    "name": "Nick León",
+    "source": "discovered",
+    "genres": [
+      "Techno",
+      "Global Club"
+    ],
+    "labels": [
+      "Smugglers Way"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Miami producer working at the intersection of techno and Latin club rhythms, N.A.A.F.I-adjacent scene."
+  },
+  {
     "name": "Nick Muir, John Digweed",
     "source": "rekordbox",
     "genres": [
@@ -5472,6 +5526,20 @@
     ],
     "track_count": 1,
     "labels": []
+  },
+  {
+    "name": "Tayhana",
+    "source": "discovered",
+    "genres": [
+      "Techno",
+      "Global Club"
+    ],
+    "labels": [
+      "N.A.A.F.I"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Argentine DJ/producer, N.A.A.F.I roster -- hard-dance-leaning club sound."
   },
   {
     "name": "Te'amir",

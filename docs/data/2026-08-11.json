@@ -1,0 +1,100 @@
+{
+  "date": "2026-08-11",
+  "picks": [
+    {
+      "name": "Debit",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New album on N.A.A.F.I.",
+      "genres": ["Techno", "Guaracha"],
+      "bio": "NYC-based producer and visual artist (also half of the duo HD XD). \"Potpourri\" (June 12, 2026) is her new album on the Mexico City label N.A.A.F.I -- 13 tracks blending guaracha, acid house, and industrial techno.",
+      "why_listen": "Bludgeoning US-techno-style rhythms crossed with the triplet syncopation of Mexican guaracha -- ferocious and uncompromising, good for pushing a room somewhere less obvious than straight techno.",
+      "links": {
+        "bandcamp": "https://yourdebit.bandcamp.com/album/potpourri"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://yourdebit.bandcamp.com/album/potpourri",
+      "release": {
+        "title": "Potpourri",
+        "release_type": "album",
+        "date": "2026-06-12"
+      }
+    },
+    {
+      "name": "Jeff Mills",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New album on his own label, Axis Records.",
+      "genres": ["Techno"],
+      "bio": "Detroit techno originator (Underground Resistance) who's run Axis Records since 1992. \"The Trip To Vega\" (June 19, 2026) is a conceptual album set in the year 2097, imagining humanity leaving a used-up Earth for another star system.",
+      "why_listen": "A concept record from one of techno's foundational figures -- still rigorously functional, but with the sci-fi narrative ambition that's defined his solo work for decades.",
+      "links": {
+        "website": "https://www.axisrecords.com/product/jeff-mills-the-trip-to-vega-vinyl/"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://www.axisrecords.com/product/jeff-mills-the-trip-to-vega-vinyl/",
+      "release": {
+        "title": "The Trip To Vega",
+        "release_type": "album",
+        "date": "2026-06-19"
+      }
+    },
+    {
+      "name": "Mogwaa",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library (LGR playlist).",
+      "genres": ["Techno", "House"],
+      "bio": "South Korean producer, previously seeded with labels Star Creature, Spring Theory, Klasse Wrecks, Gudu, Clique, Zen2000, MM Discos, and his own Walls and Pals. \"Ionic\" (Feb 24, 2026) is his contribution to Altered Circuits' four-track \"Various 2\" compilation.",
+      "why_listen": "Quirky, pointillist hooks over 909 kicks and a rolling sub pattern -- a more straight-up club cut than some of his boogie/disco output, worth knowing if you only had him filed as a boogie producer.",
+      "links": {
+        "bandcamp": "https://alteredcircuitsbrussels.bandcamp.com/album/various-2"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://alteredcircuitsbrussels.bandcamp.com/album/various-2",
+      "release": {
+        "title": "Ionic (Various 2 comp)",
+        "release_type": "compilation",
+        "date": "2026-02-24"
+      }
+    },
+    {
+      "name": "Tayhana",
+      "type": "artist",
+      "source_type": "associated",
+      "source_note": "N.A.A.F.I roster mate of Debit (above).",
+      "genres": ["Techno", "Global Club"],
+      "bio": "Argentine DJ/producer on the N.A.A.F.I roster, known for a hard-dance-leaning club sound. Her remix of Nathy Peluso's \"Aprender A Amar\" (from CLUB GRASA) came out as a single on May 12, 2026.",
+      "why_listen": "A pop source track flipped into something club-ready -- useful if you want to bring a recognizable vocal into a harder set without it feeling like a straight pop edit.",
+      "links": {
+        "soundcloud": "https://soundcloud.com/nathy-peluso/aprender-a-amar-tayhana-remix"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": null,
+      "release": {
+        "title": "Aprender A Amar (Tayhana Remix)",
+        "release_type": "single",
+        "date": "2026-05-12"
+      }
+    },
+    {
+      "name": "Ela Minus & Nick León",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "Similar scene to Debit -- Latin-rhythm-and-techno hybrid, N.A.A.F.I-adjacent (Nick León is part of that same Miami/Latin club wave).",
+      "genres": ["Electronic", "Techno", "Global Club"],
+      "bio": "Colombian producer Ela Minus and Miami producer Nick León's new collaborative EP \"qué les pasó a mis amigos?\" (Aug 7, 2026) is out on Smugglers Way, a label under the Domino umbrella. A 12\" with remixes from Loidis, Guedra Guedra, and Brenda follows in November.",
+      "why_listen": "Two distinctive, idiosyncratic voices fused into club-energy tracks -- fresh (four days old) and from two producers worth tracking individually as well as together.",
+      "links": {
+        "bandcamp": "https://elaminus.bandcamp.com/album/qu-les-pas-a-mis-amigos"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://elaminus.bandcamp.com/album/qu-les-pas-a-mis-amigos",
+      "release": {
+        "title": "qué les pasó a mis amigos?",
+        "release_type": "EP",
+        "date": "2026-08-07"
+      }
+    }
+  ]
+}

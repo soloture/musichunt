@@ -25,6 +25,7 @@ SOURCE_LABELS = {
 LINK_ORDER = [
     ("bandcamp", "Bandcamp"),
     ("ra", "Resident Advisor"),
+    ("soundcloud", "SoundCloud"),
     ("website", "Website"),
     ("instagram", "Instagram"),
 ]
