@@ -520,6 +520,21 @@
     "labels": []
   },
   {
+    "name": "BAE BAE",
+    "source": "discovered",
+    "genres": [
+      "Footwork",
+      "Garage",
+      "Jungle"
+    ],
+    "labels": [
+      "Planet Mu"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Kumi James, Los Angeles. Runs Hood Rave events."
+  },
+  {
     "name": "Bakongo",
     "source": "rekordbox",
     "genres": [
@@ -4335,6 +4350,20 @@
     "labels": []
   },
   {
+    "name": "Nuevos Rios",
+    "source": "discovered",
+    "genres": [
+      "World",
+      "Latin American electronic"
+    ],
+    "labels": [
+      "ZZK Records"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Collaboration between Colombia's Canalón de Timbiquí (Nidia Góngora) and Toulouse trio Reco Reco."
+  },
+  {
     "name": "Nídia & Valentina",
     "source": "rekordbox",
     "genres": [],
@@ -4656,6 +4685,19 @@
     ],
     "track_count": 1,
     "labels": []
+  },
+  {
+    "name": "Prisma",
+    "source": "discovered",
+    "genres": [
+      "Latin American electronic"
+    ],
+    "labels": [
+      "Kebrada"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Frequent Dengue Dengue Dengue collaborator."
   },
   {
     "name": "Private Agenda",
@@ -5414,6 +5456,21 @@
     ],
     "track_count": 1,
     "labels": []
+  },
+  {
+    "name": "Speaker Music",
+    "source": "discovered",
+    "genres": [
+      "Techno",
+      "Jazz",
+      "IDM/Experimental"
+    ],
+    "labels": [
+      "Planet Mu"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "DeForrest Brown Jr. Planet Mu roster mate of BAE BAE."
   },
   {
     "name": "Spoek Mathambo",

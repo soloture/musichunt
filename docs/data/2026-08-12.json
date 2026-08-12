@@ -1,0 +1,100 @@
+{
+  "date": "2026-08-12",
+  "picks": [
+    {
+      "name": "BAE BAE",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New EP on Planet Mu.",
+      "genres": ["Footwork", "Garage", "Jungle"],
+      "bio": "Kumi James, DJ/producer/activist from Los Angeles, runs the Hood Rave party series. \"gauze\" (July 24, 2026) is her debut EP for Planet Mu.",
+      "why_listen": "Percussion-centered EP moving through dissonant garage, footwork and jungle, built around real recordings from Gaza -- grief and urgency rendered as rhythm rather than just a message. Heavy, purposeful, still functional for a floor.",
+      "links": {
+        "bandcamp": "https://baebaemusic.bandcamp.com/album/gauze"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://baebaemusic.bandcamp.com/album/gauze",
+      "release": {
+        "title": "gauze",
+        "release_type": "EP",
+        "date": "2026-07-24"
+      }
+    },
+    {
+      "name": "Speaker Music",
+      "type": "artist",
+      "source_type": "associated",
+      "source_note": "Planet Mu roster mate of BAE BAE (above).",
+      "genres": ["Techno", "Jazz", "IDM/Experimental"],
+      "bio": "DeForrest Brown Jr.'s project, closing out a Planet Mu partnership that started in 2019. \"Synoptic Audio\" (July 10, 2026) is billed as his final album for the label.",
+      "why_listen": "Live electronic improvisation -- dense drone, played keyboards and drums, somewhere between free jazz and techno. Not a peak-time tool, but a strong one for a set that wants to slow down and think for a minute.",
+      "links": {
+        "bandcamp": "https://speakermusic.bandcamp.com/album/synoptic-audio"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://speakermusic.bandcamp.com/album/synoptic-audio",
+      "release": {
+        "title": "Synoptic Audio",
+        "release_type": "album",
+        "date": "2026-07-10"
+      }
+    },
+    {
+      "name": "Dengue Dengue Dengue",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already seeded (Peru duo behind Kebrada, previously featured for their N.A.A.F.I-era work).",
+      "genres": ["Latin American electronic"],
+      "bio": "Lima duo Felipe Salmon and Rafael Pereira, running their own label Kebrada. \"Abisal\" (Aug 6, 2026) is a 6-track collaborative album with Prisma, released under the DNGDNGDNG name.",
+      "why_listen": "Six days old. A survey of \"the depths\" -- chemical/geological/organic textures over their usual percussion-forward electronic base. One track, \"Ripio,\" features Jaijiu.",
+      "links": {
+        "bandcamp": "https://denguedenguedengue.bandcamp.com/album/abisal"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://denguedenguedengue.bandcamp.com/album/abisal",
+      "release": {
+        "title": "Abisal",
+        "release_type": "album",
+        "date": "2026-08-06"
+      }
+    },
+    {
+      "name": "Kush Jones",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "Similar scene to BAE BAE -- jungle/footwork, Juke Bounce Werk collective. Also already in your library (Bass/House playlists) -- good cross-check on this connection.",
+      "genres": ["Jungle", "Footwork"],
+      "bio": "Bronx producer, member of the international Juke Bounce Werk collective alongside DJ Swisha, DJ Noir, and Jae Drago. \"Building\" (March 27, 2026) is a 3-track self-released EP.",
+      "why_listen": "Jungle/footwork fusion from someone who mostly self-releases -- \"Tekno Track\" (feat. Kanyon) is the one to start with if you want a quick read on the EP.",
+      "links": {
+        "bandcamp": "https://kushjones.bandcamp.com/album/building"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://kushjones.bandcamp.com/album/building",
+      "release": {
+        "title": "Building",
+        "release_type": "EP",
+        "date": "2026-03-27"
+      }
+    },
+    {
+      "name": "Nuevos Rios",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New album on ZZK Records.",
+      "genres": ["World", "Latin American electronic"],
+      "bio": "Collaboration between Colombia's Canalón de Timbiquí (led by Nidia Góngora, also known from Quantic/Ondatrópica/The Bongo Hop) and Toulouse trio Reco Reco. Self-titled album \"Nuevos Rios\" (March 27, 2026) is on ZZK Records.",
+      "why_listen": "Marimba, percussion and voice from Afro-Colombian tradition interlaced with keyboards, guitar and drums -- a hypnotic bridge between West Africa, the Caribbean, and club electronics. Good change-of-pace record, not a straight club tool.",
+      "links": {
+        "bandcamp": "https://nuevosrios.bandcamp.com/album/nuevos-rios"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://nuevosrios.bandcamp.com/album/nuevos-rios",
+      "release": {
+        "title": "Nuevos Rios",
+        "release_type": "album",
+        "date": "2026-03-27"
+      }
+    }
+  ]
+}
