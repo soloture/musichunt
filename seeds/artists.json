@@ -4145,6 +4145,22 @@
     "labels": []
   },
   {
+    "name": "Mytron",
+    "source": "discovered",
+    "genres": [
+      "Balearic",
+      "Downtempo",
+      "Techno",
+      "Nu-Disco"
+    ],
+    "labels": [
+      "Multi Culti"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "London producer/DJ/multi-instrumentalist. Also releases on XXX, Nein!, Bongo Joe, Kalahari Oyster Cult, Codek."
+  },
+  {
     "name": "Nadia Rose",
     "source": "rekordbox",
     "genres": [
@@ -6210,11 +6226,14 @@
     "name": "Zongamin",
     "source": "discovered",
     "genres": [
+      "Post-punk",
       "Electronic"
     ],
-    "labels": [],
+    "labels": [
+      "Multi Culti"
+    ],
     "playlists": [],
     "track_count": 0,
-    "notes": "Multi Culti roster."
+    "notes": "Susumu Mukai. Mytron's frequent collaborator (Congregate EP), also solo/O! Versions on Multi Culti."
   }
 ]

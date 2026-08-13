@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-13",
+  "picks": [
+    {
+      "name": "Mytron",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New solo album on Multi Culti.",
+      "genres": ["Balearic", "Downtempo", "Techno", "Nu-Disco"],
+      "bio": "London-based producer/DJ/multi-instrumentalist, previously working alongside Ofofo and Zongamin. \"Propeller\" (Jan 26, 2026) is his debut solo full-length for Multi Culti World Records, following outings on Kalahari Oyster Cult and Bongo Joe among others.",
+      "why_listen": "Dub, disco and krautrock tuned through his oscillators, most notably channeling Kraftwerk's compositional style -- a left-field pick for anyone wanting texture without leaving the groove.",
+      "links": {
+        "bandcamp": "https://mytron.bandcamp.com/album/propeller"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://mytron.bandcamp.com/album/propeller",
+      "release": {
+        "title": "Propeller",
+        "release_type": "album",
+        "date": "2026-01-26"
+      }
+    },
+    {
+      "name": "Zongamin",
+      "type": "artist",
+      "source_type": "associated",
+      "source_note": "Mytron's frequent collaborator (Congregate EP), Multi Culti roster.",
+      "genres": ["Post-punk", "Electronic"],
+      "bio": "Susumu Mukai's solo project, back after a long hiatus. \"STREET SURGERY 4 (+4)\" (Feb 7, 2026) reissues a 2020 Cafe OTO Takuroku session with four extra tracks, self-released via his own Bandcamp.",
+      "why_listen": "Angular, dubby post-punk-adjacent electronics from a different corner of the Mytron/Multi Culti orbit -- good for a set that wants rhythm without going straight house or techno.",
+      "links": {
+        "bandcamp": "https://zongamin.bandcamp.com/album/street-surgery-4-4"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://zongamin.bandcamp.com/album/street-surgery-4-4",
+      "release": {
+        "title": "STREET SURGERY 4 (+4)",
+        "release_type": "album",
+        "date": "2026-02-07"
+      }
+    },
+    {
+      "name": "Space Ghost & RAMZi",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Both already in your library -- Space Ghost (House playlist, \"Sea Snake Island\"/\"Endless Light\") and RAMZi (\"Piton\", \"La Nuit l'été 1996\").",
+      "genres": ["House", "Techno"],
+      "bio": "A remix pairing of two artists already in your sets. RAMZi's remix of Space Ghost's \"Emotional Healer\" (March 18, 2026) is out on the Copenhagen label Tartelet Records, also included on Space Ghost's remastered \"Dance Planet - Be Free Edition\".",
+      "why_listen": "Takes Space Ghost's warm, soulful house original into a techier, psychedelic RAMZi-flavored version -- a good way to bridge between two artists you already play without changing lanes entirely.",
+      "links": {
+        "bandcamp": "https://space-ghost.bandcamp.com/album/emotional-healer-ramzi-remix"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://space-ghost.bandcamp.com/album/emotional-healer-ramzi-remix",
+      "release": {
+        "title": "Emotional Healer (RAMZi Remix)",
+        "release_type": "single",
+        "date": "2026-03-18"
+      }
+    }
+  ]
+}
