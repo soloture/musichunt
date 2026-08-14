@@ -2868,6 +2868,20 @@
     "labels": []
   },
   {
+    "name": "J.O.S.H.U.A",
+    "source": "discovered",
+    "genres": [
+      "House"
+    ],
+    "labels": [
+      "Hotflush Recordings",
+      "Don't Just Records"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Live electronic musician/DJ/producer, runs Don't Just Records."
+  },
+  {
     "name": "Jad & The Ladyboy",
     "source": "rekordbox",
     "genres": [],
@@ -3393,6 +3407,19 @@
     ],
     "track_count": 2,
     "labels": []
+  },
+  {
+    "name": "LA MARR",
+    "source": "discovered",
+    "genres": [
+      "Deep House"
+    ],
+    "labels": [
+      "Music From Memory"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "New project by Ron Trent (already seeded), first in an ongoing Music From Memory series."
   },
   {
     "name": "Lady Jay",

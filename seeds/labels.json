@@ -90,6 +90,15 @@
     "notes": "Amsterdam label. Released Forest Drive West's \"Mantis 1920\" (June 2026)."
   },
   {
+    "name": "Don't Just Records",
+    "source": "discovered",
+    "genres": [
+      "House"
+    ],
+    "links": {},
+    "notes": "J.O.S.H.U.A's own label."
+  },
+  {
     "name": "FuFu Records",
     "source": "discovered",
     "genres": [
@@ -511,6 +520,18 @@
       "bandcamp": "https://starcreature.bandcamp.com"
     },
     "notes": "Chicago boogie/disco label. Mogwaa roster."
+  },
+  {
+    "name": "Strictly Jaz Unit Muzic",
+    "source": "discovered",
+    "genres": [
+      "Chicago House",
+      "Tech House"
+    ],
+    "links": {
+      "bandcamp": "https://strictlyjazunitmuzic.bandcamp.com"
+    },
+    "notes": "Glenn Underground's own label."
   },
   {
     "name": "Tartelet Records",

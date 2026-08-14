@@ -1,0 +1,81 @@
+{
+  "date": "2026-08-14",
+  "picks": [
+    {
+      "name": "LA MARR",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New EP on Music From Memory.",
+      "genres": ["Deep House"],
+      "bio": "New project conceived by Ron Trent, already in your library. \"Mood Programs - Extended Play\" (July 15, 2026) is a two-track release opening the first in an ongoing series on Music From Memory.",
+      "why_listen": "A fresh chapter from a deep house legend under a new name -- worth knowing before the alias gets crowded, and Music From Memory's curation is a reliable quality signal on its own.",
+      "links": {
+        "bandcamp": "https://music-from-memory.bandcamp.com/album/mood-programs-extended-play"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://music-from-memory.bandcamp.com/album/mood-programs-extended-play",
+      "release": {
+        "title": "Mood Programs - Extended Play",
+        "release_type": "EP",
+        "date": "2026-07-15"
+      }
+    },
+    {
+      "name": "Facta",
+      "type": "artist",
+      "source_type": "associated",
+      "source_note": "Soundman Chronicles roster (already seeded via Parris).",
+      "genres": ["Bass", "House"],
+      "bio": "UK producer, already seeded via the Soundman Chronicles/Parris/K-LONE cluster. \"witness\" (June 26, 2026) is a three-track companion EP to his 2025 album \"GULP\".",
+      "why_listen": "Darker and more club-ready than GULP's brighter tones -- murkier, heavier energy built with the dancefloor specifically in mind rather than headphone listening.",
+      "links": {
+        "bandcamp": "https://facta.bandcamp.com/album/witness"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://facta.bandcamp.com/album/witness",
+      "release": {
+        "title": "witness",
+        "release_type": "EP",
+        "date": "2026-06-26"
+      }
+    },
+    {
+      "name": "J.O.S.H.U.A",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New album on Hotflush Recordings.",
+      "genres": ["House"],
+      "bio": "Live electronic musician, DJ, producer, and label head of his own Don't Just Records. \"Three Phase\" (March 20, 2026), including the track \"Love Is The Answer\", is out on Hotflush.",
+      "why_listen": "135 BPM house built for live performance rather than just studio production -- a slightly different energy than a purely DJ-focused Hotflush release.",
+      "links": {
+        "bandcamp": "https://mynamesjoshua.bandcamp.com/album/three-phase"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://mynamesjoshua.bandcamp.com/album/three-phase",
+      "release": {
+        "title": "Three Phase",
+        "release_type": "album",
+        "date": "2026-03-20"
+      }
+    },
+    {
+      "name": "Glenn Underground",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "Same Chicago deep house lineage as Ron Trent/LA MARR (above) -- also already in your library.",
+      "genres": ["Chicago House", "Deep House"],
+      "bio": "Founding member of the Strictly Jaz Unit, raised on disco and freeform jazz in Chicago's Southside, already in your library. \"Blast From The Past Vol.1\" (Feb 6, 2026) is out on his own Strictly Jaz Unit Muzic.",
+      "why_listen": "A veteran's own archive-adjacent release -- reliable, jazz-inflected Chicago house from one of the scene's real originators, good for a set that wants warmth and history rather than novelty.",
+      "links": {
+        "bandcamp": "https://strictlyjazunitmuzic.bandcamp.com/album/blast-from-the-past-vol-1"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://strictlyjazunitmuzic.bandcamp.com/album/blast-from-the-past-vol-1",
+      "release": {
+        "title": "Blast From The Past Vol.1",
+        "release_type": "album",
+        "date": "2026-02-06"
+      }
+    }
+  ]
+}
