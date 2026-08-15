@@ -4417,6 +4417,20 @@
     "labels": []
   },
   {
+    "name": "Oceanic",
+    "source": "discovered",
+    "genres": [
+      "Techno",
+      "Breakbeat"
+    ],
+    "labels": [
+      "Nous'klaer Audio"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Dutch producer, Nous'klaer Audio mainstay. Detroit/UK techno roots with post-modern breakbeat leanings."
+  },
+  {
     "name": "Offshore and Coen",
     "source": "rekordbox",
     "genres": [
@@ -5979,7 +5993,9 @@
       "Techno",
       "Electronic"
     ],
-    "labels": [],
+    "labels": [
+      "PAN"
+    ],
     "playlists": [],
     "track_count": 0,
     "notes": "Dekmantel / Nous'klaer Audio roster."

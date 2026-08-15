@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-15",
+  "picks": [
+    {
+      "name": "Oceanic",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New EP on Nous'klaer Audio.",
+      "genres": ["Techno", "Breakbeat"],
+      "bio": "Dutch producer and Nous'klaer Audio mainstay, drawing on classic Detroit and UK techno while working in post-modern breakbeat techno. \"ICI\" (Aug 14, 2026 -- one day old) is a 4-track EP: two rhythmic club cuts bookending two slower, vibier tracks.",
+      "why_listen": "Uncluttered, groove-focused house and techno with real dancefloor architecture -- exactly the kind of functional-but-not-boring record worth grabbing the day it drops.",
+      "links": {
+        "bandcamp": "https://nousklaer.bandcamp.com/album/ici"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://nousklaer.bandcamp.com/album/ici",
+      "release": {
+        "title": "ICI",
+        "release_type": "EP",
+        "date": "2026-08-14"
+      }
+    },
+    {
+      "name": "upsammy",
+      "type": "artist",
+      "source_type": "associated",
+      "source_note": "Already seeded via Dekmantel; also released on Nous'klaer Audio historically, same Dutch scene as Oceanic (above).",
+      "genres": ["Experimental", "IDM/Experimental"],
+      "bio": "Already in your seeds via the Dekmantel roster research. \"Seismo\" (April 10, 2026) is a collaborative album with percussionist Valentina Magaletti on PAN, born out of a commission to soundtrack an exhibition at Amsterdam's Rijksmuseum.",
+      "why_listen": "Mischievous vocal snippets, disorienting rhythms and collapsing sonic architectures -- a left-field, headphones-first pick rather than a club tool, good for a set that wants to unsettle for a track or two.",
+      "links": {
+        "bandcamp": "https://valentinamagaletti.bandcamp.com/album/seismo"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://valentinamagaletti.bandcamp.com/album/seismo",
+      "release": {
+        "title": "Seismo",
+        "release_type": "album",
+        "date": "2026-04-10"
+      }
+    },
+    {
+      "name": "Auntie Flo",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library (\"Hey, Don't Make Trouble\").",
+      "genres": ["Global Club", "House"],
+      "bio": "Brian d'Souza, already in your library, known for globally-minded house and sound-art projects. \"Havana Sessions\" (May 1, 2026) includes \"Havana City\" featuring Andrew Ashong on vocals with Cuban musicians.",
+      "why_listen": "A warmer, more live-instrumentation take on his usual club sound -- good if you want to work Cuban rhythm into a set without reaching for a straight cumbia or salsa record.",
+      "links": {
+        "bandcamp": "https://auntieflo.bandcamp.com/album/havana-sessions"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://auntieflo.bandcamp.com/album/havana-sessions",
+      "release": {
+        "title": "Havana Sessions",
+        "release_type": "EP",
+        "date": "2026-05-01"
+      }
+    }
+  ]
+}
