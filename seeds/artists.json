@@ -3963,6 +3963,21 @@
     "labels": []
   },
   {
+    "name": "MIA",
+    "source": "discovered",
+    "genres": [
+      "Boogie",
+      "Funk",
+      "Synth-pop"
+    ],
+    "labels": [
+      "Star Creature"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Mia Castillo, Miami's \"Queen of Bedroom Boogie\". Debut album produced by Toronto's Gil Masuda."
+  },
+  {
     "name": "Michael",
     "source": "rekordbox",
     "genres": [],
@@ -5501,6 +5516,20 @@
     ],
     "track_count": 2,
     "labels": []
+  },
+  {
+    "name": "Spaced Out Krew & Ghostape",
+    "source": "discovered",
+    "genres": [
+      "Boogie",
+      "Funk"
+    ],
+    "labels": [
+      "Star Creature"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "French disco collective (S.O.K.) x Geneva's Ghostape. Star Creature roster mates of MIA."
   },
   {
     "name": "Spacefunk Dub",

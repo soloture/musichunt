@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-16",
+  "picks": [
+    {
+      "name": "MIA",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New album on Star Creature.",
+      "genres": ["Boogie", "Funk", "Synth-pop"],
+      "bio": "Mia Castillo, Miami's \"Queen of Bedroom Boogie\", after years of sold-out 7\"s and touring. \"In The Moonlight\" (May 29, 2026), produced by Toronto's Gil Masuda, is her debut album on Star Creature.",
+      "why_listen": "Synth-drenched, intimate funk slappers described as \"built for the dancefloor but just as fitting for a night in\" -- solid boogie set material with real warmth.",
+      "links": {
+        "bandcamp": "https://miahoneydeux.bandcamp.com/album/in-the-moonlight"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://miahoneydeux.bandcamp.com/album/in-the-moonlight",
+      "release": {
+        "title": "In The Moonlight",
+        "release_type": "album",
+        "date": "2026-05-29"
+      }
+    },
+    {
+      "name": "Spaced Out Krew & Ghostape",
+      "type": "artist",
+      "source_type": "associated",
+      "source_note": "Star Creature roster mates of MIA (above).",
+      "genres": ["Boogie", "Funk"],
+      "bio": "French disco collective Spaced Out Krew (S.O.K.) teaming up with Geneva's Ghostape. \"Together / You Make Me Sweat\" (July 2, 2026) is a two-sider on Star Creature.",
+      "why_listen": "Bass-heavy backroom/basement boogie bombs -- described as \"cosmonautical freaky mutant funk\" with a dangerous twist, good for a set that wants funk with more edge than polish.",
+      "links": {
+        "bandcamp": "https://spacedoutkrew.bandcamp.com"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://spacedoutkrew.bandcamp.com",
+      "release": {
+        "title": "Together / You Make Me Sweat",
+        "release_type": "single",
+        "date": "2026-07-02"
+      }
+    },
+    {
+      "name": "Carlos Niño & Friends",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library (\"Commend-Hyper6\", \"Forest Pulse\").",
+      "genres": ["Jazz", "Ambient"],
+      "bio": "Already in your library. \"Bubble Bath for Giants\" (March 20, 2026) is an ode to oceans and nature, self-released digitally on his Bandcamp with a Good Neighbor vinyl pressing.",
+      "why_listen": "Open, spiritually-minded improvisation in the Iasos/Alice Coltrane/Pharoah Sanders lineage -- not a club tool, but a strong pick for a set's quieter stretch.",
+      "links": {
+        "bandcamp": "https://carlosnino.bandcamp.com/album/bubble-bath-for-giants"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://carlosnino.bandcamp.com/album/bubble-bath-for-giants",
+      "release": {
+        "title": "Bubble Bath for Giants",
+        "release_type": "album",
+        "date": "2026-03-20"
+      }
+    }
+  ]
+}
