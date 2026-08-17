@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-17",
+  "picks": [
+    {
+      "name": "Tøyen Holding",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New album on Mutual Intentions.",
+      "genres": ["Hip-Hop/Rap"],
+      "bio": "Fredfades & Mest Seff's Oslo group, part of the Mutual Intentions crew. \"Tøyen Holding 4 Ever\" (July 9, 2026) follows three years of work after \"Tøyen Holding 3\", produced mostly by Fredfades with guest production from Kvam and The Purist.",
+      "why_listen": "A different lane from the electronic-heavy picks this week -- boom-bap-rooted hip-hop with live keys and bass, good if you want a change of texture mid-set.",
+      "links": {
+        "bandcamp": "https://mutualintentions.bandcamp.com/album/t-yen-holding-4-ever"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://mutualintentions.bandcamp.com/album/t-yen-holding-4-ever",
+      "release": {
+        "title": "Tøyen Holding 4 Ever",
+        "release_type": "album",
+        "date": "2026-07-09"
+      }
+    },
+    {
+      "name": "Om Unit",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library (\"Reverse Logic\" from Threads).",
+      "genres": ["Breakbeat", "House", "Jungle"],
+      "bio": "Bristol producer, already in your library. \"Oracles\" (April 14, 2026) is his first solo EP for Local Action -- five tracks including \"Remember\", \"Rustt\", \"Ripples\", \"Healing Tool\", and \"Survivor\".",
+      "why_listen": "Taut breakbeat house with jungle nods on the lead track -- a solid rhythmic bridge if you're moving between house and something more broken.",
+      "links": {
+        "bandcamp": "https://omunit.bandcamp.com/album/oracles"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://omunit.bandcamp.com/album/oracles",
+      "release": {
+        "title": "Oracles",
+        "release_type": "EP",
+        "date": "2026-04-14"
+      }
+    },
+    {
+      "name": "Jack Sheen",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on The Trilogy Tapes.",
+      "genres": ["Contemporary Classical", "Experimental"],
+      "bio": "Composer, sequel to his 2023 \"Solo for Cello\". \"Press\" (Jan 22, 2026), performed by ensemble Apartment House (violin, viola, cello, piano), applies the same techniques to a five-piece group across 14 movements.",
+      "why_listen": "Not a club record at all -- pitchy, kinetic, deliberately unsteady chamber composition. Worth knowing for a set's furthest-out moment, or just as a genuinely different kind of listening.",
+      "links": {
+        "bandcamp": "https://thetrilogytapes.bandcamp.com/album/press"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://thetrilogytapes.bandcamp.com/album/press",
+      "release": {
+        "title": "Press",
+        "release_type": "album",
+        "date": "2026-01-22"
+      }
+    }
+  ]
+}

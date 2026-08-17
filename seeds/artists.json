@@ -2882,6 +2882,20 @@
     "notes": "Live electronic musician/DJ/producer, runs Don't Just Records."
   },
   {
+    "name": "Jack Sheen",
+    "source": "discovered",
+    "genres": [
+      "Contemporary Classical",
+      "Experimental"
+    ],
+    "labels": [
+      "The Trilogy Tapes"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Composer; Press performed by ensemble Apartment House."
+  },
+  {
     "name": "Jad & The Ladyboy",
     "source": "rekordbox",
     "genres": [],
@@ -5954,6 +5968,19 @@
     ],
     "track_count": 2,
     "labels": []
+  },
+  {
+    "name": "Tøyen Holding",
+    "source": "discovered",
+    "genres": [
+      "Hip-Hop/Rap"
+    ],
+    "labels": [
+      "Mutual Intentions"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Fredfades & Mest Seff, Oslo. Mutual Intentions crew."
   },
   {
     "name": "TĀLĀ",
