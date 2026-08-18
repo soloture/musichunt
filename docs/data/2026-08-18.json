@@ -1,0 +1,81 @@
+{
+  "date": "2026-08-18",
+  "picks": [
+    {
+      "name": "Max Cooper",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library (\"Scalar\" feat. Alison Moyet).",
+      "genres": ["Electronic", "Ambient"],
+      "bio": "Already in your library. \"Feeling Is Structure\" (May 8, 2026) explores the connection between inner emotional landscapes and physical space, released digitally and on limited triple vinyl.",
+      "why_listen": "More intricate and deliberate than his earlier work -- carefully designed systems building evolving sonic architectures. A headphones/late-set pick rather than peak time.",
+      "links": {
+        "bandcamp": "https://maxcooper.bandcamp.com/album/feeling-is-structure"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://maxcooper.bandcamp.com/album/feeling-is-structure",
+      "release": {
+        "title": "Feeling Is Structure",
+        "release_type": "album",
+        "date": "2026-05-08"
+      }
+    },
+    {
+      "name": "The Magus Project & Submerse",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New split single on Silk Road Sounds.",
+      "genres": ["Drum & Bass"],
+      "bio": "Two British-born, Tokyo-based producers, born out of a shared pop-up studio in an Omotesando shopping mall. \"PARADOX\" (May 29, 2026) is a split single -- their first collaboration -- on Silk Road Sounds.",
+      "why_listen": "A shared rhythm runs through both non-identical tracks, letting you mix effortlessly between 126 and 168 BPM -- a genuinely useful DJ tool disguised as a two-track single.",
+      "links": {
+        "bandcamp": "https://silkroadsounds.bandcamp.com/album/paradox"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://silkroadsounds.bandcamp.com/album/paradox",
+      "release": {
+        "title": "PARADOX",
+        "release_type": "single",
+        "date": "2026-05-29"
+      }
+    },
+    {
+      "name": "Matias Aguayo",
+      "type": "artist",
+      "source_type": "associated",
+      "source_note": "Already seeded as Cómeme's founder; this particular album is on Serendeepity, not Cómeme itself.",
+      "genres": ["Global Club", "Latin American electronic"],
+      "bio": "Already in your seeds via the Cómeme label research. \"Anenoa\" (May 29, 2026) is his first album since relocating to Mexico City, sung mainly in Spanish with features from Girl Ultra, Daudi Matsiko, and Barbie Williams.",
+      "why_listen": "Voice, rhythm and collective participation across a wide range of Latin American dance styles -- described as inviting participation as much as it rewards listening.",
+      "links": {
+        "bandcamp": "https://matiasaguayo.bandcamp.com/album/anenoa"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://matiasaguayo.bandcamp.com/album/anenoa",
+      "release": {
+        "title": "Anenoa",
+        "release_type": "album",
+        "date": "2026-05-29"
+      }
+    },
+    {
+      "name": "HAAi",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "Joined Max Cooper (above) as support for his Royal Albert Hall show -- club-driven electronic with a similar audiovisual-live bent.",
+      "genres": ["Techno", "Electronic"],
+      "bio": "Preview single from her forthcoming third album DIGITiSE (out Oct 9, 2026 on Mute). \"Ignition\" (feat. Echonomist), released late July 2026, is a sequel of sorts to \"Go!\" from her previous album HUMANiSE.",
+      "why_listen": "A driving broken-beat track built specifically for the arc of an extended DJ set -- documents her queer coming-of-age story while staying fully dancefloor-focused.",
+      "links": {
+        "website": "https://mute.com/artists/haai/"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": null,
+      "release": {
+        "title": "Ignition (feat. Echonomist)",
+        "release_type": "single",
+        "date": "2026-07-28"
+      }
+    }
+  ]
+}

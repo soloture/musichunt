@@ -2554,6 +2554,20 @@
     "labels": []
   },
   {
+    "name": "HAAi",
+    "source": "discovered",
+    "genres": [
+      "Techno",
+      "Electronic"
+    ],
+    "labels": [
+      "Mute"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Joined Max Cooper's Royal Albert Hall show. New album DIGITiSE due Oct 2026 on Mute."
+  },
+  {
     "name": "Hamilton Brothers",
     "source": "rekordbox",
     "genres": [
@@ -5803,6 +5817,19 @@
     ],
     "track_count": 1,
     "labels": []
+  },
+  {
+    "name": "The Magus Project & Submerse",
+    "source": "discovered",
+    "genres": [
+      "Drum & Bass"
+    ],
+    "labels": [
+      "Silk Road Sounds"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Two British-born, Tokyo-based producers; split single via shared pop-up studio."
   },
   {
     "name": "The Mauskovic Dance Band & L'Eclair",
