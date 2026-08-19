@@ -2190,7 +2190,9 @@
       "spritual"
     ],
     "track_count": 1,
-    "labels": []
+    "labels": [
+      "Text Records"
+    ]
   },
   {
     "name": "Francis Bebey",
@@ -4773,6 +4775,21 @@
     ],
     "track_count": 2,
     "labels": []
+  },
+  {
+    "name": "Placid Angles",
+    "source": "discovered",
+    "genres": [
+      "Ambient Techno",
+      "Breakbeat",
+      "IDM/Experimental"
+    ],
+    "labels": [
+      "Oath"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "John Beltran's ambient/breakbeat moniker."
   },
   {
     "name": "Prins Thomas",

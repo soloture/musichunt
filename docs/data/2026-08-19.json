@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-19",
+  "picks": [
+    {
+      "name": "Right Tempo / Easy Tempo",
+      "type": "label",
+      "source_type": "label_watch",
+      "source_note": "New volume in the ongoing Easy Tempo Experience rework series.",
+      "genres": ["Breakbeat", "Library Music", "Italo"],
+      "bio": "Right Tempo's ongoing series reworking Italian cinematic library and soundtrack heritage (Stelvio Cipriani, G & M De Angelis, Piero Piccioni, and others) through a new generation of producers. \"Easy Tempo Experience Vol.3 - BREAK BEAT\" (Feb 20, 2026) pushes the series into tighter, heavier, dancefloor-ready territory.",
+      "why_listen": "Retro soundtrack atmosphere with modern broken-rhythm production -- a great source for library-sampling texture that still works on a floor.",
+      "links": {
+        "bandcamp": "https://righttempo.bandcamp.com/album/easy-tempo-experience-vol-3-break-beat"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://righttempo.bandcamp.com/album/easy-tempo-experience-vol-3-break-beat",
+      "release": {
+        "title": "Easy Tempo Experience Vol.3 - BREAK BEAT",
+        "release_type": "compilation",
+        "date": "2026-02-20"
+      }
+    },
+    {
+      "name": "Placid Angles",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New album on Oath.",
+      "genres": ["Ambient Techno", "Breakbeat", "IDM/Experimental"],
+      "bio": "John Beltran's ambient/breakbeat moniker, returning after 20+ albums under his own name. \"Canada\" (Feb 13, 2026) features Vancouver vocalist Sophia Stel, London producer Tom VR, and Bristolian Yussh -- influence noted by Four Tet, Lone, Skee Mask and Priori.",
+      "why_listen": "Houses both the depth of ambient and the propulsive force of breakbeats -- each track evoking a distinct part of the Canadian landscape it's named for.",
+      "links": {
+        "bandcamp": "https://oathcreations.bandcamp.com/album/canada"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://oathcreations.bandcamp.com/album/canada",
+      "release": {
+        "title": "Canada",
+        "release_type": "album",
+        "date": "2026-02-13"
+      }
+    },
+    {
+      "name": "Four Tet (as Wingdings)",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library (Four Tet remix of Bjørn Torske).",
+      "genres": ["Electronic", "Experimental"],
+      "bio": "Kieran Hebden, already in your library, surprise-released an 8-track album under his Wingdings alias -- literally named/credited using dingbat symbols. Out on his own Text Records: vinyl June 12, digital/Bandcamp July 2, 2026.",
+      "why_listen": "An internet-breaking surprise drop with deliberately incomprehensible track titles -- worth knowing about even if you never announce whose track it is.",
+      "links": {
+        "bandcamp": "https://00000ooooo.bandcamp.com/album/--2"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://00000ooooo.bandcamp.com/album/--2",
+      "release": {
+        "title": "Wingdings",
+        "release_type": "album",
+        "date": "2026-07-02"
+      }
+    }
+  ]
+}
