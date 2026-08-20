@@ -1,0 +1,43 @@
+{
+  "date": "2026-08-20",
+  "picks": [
+    {
+      "name": "Igaxx & Gropina",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on Paesaggi Records.",
+      "genres": ["Psychedelic", "Ambient"],
+      "bio": "Tokyo-based Igaxx and Amsterdam-based Gropina on a shared four-track 12\" and digital release. \"The Perception\" (April 9, 2026) pairs Igaxx's original tracks with Gropina's reworks.",
+      "why_listen": "Near-beatless, spiralling psychedelia on the originals; Gropina's \"Version\" reworks bring a supernatural, Kraut-inspired lift -- a good pair of headspace tracks for a set's stranger corner.",
+      "links": {
+        "bandcamp": "https://paesaggirecords.bandcamp.com/album/the-perception"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://paesaggirecords.bandcamp.com/album/the-perception",
+      "release": {
+        "title": "The Perception",
+        "release_type": "EP",
+        "date": "2026-04-09"
+      }
+    },
+    {
+      "name": "Lena Willikens X Elena Colombi",
+      "type": "artist",
+      "source_type": "associated",
+      "source_note": "Lena Willikens is already seeded (Cómeme roster). Elena Colombi runs Osàre! Editions, which this release is on.",
+      "genres": ["Experimental", "Electronic"],
+      "bio": "A recorded B2B DJ set from two well-regarded selectors. \"Live at Lux Fragil, 2026\" (March 31, 2026) is a limited cassette on Elena Colombi's own Osàre! Editions, recorded at the Lisbon club -- Bandcamp exclusive, no repress planned.",
+      "why_listen": "Not a studio release but a document of an actual set -- useful less as tracks to cue up and more as a reference for how two sharp selectors sequence a night.",
+      "links": {
+        "bandcamp": "https://osare-editions.bandcamp.com/album/oe-028-lena-willikens-x-elena-colombi-live-at-lux-fragil-2026"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://osare-editions.bandcamp.com/album/oe-028-lena-willikens-x-elena-colombi-live-at-lux-fragil-2026",
+      "release": {
+        "title": "Live at Lux Fragil, 2026",
+        "release_type": "compilation",
+        "date": "2026-03-31"
+      }
+    }
+  ]
+}

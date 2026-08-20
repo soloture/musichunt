@@ -1956,6 +1956,20 @@
     "notes": "Colombian producer/synth artist, now collaborating with Nick León."
   },
   {
+    "name": "Elena Colombi",
+    "source": "discovered",
+    "genres": [
+      "Experimental",
+      "Electronic"
+    ],
+    "labels": [
+      "Osàre! Editions"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Founder of Osàre! Editions; frequent Lena Willikens collaborator."
+  },
+  {
     "name": "Elias Fassos & RisK",
     "source": "rekordbox",
     "genres": [
@@ -2752,6 +2766,20 @@
     ],
     "track_count": 1,
     "labels": []
+  },
+  {
+    "name": "Igaxx & Gropina",
+    "source": "discovered",
+    "genres": [
+      "Psychedelic",
+      "Ambient"
+    ],
+    "labels": [
+      "Paesaggi"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Tokyo-based (Igaxx) and Amsterdam-based (Gropina) producers."
   },
   {
     "name": "IKON & Temitope Phil-Ebosie",
@@ -3581,7 +3609,9 @@
       "Electronic",
       "Experimental"
     ],
-    "labels": [],
+    "labels": [
+      "Osàre! Editions"
+    ],
     "playlists": [],
     "track_count": 0,
     "notes": "Cómeme-associated artist."
