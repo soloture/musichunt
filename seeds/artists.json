@@ -2219,6 +2219,21 @@
     "labels": []
   },
   {
+    "name": "Franco Falsini",
+    "source": "discovered",
+    "genres": [
+      "Library Music",
+      "Techno",
+      "Italo"
+    ],
+    "labels": [
+      "Space Echo Records"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Ran Interactive Test with brother Riccardo, early 90s Italian electronic underground lab; also records as Open Space, Youth Wave, Agent Fylfoyt, Man Myth Magic."
+  },
+  {
     "name": "François X",
     "source": "rekordbox",
     "genres": [
@@ -4794,6 +4809,21 @@
     "notes": "Cómeme roster (Moscow)."
   },
   {
+    "name": "Piero Umiliani",
+    "source": "discovered",
+    "genres": [
+      "Library Music",
+      "Soundtrack",
+      "Italo"
+    ],
+    "labels": [
+      "Four Flies"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Legendary Italian library/soundtrack composer (d. 2001); Four Flies Vaults releases previously unheard archival work."
+  },
+  {
     "name": "Pierre Kwenders",
     "source": "rekordbox",
     "genres": [
@@ -5925,6 +5955,20 @@
     ],
     "track_count": 1,
     "labels": []
+  },
+  {
+    "name": "Tom Carruthers",
+    "source": "discovered",
+    "genres": [
+      "House"
+    ],
+    "labels": [
+      "House of Underground",
+      "Operation Madness"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": ""
   },
   {
     "name": "Tom Esselle",

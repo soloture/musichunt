@@ -1,0 +1,81 @@
+{
+  "date": "2026-08-21",
+  "picks": [
+    {
+      "name": "Franco Falsini (Various Artists)",
+      "type": "label",
+      "source_type": "label_watch",
+      "source_note": "New compilation on Space Echo Records.",
+      "genres": ["Library Music", "Techno", "Italo"],
+      "bio": "Franco Falsini and brother Riccardo's Interactive Test project -- a small creative laboratory born in early-90s Italy where electronic music was treated as a language, not a genre. \"The Interactive Test Experience Vol.1\" (June 12, 2026) gathers work released under aliases like Open Space, Youth Wave, and Agent Fylfoyt.",
+      "why_listen": "Atmospheric techno, digital psychedelia and club-focused machine grooves that capture a specific early-90s Italian club/warehouse scene -- deep source material if you like your techno with some archival weight.",
+      "links": {
+        "bandcamp": "https://spaceechorecords.bandcamp.com/album/franco-falsini-presents-the-interactive-test-experience-vol-1"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://spaceechorecords.bandcamp.com/album/franco-falsini-presents-the-interactive-test-experience-vol-1",
+      "release": {
+        "title": "The Interactive Test Experience Vol.1",
+        "release_type": "compilation",
+        "date": "2026-06-12"
+      }
+    },
+    {
+      "name": "Tom Carruthers",
+      "type": "artist",
+      "source_type": "associated",
+      "source_note": "On Operation Madness, House of Underground's sublabel (already seeded).",
+      "genres": ["House"],
+      "bio": "\"Waveforms EP\" (July 20, 2026) is a four-track 12\" -- Formation, Intensity, State Of Mind, Unit 21 -- on Operation Madness, the sublabel of Paris house label House of Underground.",
+      "why_listen": "Straightforward functional house from a label sublabel worth tracking if you liked House of Underground's Boo Williams-founded catalog.",
+      "links": {
+        "website": "https://clonedistribution.com/release/83990"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://clonedistribution.com/release/83990",
+      "release": {
+        "title": "Waveforms EP",
+        "release_type": "EP",
+        "date": "2026-07-20"
+      }
+    },
+    {
+      "name": "Alessandro Alessandroni",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library (\"Afro Voodoo\", \"Afro Darkness\").",
+      "genres": ["Library Music", "Soundtrack", "Italo"],
+      "bio": "Already in your library. \"Rinascimento e Barocco\" (Feb 27, 2026) is an 8-track album of previously unreleased early-1980s recordings on Four Flies Vaults, revisiting Renaissance and Baroque idioms through an intimate, chamber-oriented approach.",
+      "why_listen": "A different side of an artist you already have filed under Afro-disco -- courtly, acoustic, formal. Good source material rather than a direct DJ tool.",
+      "links": {
+        "bandcamp": "https://fourfliesvaults.bandcamp.com/album/rinascimento-e-barocco"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://fourfliesvaults.bandcamp.com/album/rinascimento-e-barocco",
+      "release": {
+        "title": "Rinascimento e Barocco",
+        "release_type": "album",
+        "date": "2026-02-27"
+      }
+    },
+    {
+      "name": "Piero Umiliani",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "Same Italian library/soundtrack lineage as Alessandroni (above), also on a Four Flies imprint.",
+      "genres": ["Library Music", "Soundtrack", "Italo"],
+      "bio": "Legendary Italian library/soundtrack composer (d. 2001). \"Fantasy\" (July 17, 2026), recorded in 1983 and never released until now, came out on Four Flies on what would have been his 100th birthday -- his last unreleased title intended for his own Telesound library imprint.",
+      "why_listen": "A genuinely lost chapter surfacing over 40 years later -- rare occasion to hear \"new\" Umiliani. Great texture/sample source for anyone into library music.",
+      "links": {
+        "bandcamp": "https://fourfliesrecords.bandcamp.com/album/fantasy"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://fourfliesrecords.bandcamp.com/album/fantasy",
+      "release": {
+        "title": "Fantasy",
+        "release_type": "album",
+        "date": "2026-07-17"
+      }
+    }
+  ]
+}

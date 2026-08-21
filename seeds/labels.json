@@ -99,6 +99,19 @@
     "notes": "J.O.S.H.U.A's own label."
   },
   {
+    "name": "Four Flies",
+    "source": "discovered",
+    "genres": [
+      "Library Music",
+      "Soundtrack",
+      "Italo"
+    ],
+    "links": {
+      "bandcamp": "https://fourfliesrecords.bandcamp.com"
+    },
+    "notes": "Italian library/soundtrack reissue label; Vaults imprint for unreleased archival material."
+  },
+  {
     "name": "FuFu Records",
     "source": "discovered",
     "genres": [
@@ -381,6 +394,15 @@
       "bandcamp": "https://oathcreations.bandcamp.com"
     },
     "notes": "Istanbul label."
+  },
+  {
+    "name": "Operation Madness",
+    "source": "discovered",
+    "genres": [
+      "House"
+    ],
+    "links": {},
+    "notes": "House of Underground's sublabel."
   },
   {
     "name": "Osàre! Editions",
