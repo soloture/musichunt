@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-22",
+  "picks": [
+    {
+      "name": "Mark Grusane",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on L.I.E.S. (also released on Hot Biscuit Recordings).",
+      "genres": ["Chicago House", "Funk", "Disco"],
+      "bio": "Chicago DJ and edit specialist. \"Angry Birds\" (May 1, 2026) is a six-track L.I.E.S. LP that nods to the \"Reactor\" sound pioneered by DJ Rush -- machine-programmed madness and chaos.",
+      "why_listen": "An important facet of the Chicago sound that leans harder and stranger than his usual disco-edit work -- good if you want raw, mechanical house rather than polished.",
+      "links": {
+        "bandcamp": "https://liesrecords.bandcamp.com/album/angry-birds"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://liesrecords.bandcamp.com/album/angry-birds",
+      "release": {
+        "title": "Angry Birds",
+        "release_type": "album",
+        "date": "2026-05-01"
+      }
+    },
+    {
+      "name": "Boo Williams",
+      "type": "artist",
+      "source_type": "associated",
+      "source_note": "Same Chicago house scene as Mark Grusane (above); already seeded via Cajual/House of Underground.",
+      "genres": ["Chicago House"],
+      "bio": "Already in your seeds. \"The Recovery\" (March 13, 2026) is a special return to Rush Hour, a 4-track release -- \"The Recovery\", \"All Bets Off\", \"All Over\", \"The Hunt For House\" -- drawing on his classic Chicago styles.",
+      "why_listen": "Timeless, reliable Chicago house from one of the scene's steadiest hands -- a safe, functional pick when you need something that just works.",
+      "links": {
+        "bandcamp": "https://rushhourmusic.bandcamp.com/album/the-recovery"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://rushhourmusic.bandcamp.com/album/the-recovery",
+      "release": {
+        "title": "The Recovery",
+        "release_type": "EP",
+        "date": "2026-03-13"
+      }
+    },
+    {
+      "name": "DJ Sneak",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "Same Chicago house lineage as Mark Grusane/Boo Williams (above); already seeded via Cajual roster.",
+      "genres": ["Chicago House"],
+      "bio": "Already in your seeds. \"Bounce EP\" (June 12, 2026) on Refuge Recordings has four tracks -- Bounce, El Bodeguero, Already Started, Moon Child.",
+      "why_listen": "Groove-first, low-slung Chicago house -- a natural pairing with Boo Williams or Mark Grusane if you want a full Chicago run in a set.",
+      "links": {
+        "bandcamp": "https://refugerecordings.bandcamp.com/album/dj-sneak-bounce-ep"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://refugerecordings.bandcamp.com/album/dj-sneak-bounce-ep",
+      "release": {
+        "title": "Bounce EP",
+        "release_type": "EP",
+        "date": "2026-06-12"
+      }
+    }
+  ]
+}

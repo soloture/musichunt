@@ -476,6 +476,18 @@
     "notes": "Mike Paradinas' label; released RP Boo's Legacy and Established!."
   },
   {
+    "name": "Refuge Recordings",
+    "source": "discovered",
+    "genres": [
+      "Chicago House",
+      "House"
+    ],
+    "links": {
+      "bandcamp": "https://refugerecordings.bandcamp.com"
+    },
+    "notes": "Released DJ Sneak's \"Bounce EP\" (2026)."
+  },
+  {
     "name": "Relief Records",
     "source": "discovered",
     "genres": [
@@ -494,6 +506,18 @@
       "discogs": "https://www.discogs.com/label/26104-Right-Tempo"
     },
     "notes": "Rome label."
+  },
+  {
+    "name": "Rush Hour",
+    "source": "discovered",
+    "genres": [
+      "Chicago House",
+      "House"
+    ],
+    "links": {
+      "bandcamp": "https://rushhourmusic.bandcamp.com"
+    },
+    "notes": "Amsterdam label/shop. Released Boo Williams' \"The Recovery\" (2026)."
   },
   {
     "name": "Serendeepity",

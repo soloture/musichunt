@@ -915,7 +915,9 @@
     "genres": [
       "Chicago House"
     ],
-    "labels": [],
+    "labels": [
+      "Rush Hour"
+    ],
     "playlists": [],
     "track_count": 0,
     "notes": "Cajual Records roster; Glenn Underground's Strictly Jaz Unit partner."
@@ -1788,7 +1790,9 @@
     "genres": [
       "Chicago House"
     ],
-    "labels": [],
+    "labels": [
+      "Refuge Recordings"
+    ],
     "playlists": [],
     "track_count": 0,
     "notes": "Cajual Records roster."
@@ -3878,6 +3882,22 @@
     ],
     "track_count": 4,
     "labels": []
+  },
+  {
+    "name": "Mark Grusane",
+    "source": "discovered",
+    "genres": [
+      "Chicago House",
+      "Funk",
+      "Disco"
+    ],
+    "labels": [
+      "L.I.E.S",
+      "Hot Biscuit Recordings"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Chicago DJ/edit specialist, also released on Hot Biscuit Recordings."
   },
   {
     "name": "Martha Pinel",
