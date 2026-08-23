@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-23",
+  "picks": [
+    {
+      "name": "Oceanic",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on Nous'klaer Audio.",
+      "genres": ["Techno", "Electro"],
+      "bio": "Rotterdam label Nous'klaer Audio's own Svebbe Oceanic. \"ICI\" (August 14, 2026) is a four-track 12\" -- ICI, Capyra Vision, Tassman Perks, Prefig -- balancing two propulsive club cuts against two more immersive groove-builders.",
+      "why_listen": "Direct, driving Rotterdam-style techno/electro from the label's own camp -- solid peak-time material with a couple of deeper detours to breathe between the harder cuts.",
+      "links": {
+        "bandcamp": "https://nousklaer.bandcamp.com/album/ici"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://nousklaer.bandcamp.com/album/ici",
+      "release": {
+        "title": "ICI",
+        "release_type": "EP",
+        "date": "2026-08-14"
+      }
+    },
+    {
+      "name": "Groove Armada",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on Shall Not Fade.",
+      "genres": ["House"],
+      "bio": "The veteran UK dance duo turn up on Shall Not Fade. \"Body Action\" (August 21, 2026) is a three-track EP -- Body Action, Gangsta Girl, U Found Love (ft Give Love) -- built as jacking, stripped-back house for the dancefloor, with the title track a heads-down 808 workout.",
+      "why_listen": "A big-name crossover act working in a leaner, more functional register than their festival-stage material -- straightforward jacking house tools that mix cleanly.",
+      "links": {
+        "bandcamp": "https://groovearmada.bandcamp.com/album/body-action"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://groovearmada.bandcamp.com/album/body-action",
+      "release": {
+        "title": "Body Action",
+        "release_type": "EP",
+        "date": "2026-08-21"
+      }
+    },
+    {
+      "name": "Palms Trax",
+      "type": "artist",
+      "source_type": "associated",
+      "source_note": "Already seeded (Dekmantel-adjacent); first solo material in five years.",
+      "genres": ["House", "Deep House"],
+      "bio": "Berlin-based British producer, already in your seeds. \"Keys To A Printed Garden\" (August 21, 2026) is a two-track EP on fabric Originals -- lead single \"Soft Trance, Hard Gossip\" and the title track -- his first solo release since 2021.",
+      "why_listen": "A genuine comeback: warm deep-house grooves, hazy nu-groove textures and acid basslines from an artist who's been quiet for half a decade -- worth flagging even outside your usual label-watch list.",
+      "links": {
+        "bandcamp": "https://palmstrax.bandcamp.com/album/keys-to-a-printed-garden-2"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://palmstrax.bandcamp.com/album/keys-to-a-printed-garden-2",
+      "release": {
+        "title": "Keys To A Printed Garden",
+        "release_type": "EP",
+        "date": "2026-08-21"
+      }
+    }
+  ]
+}

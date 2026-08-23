@@ -56,7 +56,7 @@
     "notes": "London label; Closet Yi's Bmore Baby EP was its inaugural release."
   },
   {
-    "name": "Cómeme",
+    "name": "C\u00f3meme",
     "source": "discovered",
     "genres": [
       "House",
@@ -278,7 +278,7 @@
     "links": {
       "bandcamp": "https://lump-rec.bandcamp.com"
     },
-    "notes": "Valparaíso, Chile-based. Credited as \"Artist\" on Various Artists compilation tracks in the Rekordbox export -- it's actually the label."
+    "notes": "Valpara\u00edso, Chile-based. Credited as \"Artist\" on Various Artists compilation tracks in the Rekordbox export -- it's actually the label."
   },
   {
     "name": "MM Discos",
@@ -315,7 +315,7 @@
     "links": {
       "bandcamp": "https://multiculti.bandcamp.com"
     },
-    "notes": "Nicola Cruz's core label -- Cantos de Visión, Hybridism, and more."
+    "notes": "Nicola Cruz's core label -- Cantos de Visi\u00f3n, Hybridism, and more."
   },
   {
     "name": "Music From Memory",
@@ -405,7 +405,7 @@
     "notes": "House of Underground's sublabel."
   },
   {
-    "name": "Osàre! Editions",
+    "name": "Os\u00e0re! Editions",
     "source": "discovered",
     "genres": [
       "Experimental",
@@ -451,7 +451,7 @@
     "links": {
       "bandcamp": "https://palmsandcharms.bandcamp.com"
     },
-    "notes": "Tokyo & Hong Kong label, founded 2014 -- Max Essa, Mallorquín, Barnaby Bruce."
+    "notes": "Tokyo & Hong Kong label, founded 2014 -- Max Essa, Mallorqu\u00edn, Barnaby Bruce."
   },
   {
     "name": "PAN",
@@ -562,7 +562,7 @@
     "links": {
       "bandcamp": "https://elaminus.bandcamp.com/album/qu-les-pas-a-mis-amigos"
     },
-    "notes": "Label under the Domino umbrella. Released Ela Minus & Nick León's \"qué les pasó a mis amigos?\" EP (Aug 2026)."
+    "notes": "Label under the Domino umbrella. Released Ela Minus & Nick Le\u00f3n's \"qu\u00e9 les pas\u00f3 a mis amigos?\" EP (Aug 2026)."
   },
   {
     "name": "Soundman Chronicles",
@@ -725,5 +725,19 @@
       "bandcamp": "https://zzkrecords.bandcamp.com"
     },
     "notes": "Lagartijeando's (Mati Zundel) home label, Buenos Aires."
+  },
+  {
+    "name": "fabric Originals",
+    "source": "discovered",
+    "genres": [
+      "House",
+      "Techno",
+      "Electronic"
+    ],
+    "links": {
+      "bandcamp": "https://fabriclondon.bandcamp.com",
+      "website": "https://www.fabriclondon.com"
+    },
+    "notes": "In-house imprint of London club fabric. Palms Trax comeback EP \"Keys To A Printed Garden\" (Aug 2026) landed here."
   }
 ]
