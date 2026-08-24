@@ -2,22 +2,22 @@
   "date": "2026-08-23",
   "picks": [
     {
-      "name": "Oceanic",
+      "name": "Four Tet, Tony Romera & RamonPang",
       "type": "artist",
-      "source_type": "label_watch",
-      "source_note": "New release on Nous'klaer Audio.",
-      "genres": ["Techno", "Electro"],
-      "bio": "Rotterdam label Nous'klaer Audio's own Svebbe Oceanic. \"ICI\" (August 14, 2026) is a four-track 12\" -- ICI, Capyra Vision, Tassman Perks, Prefig -- balancing two propulsive club cuts against two more immersive groove-builders.",
-      "why_listen": "Direct, driving Rotterdam-style techno/electro from the label's own camp -- solid peak-time material with a couple of deeper detours to breathe between the harder cuts.",
+      "source_type": "associated",
+      "source_note": "Remix single via Text Records; correction -- replaces a duplicate Oceanic \"ICI\" pick mistakenly re-added here (already featured Aug 15).",
+      "genres": ["Electronic", "House"],
+      "bio": "A two-remix single on Four Tet's own Text Records: Tony Romera reworks \"Baby\" and RamonPang reworks \"Love Cry\", both from the same session, out April 30 / May 1, 2026.",
+      "why_listen": "Two different producers' takes on the same source material -- useful for hearing how a single Four Tet idea gets pulled toward the dancefloor in two different directions.",
       "links": {
-        "bandcamp": "https://nousklaer.bandcamp.com/album/ici"
+        "bandcamp": "https://fourtet.bandcamp.com/album/baby-love-cry"
       },
       "bandcamp_embed": null,
-      "purchase_link": "https://nousklaer.bandcamp.com/album/ici",
+      "purchase_link": "https://fourtet.bandcamp.com/album/baby-love-cry",
       "release": {
-        "title": "ICI",
-        "release_type": "EP",
-        "date": "2026-08-14"
+        "title": "Baby Love Cry",
+        "release_type": "single",
+        "date": "2026-04-30"
       }
     },
     {
