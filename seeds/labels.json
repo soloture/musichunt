@@ -739,5 +739,34 @@
       "website": "https://www.fabriclondon.com"
     },
     "notes": "In-house imprint of London club fabric. Palms Trax comeback EP \"Keys To A Printed Garden\" (Aug 2026) landed here."
+  },
+  {
+    "name": "I Love Acid / Balkan Vinyl",
+    "source": "discovered",
+    "genres": [
+      "Electro",
+      "Acid",
+      "Techno"
+    ],
+    "links": {
+      "bandcamp": "https://balkanvinyl.bandcamp.com",
+      "website": "https://iloveacid.com"
+    },
+    "notes": "UK acid-techno party and label run by Posthuman. Their \"Gang of 404\" album (Jul 2026) featured here."
+  },
+  {
+    "name": "Eglo Records",
+    "source": "discovered",
+    "genres": [
+      "Broken Beat",
+      "Soul",
+      "House",
+      "Jazz"
+    ],
+    "links": {
+      "bandcamp": "https://eglorecords.bandcamp.com",
+      "website": "https://eglorecords.com"
+    },
+    "notes": "London broken beat/soul-jazz label co-founded by Alex Nut. His \"The Heat EP\" (Jul 2026) featured here."
   }
 ]

@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-24",
+  "picks": [
+    {
+      "name": "DJ Jackum",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on Hotflush Recordings.",
+      "genres": ["Bass", "Techno", "Electro"],
+      "bio": "\"Context\" (August 14, 2026) is a six-track album on Hotflush Recordings -- Floo, Clip Empty, Take Your Body Higher, Prang, Step Up, and a closer -- described by the label as six tracks of heavy bass pressure.",
+      "why_listen": "Dense, weighty bass music built for the low end -- useful when you need to shift a set from house/techno territory into something rougher and more sub-driven.",
+      "links": {
+        "bandcamp": "https://djjackum.bandcamp.com/album/context"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://djjackum.bandcamp.com/album/context",
+      "release": {
+        "title": "Context",
+        "release_type": "album",
+        "date": "2026-08-14"
+      }
+    },
+    {
+      "name": "Posthuman",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "UK electro/acid duo, similar territory to Legowelt/DJ Plant Texture already in your seeds; new label discovery (I Love Acid / Balkan Vinyl).",
+      "genres": ["Electro", "Acid", "Techno"],
+      "bio": "UK duo running the I Love Acid party/label. \"Gang of 404\" (July 3, 2026) is an 11-track album -- What U Need, Test 14, Reps, Another Earth, Torus Dreams, Break Bones, Chronophobe among them -- steeped in sci-fi themed Detroit and UK electro.",
+      "why_listen": "Squelchy, sci-fi-leaning electro and acid in the same lineage as your Legowelt/DJ Plant Texture picks -- good for a darker, more machine-driven stretch of a set.",
+      "links": {
+        "bandcamp": "https://posthuman.bandcamp.com/album/gang-of-404"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://posthuman.bandcamp.com/album/gang-of-404",
+      "release": {
+        "title": "Gang of 404",
+        "release_type": "album",
+        "date": "2026-07-03"
+      }
+    },
+    {
+      "name": "Alex Nut",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "Broken beat/soul-jazz-house territory similar to your Carlos Niño & Friends pick; new label discovery (Eglo Records, which he co-runs).",
+      "genres": ["Broken Beat", "Soul", "House", "Jazz"],
+      "bio": "Rinse FM DJ and co-founder/curator of Eglo Records. \"The Heat EP\" (July 24, 2026) is a four-track 12\" -- Bright (feat. Steve Spacek), a Bright Re-FreQ Mix, the title track The Heat (feat. Allysha Joy), and Duck Duck (feat. Sam Crowe).",
+      "why_listen": "Warm, groove-and-feeling-first broken beat that sits well next to your Carlos Niño & Friends pick -- a good late-set cooldown that still moves.",
+      "links": {
+        "bandcamp": "https://alexandernut.bandcamp.com/album/the-heat-ep-feat-allysha-joy-steve-spacek"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://alexandernut.bandcamp.com/album/the-heat-ep-feat-allysha-joy-steve-spacek",
+      "release": {
+        "title": "The Heat EP",
+        "release_type": "EP",
+        "date": "2026-07-24"
+      }
+    }
+  ]
+}
