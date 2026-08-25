@@ -768,5 +768,34 @@
       "website": "https://eglorecords.com"
     },
     "notes": "London broken beat/soul-jazz label co-founded by Alex Nut. His \"The Heat EP\" (Jul 2026) featured here."
+  },
+  {
+    "name": "Rhythm Section International",
+    "source": "discovered",
+    "genres": [
+      "House",
+      "Funk",
+      "Breakbeat",
+      "Disco"
+    ],
+    "links": {
+      "bandcamp": "https://rhythmsectioninternational.bandcamp.com",
+      "website": "https://rhythmsection.co.uk"
+    },
+    "notes": "Bradley Zero's London label/party. Session Victim \"The Disconnect\" EP (Jul 2026) featured here."
+  },
+  {
+    "name": "Dark Entries",
+    "source": "discovered",
+    "genres": [
+      "Electronic",
+      "Experimental",
+      "Cold Wave"
+    ],
+    "links": {
+      "bandcamp": "https://darkentriesrecords.bandcamp.com",
+      "website": "https://www.dark-entries.com"
+    },
+    "notes": "San Francisco reissue/new-music label. Bergsonist \"Depths\" LP (May 2026) featured here."
   }
 ]

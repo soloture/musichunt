@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-25",
+  "picks": [
+    {
+      "name": "Bergsonist",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library.",
+      "genres": ["Experimental", "Electronic", "Rhythmic"],
+      "bio": "Selwa Abd's Bergsonist project, already in your library. \"Depths\" (May 1, 2026) is her sixth LP -- a genre-bending 12-track album of atmospheric and rhythmic excursions on Dark Entries, continuing her project of postcolonial and ancestral reconnection through sound.",
+      "why_listen": "Denser and more rhythmically driven than a lot of her earlier work -- good for pulling a set into stranger, more percussive territory without losing momentum.",
+      "links": {
+        "bandcamp": "https://bergsonist.bandcamp.com/album/depths"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://bergsonist.bandcamp.com/album/depths",
+      "release": {
+        "title": "Depths",
+        "release_type": "album",
+        "date": "2026-05-01"
+      }
+    },
+    {
+      "name": "Session Victim",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "Funk/breakbeat house in similar territory to Alex Nut and Carlos Niño & Friends (already featured); new label discovery (Rhythm Section International).",
+      "genres": ["House", "Funk", "Breakbeat"],
+      "bio": "The Berlin duo's 40th EP. \"The Disconnect\" (July 3, 2026) is a five-track release on Rhythm Section International featuring Kenneth Scott, Rossano Snel and Quarion, following up their triple-album \"Sidequests\" trilogy.",
+      "why_listen": "Precise, characterful house built on funk elements -- breakbeats, bass guitar, rhodes, mellow synths -- a reliable mid-set groove-setter.",
+      "links": {
+        "bandcamp": "https://sessionvictim.bandcamp.com/album/the-disconnect"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://sessionvictim.bandcamp.com/album/the-disconnect",
+      "release": {
+        "title": "The Disconnect",
+        "release_type": "EP",
+        "date": "2026-07-03"
+      }
+    },
+    {
+      "name": "Patrick Belaga",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on PAN.",
+      "genres": ["Ambient", "Experimental", "Composition"],
+      "bio": "New York-based composer, cellist and multi-instrumentalist. \"Solar Calf\" (July 31, 2026) is his second solo album on PAN, using video-game-music vernacular to build a playable-feeling sonic environment rather than a linear beginning-to-end record.",
+      "why_listen": "Not a club tool -- a headphones-first, texturally rich listen in the same vein as your Max Cooper/Jack Sheen picks, worth knowing for intros, transitions, or off-the-clock listening.",
+      "links": {
+        "bandcamp": "https://patrickbelaga2.bandcamp.com/album/solar-calf"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://patrickbelaga2.bandcamp.com/album/solar-calf",
+      "release": {
+        "title": "Solar Calf",
+        "release_type": "album",
+        "date": "2026-07-31"
+      }
+    }
+  ]
+}
