@@ -797,5 +797,18 @@
       "website": "https://www.dark-entries.com"
     },
     "notes": "San Francisco reissue/new-music label. Bergsonist \"Depths\" LP (May 2026) featured here."
+  },
+  {
+    "name": "Huntleys + Palmers",
+    "source": "discovered",
+    "genres": [
+      "Experimental",
+      "Avant Pop",
+      "Krautrock"
+    ],
+    "links": {
+      "bandcamp": "https://huntleyspalmers.bandcamp.com"
+    },
+    "notes": "Glasgow promo outfit/label curated by Andrew Thomson. GUSH \"Splash of Milk\" LP (Apr 2026) featured here."
   }
 ]

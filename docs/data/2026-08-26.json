@@ -1,0 +1,43 @@
+{
+  "date": "2026-08-26",
+  "picks": [
+    {
+      "name": "Montoya",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on ZZK Records.",
+      "genres": ["Cumbia", "Andean", "Electronic"],
+      "bio": "Colombian producer on ZZK since 2019. \"Tayta\" (June 5, 2026) is an 8-track album described as \"an inner journey toward deep listening\" -- ethereal yet funky cumbia fusing Amazonian and Andean folk roots with melodic electronica, its visual language built around Mexican artist Diego Ocote's chaquira-bead weaving as a metaphor for the album's layered sonic cells.",
+      "why_listen": "A warmer, more meditative strand of digital cumbia than most ZZK output -- good for easing into or out of a Latin-leaning stretch of a set without losing the folkloric backbone.",
+      "links": {
+        "bandcamp": "https://montoya.bandcamp.com/album/tayta"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://montoya.bandcamp.com/album/tayta",
+      "release": {
+        "title": "Tayta",
+        "release_type": "album",
+        "date": "2026-06-05"
+      }
+    },
+    {
+      "name": "GUSH",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "Leftfield/experimental territory similar to Legowelt and DJ Plant Texture already in your seeds; new label discovery (Huntleys + Palmers).",
+      "genres": ["Avant Pop", "Krautrock", "Experimental"],
+      "bio": "Stripped-down avant-pop duo Steven Warwick (formerly Heatsick) and Ivan Brito (aka Vanya). \"Splash of Milk\" (April 22, 2026) is their LP on the Glasgow label Huntleys + Palmers, mixing short song forms with a looser, psychedelic approach -- somewhere between Silver Apples-style psychedelia and krautrock, with post-punk humor.",
+      "why_listen": "Not a straightforward club record, but a good curveball for a set's weirder stretch -- wonky, hypnotic, and rhythmically strange enough to still hold a room.",
+      "links": {
+        "bandcamp": "https://huntleyspalmers.bandcamp.com/album/gush-splash-of-milk-lp"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://huntleyspalmers.bandcamp.com/album/gush-splash-of-milk-lp",
+      "release": {
+        "title": "Splash of Milk",
+        "release_type": "album",
+        "date": "2026-04-22"
+      }
+    }
+  ]
+}
