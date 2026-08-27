@@ -1,0 +1,43 @@
+{
+  "date": "2026-08-27",
+  "picks": [
+    {
+      "name": "Lauer",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on Altered Circuits.",
+      "genres": ["Nu Disco", "Synth", "Electroclash"],
+      "bio": "Philipp Lauer, a three-decade veteran of the Frankfurt studio Pyramide 2 working under numerous aliases. \"Embalmed In Martino\" (June 1, 2026) is a four-track EP -- Embalmed, Martino, Transactional, Don't You Know -- his tongue-in-cheek ode to the Belgian Martino sauce, moving from early-80s Manchester-style electroclash bass through Miami basslines to soaring synthwave.",
+      "why_listen": "Playful, synth-forward electroclash/nu-disco with real dancefloor structure -- a good change of pace between deeper house cuts.",
+      "links": {
+        "bandcamp": "https://alteredcircuitsbrussels.bandcamp.com/album/lauer-embalmed-in-martino"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://alteredcircuitsbrussels.bandcamp.com/album/lauer-embalmed-in-martino",
+      "release": {
+        "title": "Embalmed In Martino",
+        "release_type": "EP",
+        "date": "2026-06-01"
+      }
+    },
+    {
+      "name": "Alan Braxe & Fred Falke",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on Smugglers Way.",
+      "genres": ["French House", "Disco"],
+      "bio": "French house originators marking 25 years of their seminal 2000 track \"Intro\". \"Intro (25th Anniversary)\" (March 20, 2026) pairs two new remixes -- Falke's cosmic, dubby rework with a new bassline, and Braxe's raw \"hotel room edit\" -- built on the original's vocal lift from The Jets' \"Crush On You\".",
+      "why_listen": "A genuine piece of French house history reworked for today's floors -- useful both as a history lesson and as two genuinely different takes on the same classic to mix into a set.",
+      "links": {
+        "bandcamp": "https://alanbraxe.bandcamp.com/album/intro-25th-anniversary"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://alanbraxe.bandcamp.com/album/intro-25th-anniversary",
+      "release": {
+        "title": "Intro (25th Anniversary)",
+        "release_type": "EP",
+        "date": "2026-03-20"
+      }
+    }
+  ]
+}
