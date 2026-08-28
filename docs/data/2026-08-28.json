@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-28",
+  "picks": [
+    {
+      "name": "ODF",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on Shall Not Fade.",
+      "genres": ["UK Garage", "House", "Breaks"],
+      "bio": "Olivier de Friend, a UKG and grooving-breaks specialist stepping into house territory. \"The Rhythm Grooves\" (August 28, 2026) is a four-track statement EP -- The Rhythm Grooves, Free Your Soul, Back To Mine, Do U Feel Me? -- marking his transfer to Shall Not Fade's main roster after two years of singles on his own On Da Floor label.",
+      "why_listen": "Classic US garage-house warmth filtered through a UKG producer's ear for groove -- solid, rolling material for a set's warmer stretches.",
+      "links": {
+        "bandcamp": "https://odfmusic1.bandcamp.com/album/the-rhythm-grooves"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://odfmusic1.bandcamp.com/album/the-rhythm-grooves",
+      "release": {
+        "title": "The Rhythm Grooves",
+        "release_type": "EP",
+        "date": "2026-08-28"
+      }
+    },
+    {
+      "name": "Mata Disk",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on Nous'klaer Audio.",
+      "genres": ["Techno", "Electro"],
+      "bio": "\"MindBoggle\" (July 31, 2026, cat. NOUS048) is a five-track EP on Nous'klaer Audio -- the release directly preceding the label's Oceanic \"ICI\" EP already featured here -- built around tracks like Chooser and Endworld.",
+      "why_listen": "Another solid, driving entry from the same Rotterdam camp as Oceanic -- good back-to-back material if you want to run a Nous'klaer-heavy stretch of a set.",
+      "links": {
+        "bandcamp": "https://nousklaer.bandcamp.com/album/mindboggle"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://nousklaer.bandcamp.com/album/mindboggle",
+      "release": {
+        "title": "MindBoggle",
+        "release_type": "EP",
+        "date": "2026-07-31"
+      }
+    },
+    {
+      "name": "Mohamed Bourouissa",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on PAN.",
+      "genres": ["Ambient", "Experimental"],
+      "bio": "Algerian-born, Paris-based photographer, known for using the documentary medium to probe subtle systems of power. \"LILA\" (July 24, 2026) is his first extended musical work -- 12 tracks on PAN, each named after and inspired by people in his life.",
+      "why_listen": "Not a club record -- a surrealist, photographer's-ear take on ambient/experimental sound, in the same headphones-first vein as your Patrick Belaga pick from earlier this week.",
+      "links": {
+        "bandcamp": "https://mohamedbourouissa.bandcamp.com/album/lila"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://mohamedbourouissa.bandcamp.com/album/lila",
+      "release": {
+        "title": "LILA",
+        "release_type": "album",
+        "date": "2026-07-24"
+      }
+    }
+  ]
+}
