@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-29",
+  "picks": [
+    {
+      "name": "Severed Heads",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on Dark Entries.",
+      "genres": ["Experimental", "Industrial", "Electronic"],
+      "bio": "Australian experimental/industrial pioneers. \"Cuisine (With Piscatorial)\" (August 7, 2026) is an expanded reissue of their 1991 opus -- its first-ever vinyl pressing, on 2xLP, with a previously unreleased early version of \"Seven of Oceans\" included.",
+      "why_listen": "Genuinely new-to-the-world material from a foundational act -- the unreleased track alone makes it worth a listen for anyone into the industrial/experimental lineage behind a lot of modern club music.",
+      "links": {
+        "bandcamp": "https://severedheads.bandcamp.com/album/cuisine-with-piscatorial"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://severedheads.bandcamp.com/album/cuisine-with-piscatorial",
+      "release": {
+        "title": "Cuisine (With Piscatorial)",
+        "release_type": "album",
+        "date": "2026-08-07"
+      }
+    },
+    {
+      "name": "Sam Goku",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on Rhythm Section International.",
+      "genres": ["Deep House", "Electronic", "Techno"],
+      "bio": "Also known from releases on Dekmantel and Permanent Vacation. \"Interrelation\" (July 10, 2026) is his Rhythm Section International debut -- four tracks (Interrelation, Lilies Under The Moonlight, Sky and Sand (Club Mix), Leichte Glocken) spanning 96-133 BPM, exploring the buoyant dynamics of the club.",
+      "why_listen": "Deeply atmospheric house with real dancefloor punch and a wide tempo range in one EP -- flexible material for different moments in a set.",
+      "links": {
+        "bandcamp": "https://samgoku.bandcamp.com/album/interrelation"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://samgoku.bandcamp.com/album/interrelation",
+      "release": {
+        "title": "Interrelation",
+        "release_type": "EP",
+        "date": "2026-07-10"
+      }
+    },
+    {
+      "name": "Michelle",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on Kalahari Oyster Cult.",
+      "genres": ["House", "Techno"],
+      "bio": "Kalahari Oyster Cult debutant out of Uruguay. \"Unfailing Love\" (July 31, 2026) is a four-track EP -- More Sexy Than Me, Is It Me?, Non Notes, Open The Door -- and the label's 80th release, described as \"boisterous stuff.\"",
+      "why_listen": "A fresh name on a label worth watching -- boisterous, energetic house/techno good for building momentum in a set.",
+      "links": {
+        "bandcamp": "https://kalaharioystercult.bandcamp.com/album/unfailing-love"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://kalaharioystercult.bandcamp.com/album/unfailing-love",
+      "release": {
+        "title": "Unfailing Love",
+        "release_type": "EP",
+        "date": "2026-07-31"
+      }
+    }
+  ]
+}
