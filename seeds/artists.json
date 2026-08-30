@@ -5696,7 +5696,10 @@
       "Bass"
     ],
     "track_count": 4,
-    "labels": []
+    "labels": [
+      "Teka Music"
+    ],
+    "notes": "New single \"Pass the Salad\" on Teka Music, Aug 2026."
   },
   {
     "name": "Steve Lehman",
@@ -6698,5 +6701,20 @@
     "playlists": [],
     "track_count": 0,
     "notes": "\"Unfailing Love\" EP on Kalahari Oyster Cult, Jul 2026. Uruguay."
+  },
+  {
+    "name": "Mick Harris",
+    "source": "discovered",
+    "genres": [
+      "Dub",
+      "Experimental",
+      "Bass"
+    ],
+    "labels": [
+      "L.I.E.S."
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "\"Culvert Dubs Session 7\" 2xLP on L.I.E.S. Records, May 2026. Of Scorn/Napalm Death/Painkiller."
   }
 ]

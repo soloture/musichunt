@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-30",
+  "picks": [
+    {
+      "name": "Mick Harris",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on L.I.E.S. Records.",
+      "genres": ["Dub", "Experimental", "Bass"],
+      "bio": "UK sound artist known for Scorn, Napalm Death and Painkiller. \"Culvert Dubs Session 7\" (May 1, 2026) is an 8-track 2xLP on L.I.E.S. Records, part of his ongoing dub-influenced Culvert series.",
+      "why_listen": "Heavyweight, cavernous dub from an artist with decades of extreme-music pedigree -- useful for a low-end-driven, atmospheric stretch that isn't quite techno or reggae.",
+      "links": {
+        "bandcamp": "https://liesrecords.bandcamp.com/album/culvert-dubs-session-7"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://liesrecords.bandcamp.com/album/culvert-dubs-session-7",
+      "release": {
+        "title": "Culvert Dubs Session 7",
+        "release_type": "album",
+        "date": "2026-05-01"
+      }
+    },
+    {
+      "name": "Piero Umiliani, Berto Pisano, Armando Trovajoli, Luis Bacalov",
+      "type": "label",
+      "source_type": "label_watch",
+      "source_note": "New volume on Right Tempo / Mono Jazz / Easy Tempo, same series as the Vol.3 pick already featured (Aug 19).",
+      "genres": ["Library Music", "Soundtrack", "Break Beat"],
+      "bio": "\"Easy Tempo Experience Vol.4 - THE SIXTH SENSE\" (March 13, 2026) draws from classic Italian soundtrack and library catalog work by Umiliani, Pisano, Trovajoli and Bacalov, reworked and carefully selected by a global crew of producer friends.",
+      "why_listen": "Another entry in the same reworked-library-music series as your existing Easy Tempo pick -- cinematic breaks and grooves that sample and mix well.",
+      "links": {
+        "bandcamp": "https://righttempo.bandcamp.com/album/easy-tempo-experience-vol-4-the-sixth-sense"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://righttempo.bandcamp.com/album/easy-tempo-experience-vol-4-the-sixth-sense",
+      "release": {
+        "title": "Easy Tempo Experience Vol.4 - THE SIXTH SENSE",
+        "release_type": "compilation",
+        "date": "2026-03-13"
+      }
+    },
+    {
+      "name": "Spoek Mathambo",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library.",
+      "genres": ["Township Tech", "Electro", "House"],
+      "bio": "Already in your library. South African artist who coined the term \"Township Tech.\" \"Pass the Salad\" (August 20, 2026) is a new single on his own Teka Music.",
+      "why_listen": "Fresh material from an artist already in your rotation -- worth checking against his older tracks you already play to see how his sound has moved.",
+      "links": {
+        "bandcamp": "https://spoekmathambo.bandcamp.com/track/pass-the-salad"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://spoekmathambo.bandcamp.com/track/pass-the-salad",
+      "release": {
+        "title": "Pass the Salad",
+        "release_type": "single",
+        "date": "2026-08-20"
+      }
+    }
+  ]
+}
