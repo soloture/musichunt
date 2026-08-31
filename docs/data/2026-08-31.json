@@ -1,0 +1,43 @@
+{
+  "date": "2026-08-31",
+  "picks": [
+    {
+      "name": "Scuba",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on Hotflush Recordings.",
+      "genres": ["Techno", "Rave", "Dub"],
+      "bio": "Paul Rose, Hotflush's own founder. \"Petrology\" (April 10, 2026) is a six-track, vinyl-only Record Store Day EP -- Homing Device, Puppets, Petrology on side A, three Tío versions on side B -- covering the widest stylistic range of his productions since his 2015 album \"Claustrophobia.\"",
+      "why_listen": "A producer revisiting the full width of his own language -- techno, rave energy, dub depth and ambient drift in one release, with enough atmosphere to keep it from feeling purely functional.",
+      "links": {
+        "bandcamp": "https://scubaofficial.bandcamp.com/album/petrology"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://scubaofficial.bandcamp.com/album/petrology",
+      "release": {
+        "title": "Petrology",
+        "release_type": "EP",
+        "date": "2026-04-10"
+      }
+    },
+    {
+      "name": "Answer Code Request",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on Delsin Records.",
+      "genres": ["Techno", "Electronica"],
+      "bio": "Berlin producer marking his first album in eight years. \"Halo\" (June 26, 2026) applies the solid structures of floor-focused Berlin techno to the expressive space of introspective electronica.",
+      "why_listen": "A genuine comeback record -- functional enough for the floor but with more emotional range than straight club techno, good for a set's more introspective stretch.",
+      "links": {
+        "bandcamp": "https://answercoderequest.bandcamp.com/album/halo"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://answercoderequest.bandcamp.com/album/halo",
+      "release": {
+        "title": "Halo",
+        "release_type": "album",
+        "date": "2026-06-26"
+      }
+    }
+  ]
+}
