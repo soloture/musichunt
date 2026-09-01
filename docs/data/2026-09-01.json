@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-01",
+  "picks": [
+    {
+      "name": "Phase Fatale",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on Dekmantel (UFO series).",
+      "genres": ["Techno", "EBM", "Industrial"],
+      "bio": "Berlin DJ, producer and label owner, making his Dekmantel UFO series debut. \"Off Desire\" (July 3, 2026) is a four-track EP -- Immobile Symmetry, Guts, Blue Rose, Off Desire -- his first solo release in two years, with the title track a nod to his late friend and collaborator Silent Servant.",
+      "why_listen": "Driving, robotic techno with dystopian, EBM-adjacent textures -- a precise, hypnotic pick for a darker, more industrial-leaning stretch of a set.",
+      "links": {
+        "bandcamp": "https://phasefatalemusic.bandcamp.com/album/off-desire"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://phasefatalemusic.bandcamp.com/album/off-desire",
+      "release": {
+        "title": "Off Desire",
+        "release_type": "EP",
+        "date": "2026-07-03"
+      }
+    },
+    {
+      "name": "Efdemin",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on Dekmantel Records.",
+      "genres": ["Techno", "Acid"],
+      "bio": "Phillip Sollmann, an enduring presence in techno since the early 2000s. \"Mirror Phase EP\" (July 17, 2026) is four precise, direct techno tracks -- Mirror Phase, FS1R, Unity Grain, Slip.",
+      "why_listen": "Confident, no-nonsense acid techno from a veteran producer -- reliable peak-time material to pair with the Phase Fatale pick above for a heavier stretch of a set.",
+      "links": {
+        "bandcamp": "https://dekmantel.bandcamp.com/album/mirror-phase-ep"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://dekmantel.bandcamp.com/album/mirror-phase-ep",
+      "release": {
+        "title": "Mirror Phase EP",
+        "release_type": "EP",
+        "date": "2026-07-17"
+      }
+    }
+  ]
+}

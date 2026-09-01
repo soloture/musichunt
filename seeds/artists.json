@@ -6745,5 +6745,34 @@
     "playlists": [],
     "track_count": 0,
     "notes": "\"Halo\" album on Delsin Records, Jun 2026 -- first album in 8 years."
+  },
+  {
+    "name": "Phase Fatale",
+    "source": "discovered",
+    "genres": [
+      "Techno",
+      "EBM",
+      "Industrial"
+    ],
+    "labels": [
+      "Dekmantel"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "\"Off Desire\" EP on Dekmantel (UFO series), Jul 2026."
+  },
+  {
+    "name": "Efdemin",
+    "source": "discovered",
+    "genres": [
+      "Techno",
+      "Acid"
+    ],
+    "labels": [
+      "Dekmantel Records"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "\"Mirror Phase EP\" on Dekmantel Records, Jul 2026."
   }
 ]
