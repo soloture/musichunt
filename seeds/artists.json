@@ -5749,7 +5749,11 @@
       "Hyperjazz"
     ],
     "track_count": 1,
-    "labels": []
+    "labels": [
+      "Rhythm Section International",
+      "NC4K"
+    ],
+    "notes": "\"Odoriko\" EP on Rhythm Section International, Jul 2026 (Rhythm Section debut)."
   },
   {
     "name": "Suba",
@@ -6774,5 +6778,19 @@
     "playlists": [],
     "track_count": 0,
     "notes": "\"Mirror Phase EP\" on Dekmantel Records, Jul 2026."
+  },
+  {
+    "name": "Shin Watanabe",
+    "source": "discovered",
+    "genres": [
+      "Deep House",
+      "Electronic"
+    ],
+    "labels": [
+      "L.I.E.S."
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "\"RED ZONE-ETHOS MAMA TRAX\" 2xLP on L.I.E.S. Records, May 2026."
   }
 ]

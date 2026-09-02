@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-02",
+  "picks": [
+    {
+      "name": "Shin Watanabe",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on L.I.E.S. Records.",
+      "genres": ["Deep House", "Electronic"],
+      "bio": "\"RED ZONE-ETHOS MAMA TRAX\" (May 1, 2026) is a sprawling 13-track 2xLP on L.I.E.S. Records, gathering Watanabe's Red Zone and Ethos Mama Trax series into one release.",
+      "why_listen": "A big, varied dose of deep house from a prolific L.I.E.S. regular -- plenty of material to pull individual tools from for different points in a set.",
+      "links": {
+        "bandcamp": "https://liesrecords.bandcamp.com/album/red-zone-ethos-mama-trax"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://liesrecords.bandcamp.com/album/red-zone-ethos-mama-trax",
+      "release": {
+        "title": "RED ZONE-ETHOS MAMA TRAX",
+        "release_type": "album",
+        "date": "2026-05-01"
+      }
+    },
+    {
+      "name": "Stones Taro",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library; new release on Rhythm Section International.",
+      "genres": ["House", "Electronic"],
+      "bio": "Taro Nakano, already in your library, who also heads up the NC4K label. \"Odoriko\" (July 24, 2026) is his Rhythm Section debut -- five tracks: Odoriko (feat. MFS), Goat, Just A Little Bit, Out Of Cycle, Silk.",
+      "why_listen": "New material from an artist already in your rotation, landing on a label with a strong track record (see Sam Goku, already featured) -- worth getting ahead of.",
+      "links": {
+        "bandcamp": "https://stonestaro.bandcamp.com/album/odoriko"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://stonestaro.bandcamp.com/album/odoriko",
+      "release": {
+        "title": "Odoriko",
+        "release_type": "EP",
+        "date": "2026-07-24"
+      }
+    },
+    {
+      "name": "Kyle Hall",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library.",
+      "genres": ["Deep House", "Jazz House"],
+      "bio": "Already in your library. \"Smooth Architecture\" (June 1, 2026) is a self-released track -- lovely rhythmic composition, mellow jazz voicings over saw-wave basslines, warm and groovy throughout.",
+      "why_listen": "A fresh cut from an artist already in your rotation -- softer and jazzier than his rawer Detroit output, good for a warmer moment in a set.",
+      "links": {
+        "bandcamp": "https://kylehall.bandcamp.com/track/kyle-hall-smooth-architecture"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://kylehall.bandcamp.com/track/kyle-hall-smooth-architecture",
+      "release": {
+        "title": "Smooth Architecture",
+        "release_type": "single",
+        "date": "2026-06-01"
+      }
+    }
+  ]
+}
