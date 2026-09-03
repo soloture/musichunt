@@ -4933,7 +4933,10 @@
       "slow"
     ],
     "track_count": 1,
-    "labels": []
+    "labels": [
+      "Pr\u00edncipe"
+    ],
+    "notes": "\"Consuma\u00e7\u00e3o\" EP on Pr\u00edncipe, Jun 2026."
   },
   {
     "name": "Pursuit Grooves",
@@ -6792,5 +6795,20 @@
     "playlists": [],
     "track_count": 0,
     "notes": "\"RED ZONE-ETHOS MAMA TRAX\" 2xLP on L.I.E.S. Records, May 2026."
+  },
+  {
+    "name": "DJs Di Guetto",
+    "source": "discovered",
+    "genres": [
+      "Batida",
+      "Kuduro",
+      "Tarraxinha"
+    ],
+    "labels": [
+      "Pr\u00edncipe"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Collective of DJ Fofuxo, DJ Jesse, DJ Marfox, DJ N.K, DJ Nervoso, DJ Pausas. \"DJs Di Guetto Vol. II\" LP on Pr\u00edncipe, Mar 2026."
   }
 ]

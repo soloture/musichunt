@@ -823,5 +823,18 @@
       "bandcamp": "https://spoekmathambo.bandcamp.com"
     },
     "notes": "Spoek Mathambo's own imprint. \"Pass the Salad\" single (Aug 2026) featured here."
+  },
+  {
+    "name": "Pr\u00edncipe",
+    "source": "discovered",
+    "genres": [
+      "Batida",
+      "Kuduro",
+      "Tarraxinha"
+    ],
+    "links": {
+      "bandcamp": "https://principediscos.bandcamp.com"
+    },
+    "notes": "Lisbon label for Angolan-diaspora batida/kuduro/tarraxinha. PT Musik (already in seeds) and DJs Di Guetto featured here."
   }
 ]

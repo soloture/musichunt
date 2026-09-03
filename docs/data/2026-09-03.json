@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-03",
+  "picks": [
+    {
+      "name": "PT Musik",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library. New label discovery: Príncipe (Lisbon).",
+      "genres": ["Urbano Latino", "Batida", "Kuduro"],
+      "bio": "Already in your library. \"Consumação\" (June 5, 2026) is an 8-track EP on the Lisbon label Príncipe -- Nha Budjura, Lembranças, Coração de Pedra, Não Acredito, Leave Me Alone, Movimento, Me Suga, Hot Girl -- a transitional, spiritually-inflected document marking a break with his old self.",
+      "why_listen": "New material from an artist already in your rotation, and a chance to discover Príncipe -- the Lisbon label behind the Angolan-diaspora batida/kuduro sound -- through someone you already play.",
+      "links": {
+        "bandcamp": "https://principediscos.bandcamp.com/album/consuma-o"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://principediscos.bandcamp.com/album/consuma-o",
+      "release": {
+        "title": "Consumação",
+        "release_type": "EP",
+        "date": "2026-06-05"
+      }
+    },
+    {
+      "name": "DJs Di Guetto",
+      "type": "label",
+      "source_type": "associated",
+      "source_note": "Same label as PT Musik (above) -- Príncipe, Lisbon.",
+      "genres": ["Batida", "Kuduro", "Tarraxinha"],
+      "bio": "\"DJs Di Guetto Vol. II\" (March 6, 2026) is a collective LP on Príncipe written and produced by DJ Fofuxo, DJ Jesse, DJ Marfox, DJ N.K, DJ Nervoso, and DJ Pausas -- foundational names in Lisbon's ghetto/batida scene.",
+      "why_listen": "Raw, foundational batida/kuduro from the scene's core figures -- a good entry point into the Príncipe sound alongside your PT Musik pick above.",
+      "links": {
+        "bandcamp": "https://principediscos.bandcamp.com/album/djs-di-guetto-vol-ii"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://principediscos.bandcamp.com/album/djs-di-guetto-vol-ii",
+      "release": {
+        "title": "DJs Di Guetto Vol. II",
+        "release_type": "album",
+        "date": "2026-03-06"
+      }
+    }
+  ]
+}
