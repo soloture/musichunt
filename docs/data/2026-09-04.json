@@ -1,0 +1,62 @@
+{
+  "date": "2026-09-04",
+  "picks": [
+    {
+      "name": "Various Artists",
+      "type": "label",
+      "source_type": "label_watch",
+      "source_note": "New compilation on Dark Entries.",
+      "genres": ["Cold Wave", "Industrial", "Post-Punk", "Electronic"],
+      "bio": "\"Endangered Species Vol. 2\" (September 4, 2026) is Dark Entries' second archival dig into extinct/out-of-print underground music -- eleven specimens now preserved on vinyl, including a previously unreleased male vocal demo of Alexander Robotnick's \"I Wanna Believe\" and \"Bastards\" by Dwayne R. Goettel and cEvin Key (Skinny Puppy).",
+      "why_listen": "A genuinely new document of lost cold wave, industrial and post-punk-adjacent electronic music -- the Robotnick demo and Goettel/Key track alone are worth digging into for sample-hunting or set-opener texture.",
+      "links": {
+        "bandcamp": "https://darkentriesrecords.bandcamp.com/album/endangered-species-vol-2"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://darkentriesrecords.bandcamp.com/album/endangered-species-vol-2",
+      "release": {
+        "title": "Endangered Species Vol. 2",
+        "release_type": "compilation",
+        "date": "2026-09-04"
+      }
+    },
+    {
+      "name": "Thrill",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on Kalahari Oyster Cult.",
+      "genres": ["House", "Techno"],
+      "bio": "Will Howard christening a new alias on his Kalahari debut. \"Smoke Fuelled Fantasies\" (June 26, 2026, cat. OYSTER78) is a four-track EP -- The Voices, Down The Burrow, Globelite, Day Dreamer.",
+      "why_listen": "A fresh alias worth tracking from day one -- energetic house/techno that fits well alongside the label's other 2026 debutants you've already featured (Michelle).",
+      "links": {
+        "bandcamp": "https://kalaharioystercult.bandcamp.com/album/smoke-fuelled-fantasies"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://kalaharioystercult.bandcamp.com/album/smoke-fuelled-fantasies",
+      "release": {
+        "title": "Smoke Fuelled Fantasies",
+        "release_type": "EP",
+        "date": "2026-06-26"
+      }
+    },
+    {
+      "name": "Nectar, Succulent",
+      "type": "label",
+      "source_type": "label_watch",
+      "source_note": "New release on Kalahari Oyster Cult (Mineral archival series).",
+      "genres": ["House", "Electronic"],
+      "bio": "\"MINERAL11\" (May 21, 2026) is a two-track split 12\" -- \"Mercurial Drums\" by Nectar and \"The Nature of Things\" by Succulent -- part of Kalahari Oyster Cult's Mineral series surfacing small, obscure original runs, this time from Grayhound Recordings, a San Francisco imprint founded in 1998.",
+      "why_listen": "Archival digging with real dancefloor use -- rare material resurfaced specifically because it still works today, not just for nostalgia.",
+      "links": {
+        "bandcamp": "https://kalaharioystercult.bandcamp.com/album/mineral11"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://kalaharioystercult.bandcamp.com/album/mineral11",
+      "release": {
+        "title": "MINERAL11",
+        "release_type": "EP",
+        "date": "2026-05-21"
+      }
+    }
+  ]
+}
