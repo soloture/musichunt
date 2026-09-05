@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-05",
+  "picks": [
+    {
+      "name": "Eden Samara",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on Local Action (with Lapsus).",
+      "genres": ["UKG", "House", "Jungle", "Footwork"],
+      "bio": "Canadian-born vocalist, producer and songwriter. \"Odyssey\" (September 4, 2026) is her second Local Action LP -- 10 tracks moving between new age pop, 2-step UKG, house, R&B and footwork-jungle, with co-production from Tim Reaper, Comfort Zone and TSVI, drawing on Homer's Odyssey and The Alchemist as she traces the emotional aftermath of watching loved ones struggle with addiction and mental health.",
+      "why_listen": "A genre-hopping dance-pop song cycle that's genuinely club-rooted rather than just pop with beats -- useful for a set that wants vocal hooks without losing rhythmic range.",
+      "links": {
+        "bandcamp": "https://localactionrecords.bandcamp.com/album/odyssey"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://localactionrecords.bandcamp.com/album/odyssey",
+      "release": {
+        "title": "Odyssey",
+        "release_type": "album",
+        "date": "2026-09-04"
+      }
+    },
+    {
+      "name": "Krakatau",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library.",
+      "genres": ["Jazz", "Fusion"],
+      "bio": "Already in your library. \"Terra Ignota\" (May 15, 2026) is a new full-length from the Melbourne fusion ensemble on Elations Recordings -- five tracks marking a return and epochal shift for the group, exploring new sonic spaces.",
+      "why_listen": "Fresh long-form material from an artist already in your bass/jazz rotation -- good source material even if not a direct club tool.",
+      "links": {
+        "bandcamp": "https://krakatauband.bandcamp.com/album/terra-ignota"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://krakatauband.bandcamp.com/album/terra-ignota",
+      "release": {
+        "title": "Terra Ignota",
+        "release_type": "album",
+        "date": "2026-05-15"
+      }
+    }
+  ]
+}
