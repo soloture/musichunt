@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-06",
+  "picks": [
+    {
+      "name": "Asa Tate",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on Rhythm Section International.",
+      "genres": ["Proto House", "Techno"],
+      "bio": "\"Andromeda\" (July 17, 2026) is a four-track EP -- Traffic, Andromeda, Echotex (Freak Mix), Echotex (Deep Dub) -- exploring a darker, more introspective path drawing from US proto house and techno.",
+      "why_listen": "Rawer and more sub-driven than typical Rhythm Section fare -- a good pick when you want proto-house grit rather than polish.",
+      "links": {
+        "bandcamp": "https://asatate-techsupport.bandcamp.com/album/andromeda"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://asatate-techsupport.bandcamp.com/album/andromeda",
+      "release": {
+        "title": "Andromeda",
+        "release_type": "EP",
+        "date": "2026-07-17"
+      }
+    },
+    {
+      "name": "Vague Imaginaires",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on Multi Culti (World Records).",
+      "genres": ["Ambient Techno", "House", "Sound Art"],
+      "bio": "Denis Morin's project, expanding his 'Island' series. \"L'Île Sans Frontières\" (July 25, 2026) is a five-track EP -- Le Village, Dauphin Dance, Mon Chat a Bali, My Soul Can Sing, Club Nostalgic -- blending ambient techno, house, field recordings, spoken word and dubby textures, featuring auto-tuned voices gathered through workshops with migrant communities.",
+      "why_listen": "Sits between club music and full trip-out sound art -- a good pick for a set's more reflective, texturally rich moments.",
+      "links": {
+        "bandcamp": "https://vagueimaginaires.bandcamp.com/album/l-le-sans-frontieres"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://vagueimaginaires.bandcamp.com/album/l-le-sans-frontieres",
+      "release": {
+        "title": "L'Île Sans Frontières",
+        "release_type": "EP",
+        "date": "2026-07-25"
+      }
+    }
+  ]
+}
