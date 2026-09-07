@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-07",
+  "picks": [
+    {
+      "name": "DJ Koze",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library.",
+      "genres": ["Deep House"],
+      "bio": "Already in your library. \"Spiralen EP\" (PAMPA045, June 12, 2026) strips back to the understated deep house pulse of his earlier Pampa releases -- the title track carries an enigmatic female vocal over a metronomic shuffle, while AA-side \"Wo's Patric?!?\" has a limber groove tinged with twinkling synths.",
+      "why_listen": "A return to leaner, more understated territory from an artist you already play in his more maximalist mode -- good for a quieter, more hypnotic stretch of a set.",
+      "links": {
+        "bandcamp": "https://djkoze.bandcamp.com/album/spiralen-ep-pampa045"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://djkoze.bandcamp.com/album/spiralen-ep-pampa045",
+      "release": {
+        "title": "Spiralen EP",
+        "release_type": "EP",
+        "date": "2026-06-12"
+      }
+    },
+    {
+      "name": "Egoless",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library.",
+      "genres": ["Dub", "Reggae"],
+      "bio": "Already in your library. \"OXYGENE (Egoless versions)\" (February 4, 2026) reworks Jean-Michel Jarre's \"Oxygene (Pt. 4)\" into dub and reggae versions -- the original synth line recast for live brass, the bassline rebuilt into a 4x4 steppers groove, all instruments played live with no original samples used.",
+      "why_listen": "A genuinely inventive dub rework of a classic synth piece -- distinctive enough to stand out as a transition or curveball moment in a set.",
+      "links": {
+        "bandcamp": "https://egoless.bandcamp.com/album/oxygene-egoless-versions"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://egoless.bandcamp.com/album/oxygene-egoless-versions",
+      "release": {
+        "title": "OXYGENE (Egoless versions)",
+        "release_type": "EP",
+        "date": "2026-02-04"
+      }
+    }
+  ]
+}
