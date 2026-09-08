@@ -836,5 +836,33 @@
       "bandcamp": "https://principediscos.bandcamp.com"
     },
     "notes": "Lisbon label for Angolan-diaspora batida/kuduro/tarraxinha. PT Musik (already in seeds) and DJs Di Guetto featured here."
+  },
+  {
+    "name": "Enchufada",
+    "source": "discovered",
+    "genres": [
+      "Batida",
+      "Kuduro",
+      "Bass",
+      "Afro-House"
+    ],
+    "links": {
+      "bandcamp": "https://enchufada.bandcamp.com"
+    },
+    "notes": "Lisbon label co-founded by Branko, 20 years old in 2026. \"Enchufada: A Lisbon Club Story\" comp (Apr 2026) featured here."
+  },
+  {
+    "name": "Hyperdub",
+    "source": "discovered",
+    "genres": [
+      "Footwork",
+      "Bass",
+      "Experimental",
+      "Electronic"
+    ],
+    "links": {
+      "bandcamp": "https://hyperdub.bandcamp.com"
+    },
+    "notes": "Kode9's influential London label. Foodman \"HIKARIGASASHIKOMU\" (Jul 2026) featured here."
   }
 ]

@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-08",
+  "picks": [
+    {
+      "name": "Foodman",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library. New label discovery: Hyperdub.",
+      "genres": ["Footwork", "Experimental", "Electronic"],
+      "bio": "Already in your library. \"HIKARIGASASHIKOMU\" (July 24, 2026, digital; vinyl August 21) is a Hyperdub album, a direct evolution from his 2023 EP \"uchigawa tankentai\" -- both introspective and hyperactive, with looped vocals, Japanese children's songs and playground rhymes woven through the productions.",
+      "why_listen": "A more personal, voice-forward turn from an artist already in your rotation -- good for a set that wants footwork's rhythmic strangeness with a warmer, more human touch.",
+      "links": {
+        "bandcamp": "https://foodman.bandcamp.com/album/hikarigasashikomu"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://foodman.bandcamp.com/album/hikarigasashikomu",
+      "release": {
+        "title": "HIKARIGASASHIKOMU",
+        "release_type": "album",
+        "date": "2026-07-24"
+      }
+    },
+    {
+      "name": "Branko (Various Artists)",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library. New label discovery: Enchufada (Lisbon).",
+      "genres": ["Batida", "Kuduro", "Bass", "Afro-House"],
+      "bio": "Already in your library. \"Enchufada: A Lisbon Club Story\" (April 24, 2026) is a 20-track compilation marking 20 years of Branko's Lisbon label -- 12 archival tracks (Buraka Som Sistema, DJ Marfox's 2013 batida smash \"Urban ADN\") alongside 8 new ones, including Branko's own \"Eventually\" (feat. Alex Rita & Bison) and \"MPTS\" with Pedro da Linha.",
+      "why_listen": "A hybrid bass/grime/rave sound bridging Afro-diasporic styles -- pairs naturally with your Príncipe picks (DJs Di Guetto, PT Musik) for a full Lisbon-scene stretch of a set.",
+      "links": {
+        "bandcamp": "https://enchufada.bandcamp.com/album/enchufada-a-lisbon-club-story"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://enchufada.bandcamp.com/album/enchufada-a-lisbon-club-story",
+      "release": {
+        "title": "Enchufada: A Lisbon Club Story",
+        "release_type": "compilation",
+        "date": "2026-04-24"
+      }
+    }
+  ]
+}
