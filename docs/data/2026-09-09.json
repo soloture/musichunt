@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-09",
+  "picks": [
+    {
+      "name": "Polygonia / Melatonin Man",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on Nous'klaer Audio.",
+      "genres": ["Techno", "Electro"],
+      "bio": "\"Black Swords / Timeless Time\" (September 4, 2026, cat. NOUS051) pairs two label favorites: Polygonia's \"Black Swords\" on the A-side, Melatonin Man's \"Timeless Time\" on the B.",
+      "why_listen": "A straightforward two-tracker from a label that's been reliable all year -- solid, driving material to slot alongside your other Nous'klaer picks.",
+      "links": {
+        "bandcamp": "https://nousklaer.bandcamp.com/album/black-swords-timeless-time"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://nousklaer.bandcamp.com/album/black-swords-timeless-time",
+      "release": {
+        "title": "Black Swords / Timeless Time",
+        "release_type": "EP",
+        "date": "2026-09-04"
+      }
+    },
+    {
+      "name": "Little Simz",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library.",
+      "genres": ["UK Hip Hop", "Electronic", "Dance"],
+      "bio": "Already in your library. \"Sugar Girl\" (May 8, 2026) is a four-track EP on AWAL, produced with longtime collaborator Jakwob -- That's A No No, Game On (feat. JT), Open Arms (feat. Deela), Telephone (feat. 070 Shake) -- pushing further into club-focused, genre-bending production than her usual rap output.",
+      "why_listen": "A rare dancefloor-facing move from an artist you already know for sharp lyricism -- an all-women-featured EP with real electronic textures and dancefloor energy.",
+      "links": {
+        "website": "https://littlesimz.ffm.to/sugargirl"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://littlesimz.ffm.to/sugargirl",
+      "release": {
+        "title": "Sugar Girl",
+        "release_type": "EP",
+        "date": "2026-05-08"
+      }
+    }
+  ]
+}
