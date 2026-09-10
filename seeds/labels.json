@@ -864,5 +864,21 @@
       "bandcamp": "https://hyperdub.bandcamp.com"
     },
     "notes": "Kode9's influential London label. Foodman \"HIKARIGASASHIKOMU\" (Jul 2026) featured here."
+  },
+  {
+    "name": "Wah Wah 45s",
+    "source": "discovered",
+    "genres": [
+      "Afrobeat",
+      "Soul",
+      "Funk",
+      "Jazz",
+      "Broken Beat"
+    ],
+    "links": {
+      "bandcamp": "https://wahwah45s.bandcamp.com",
+      "website": "https://www.wahwah45s.com"
+    },
+    "notes": "London soul/funk/Afrobeat label since 1999. Dele Sosimi \"Remixed 2026\" EP featured here."
   }
 ]

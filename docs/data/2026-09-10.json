@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-10",
+  "picks": [
+    {
+      "name": "Dele Sosimi (feat. brekkyt & Meith)",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New label discovery: Wah Wah 45s. Similar Afrobeat/broken-beat territory to your Alex Nut/Eglo picks.",
+      "genres": ["Afrobeat", "Broken Beat", "Afro-Tech"],
+      "bio": "Fela Kuti/Egypt 80 alum, now a UK Afrobeat stalwart. \"Remixed 2026\" (August 27, 2026) is a hand-stamped 12\" on Wah Wah 45s -- two new reworks from his album \"You No Fit Touch Am\": brekkyt reshapes the title track with a bruk-and-bass focus, while Meith takes \"Sanctuary\" into deeper Afro-tech territory.",
+      "why_listen": "Afrobeat roots filtered through UK broken beat and bass production -- good connective tissue between your Afrobeat-adjacent picks and your bass/club material.",
+      "links": {
+        "website": "https://www.juno.co.uk/products/dele-sosimi-remixed-2026-vinyl/1174217-01/"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://www.juno.co.uk/products/dele-sosimi-remixed-2026-vinyl/1174217-01/",
+      "release": {
+        "title": "Remixed 2026",
+        "release_type": "EP",
+        "date": "2026-08-27"
+      }
+    },
+    {
+      "name": "Brian d'Souza (Auntie Flo)",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library as Auntie Flo.",
+      "genres": ["Ambient", "Sound Art"],
+      "bio": "Already in your library as Auntie Flo. \"Music To Watch Seeds Grow By 007: Brian d'Souza (Sunflowers)\" (February 19, 2026) is a 7-track ambient album on Ransom Note's Seeds cassette series, drawing on botanical research into how sunflowers interact and compete beneath the soil.",
+      "why_listen": "A fully ambient, ego-free side of an artist you know for club-facing global house -- good texture for an opening set or a wind-down.",
+      "links": {
+        "bandcamp": "https://auntieflo.bandcamp.com/album/music-to-watch-seeds-grow-by-007-brian-d-souza-sunflowers"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://auntieflo.bandcamp.com/album/music-to-watch-seeds-grow-by-007-brian-d-souza-sunflowers",
+      "release": {
+        "title": "Music To Watch Seeds Grow By 007: Brian d'Souza (Sunflowers)",
+        "release_type": "album",
+        "date": "2026-02-19"
+      }
+    }
+  ]
+}
