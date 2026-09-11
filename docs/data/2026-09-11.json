@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-11",
+  "picks": [
+    {
+      "name": "Ploy",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on Dekmantel Records.",
+      "genres": ["House", "Techno", "UK Bass"],
+      "bio": "UK underground producer, second solo outing on Dekmantel. \"Glizzy\" (September 11, 2026, DKMNTL125) is a four-track EP -- Glizzy, Global Underground, Yesterday now Tomorrow, Slowan Dip -- pushing his own flavour of driving, sexy house.",
+      "why_listen": "Peak-time material from a label you already trust for dancefloor-ready techno and house -- a straightforward, high-quality driving EP to slot into a peak set.",
+      "links": {
+        "bandcamp": "https://ployuk.bandcamp.com/album/glizzy"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://ployuk.bandcamp.com/album/glizzy",
+      "release": {
+        "title": "Glizzy",
+        "release_type": "EP",
+        "date": "2026-09-11"
+      }
+    },
+    {
+      "name": "Various Artists (feat. Fort Romeau, ISAbella, Gramrcy)",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New label discovery: Peach Discs, curated by Shanti Celeste and Gramrcy.",
+      "genres": ["House", "Techno", "Deep Tech"],
+      "bio": "Peach Discs is the Bristol/Manchester-orbit label curated by Shanti Celeste and Gramrcy, spanning house, techno, ambient and experimental. \"Peach Pals, Vol. 5\" (August 27, 2026) is their latest various-artists compilation -- nine tracks including Fort Romeau's \"Labda,\" ISAbella's \"Rodeo,\" and label co-runner Gramrcy's own \"Pluq.\"",
+      "why_listen": "A reliable snapshot of the current UK house underground from a well-curated label -- good source for one-off peak-time weapons rather than a single artist's full sound.",
+      "links": {
+        "bandcamp": "https://peachdiscs.bandcamp.com/album/peach-pals-vol-5"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://peachdiscs.bandcamp.com/album/peach-pals-vol-5",
+      "release": {
+        "title": "Peach Pals, Vol. 5",
+        "release_type": "compilation",
+        "date": "2026-08-27"
+      }
+    }
+  ]
+}
