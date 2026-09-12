@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-12",
+  "picks": [
+    {
+      "name": "Sam Binga & Addison Groove",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Both already in your library (Bass/Bar playlists).",
+      "genres": ["Bass", "Footwork", "House", "Techno", "Electro"],
+      "bio": "Two artists already in your library, teaming up for the first time. \"BAGS INC.\" (July 10, 2026, Pineapple Records) is their debut collaborative album -- 12 tracks born from a 72-hour session with vintage drum machines, filtering Chicago house, Detroit jit, juke and electro through a UK bass lens.",
+      "why_listen": "A raw, high-tempo (140-150bpm) tribute to Midwest club music from two artists you already play separately -- built for peak-time energy with a UK soundsystem edge.",
+      "links": {
+        "bandcamp": "https://pineapplerecords.bandcamp.com/album/sam-binga-addison-groove-present-bags-inc"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://pineapplerecords.bandcamp.com/album/sam-binga-addison-groove-present-bags-inc",
+      "release": {
+        "title": "BAGS INC.",
+        "release_type": "album",
+        "date": "2026-07-10"
+      }
+    },
+    {
+      "name": "Olof Dreijer (feat. MaMan, Pearson Sound remix)",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New label discovery: DH2 (Dirty Hit's electronic imprint). Similar ambient/electronic territory to your Brian d'Souza and Bergsonist picks.",
+      "genres": ["Electronic", "Ambient", "Techno"],
+      "bio": "One half of The Knife, now solo. \"Echoed Dafnino (ft. MaMan) (Pearson Sound Remix)\" (August 19, 2026) reworks a cut from his debut solo album \"Loud Bloom\" into a more clubbable, rhythm-forward reimagining.",
+      "why_listen": "A left-field, texturally rich remix from an artist with serious pedigree -- Pearson Sound's rework gives it just enough club utility for a more adventurous stretch of a set.",
+      "links": {
+        "bandcamp": "https://olofdreijer.bandcamp.com/track/olof-dreijer-echoed-dafnino-ft-maman-pearson-sound-remix"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://olofdreijer.bandcamp.com/track/olof-dreijer-echoed-dafnino-ft-maman-pearson-sound-remix",
+      "release": {
+        "title": "Echoed Dafnino (ft. MaMan) (Pearson Sound Remix)",
+        "release_type": "single",
+        "date": "2026-08-19"
+      }
+    }
+  ]
+}

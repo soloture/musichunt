@@ -894,5 +894,33 @@
       "bandcamp": "https://peachdiscs.bandcamp.com"
     },
     "notes": "UK label curated by Shanti Celeste and Gramrcy. Various-artists \"Peach Pals\" compilation series featured here (Vol. 5, Aug 2026)."
+  },
+  {
+    "name": "Pineapple Records",
+    "source": "discovered",
+    "genres": [
+      "Bass",
+      "Footwork",
+      "House",
+      "Techno",
+      "Electro"
+    ],
+    "links": {
+      "bandcamp": "https://pineapplerecords.bandcamp.com"
+    },
+    "notes": "UK bass label. Sam Binga & Addison Groove collab album \"BAGS INC.\" (Jul 2026) featured here."
+  },
+  {
+    "name": "DH2",
+    "source": "discovered",
+    "genres": [
+      "Electronic",
+      "Ambient",
+      "Techno"
+    ],
+    "links": {
+      "bandcamp": "https://olofdreijer.bandcamp.com"
+    },
+    "notes": "Dirty Hit's electronic sub-label. Olof Dreijer's debut solo album \"Loud Bloom\" (May 2026) and its remixes featured here."
   }
 ]

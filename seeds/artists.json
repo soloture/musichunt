@@ -40,13 +40,20 @@
   {
     "name": "Addison Groove",
     "source": "rekordbox",
-    "genres": [],
+    "genres": [
+      "Bass",
+      "Footwork",
+      "House"
+    ],
     "playlists": [
       "Bar",
       "Bass"
     ],
     "track_count": 4,
-    "labels": []
+    "labels": [
+      "Pineapple Records"
+    ],
+    "notes": "Collab album \"BAGS INC.\" with Sam Binga (Jul 2026) on Pineapple Records."
   },
   {
     "name": "Adonijah",
@@ -5176,12 +5183,19 @@
   {
     "name": "Sam Binga",
     "source": "rekordbox",
-    "genres": [],
+    "genres": [
+      "Bass",
+      "Footwork",
+      "House"
+    ],
     "playlists": [
       "Bass"
     ],
     "track_count": 1,
-    "labels": []
+    "labels": [
+      "Pineapple Records"
+    ],
+    "notes": "Collab album \"BAGS INC.\" with Addison Groove (Jul 2026) on Pineapple Records."
   },
   {
     "name": "Sam Wilkes",
@@ -6957,5 +6971,18 @@
       "Peach Discs"
     ],
     "notes": "Featured on Peach Discs comp \"Peach Pals, Vol. 5\" (Aug 2026) with track \"Labda.\""
+  },
+  {
+    "name": "Olof Dreijer",
+    "source": "discovered",
+    "genres": [
+      "Electronic",
+      "Ambient",
+      "Techno"
+    ],
+    "labels": [
+      "DH2"
+    ],
+    "notes": "One half of The Knife. Debut solo album \"Loud Bloom\" (May 2026) on DH2; \"Echoed Dafnino\" Pearson Sound remix (Aug 2026) featured here."
   }
 ]
