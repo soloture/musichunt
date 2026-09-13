@@ -922,5 +922,18 @@
       "bandcamp": "https://olofdreijer.bandcamp.com"
     },
     "notes": "Dirty Hit's electronic sub-label. Olof Dreijer's debut solo album \"Loud Bloom\" (May 2026) and its remixes featured here."
+  },
+  {
+    "name": "Nyege Nyege Tapes",
+    "source": "discovered",
+    "genres": [
+      "Singeli",
+      "Experimental",
+      "East African Electronic"
+    ],
+    "links": {
+      "bandcamp": "https://nyegenyegetapes.bandcamp.com"
+    },
+    "notes": "Kampala/Dar Es Salaam-orbit label for East African underground electronic music. Jay Mitta \"Kazi Kwanza\" (Sept 2026) featured here."
   }
 ]

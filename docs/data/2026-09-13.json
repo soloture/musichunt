@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-13",
+  "picks": [
+    {
+      "name": "Jay Mitta",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New label discovery: Nyege Nyege Tapes. Similar high-BPM, club-adjacent territory to your N.A.A.F.I and footwork picks.",
+      "genres": ["Singeli", "Breakcore", "Hard Techno"],
+      "bio": "A singeli originator from Dar Es Salaam, Tanzania, made at Sisso Studios where the genre was born. \"Kazi Kwanza\" (September 4, 2026) is his first album in seven years -- 13 fully instrumental tracks pushing singeli's breakneck 180+ BPM rhythms through trap, trance, grime, drill and hard techno.",
+      "why_listen": "Relentless, breakneck-tempo material that's genuinely unlike anything else in your library -- a jolt of energy for a peak-time curveball or a hard transition.",
+      "links": {
+        "bandcamp": "https://nyegenyegetapes.bandcamp.com/album/kazi-kwanza"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://nyegenyegetapes.bandcamp.com/album/kazi-kwanza",
+      "release": {
+        "title": "Kazi Kwanza",
+        "release_type": "album",
+        "date": "2026-09-04"
+      }
+    },
+    {
+      "name": "N.A.A.F.I",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on N.A.A.F.I.",
+      "genres": ["Club", "Reggaeton", "Experimental"],
+      "bio": "\"PIRATA 7\" (September 4, 2026) is the latest in N.A.A.F.I's long-running Pirata mixtape series -- 23 tracks of edits, bootlegs and mashups splicing reggaeton, pop, drum & bass, and club staples into one continuous DJ-ready blast.",
+      "why_listen": "A ready-made bag of party-starting edits and mashups from a label you already trust for boundary-pushing club music -- useful as a grab-bag of transitions and curveballs.",
+      "links": {
+        "bandcamp": "https://naafi.bandcamp.com/album/pirata-7"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://naafi.bandcamp.com/album/pirata-7",
+      "release": {
+        "title": "PIRATA 7",
+        "release_type": "compilation",
+        "date": "2026-09-04"
+      }
+    }
+  ]
+}
