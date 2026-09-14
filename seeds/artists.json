@@ -6997,5 +6997,42 @@
       "Nyege Nyege Tapes"
     ],
     "notes": "Dar Es Salaam singeli originator. \"Kazi Kwanza\" (Sept 2026) is his first album in seven years."
+  },
+  {
+    "name": "Shonky",
+    "source": "discovered",
+    "genres": [
+      "Deep House",
+      "Minimal House",
+      "Techno"
+    ],
+    "labels": [],
+    "notes": "French deep house producer. Self-released \"EP\" (Sept 2026) featured here."
+  },
+  {
+    "name": "DJ Manny",
+    "source": "discovered",
+    "genres": [
+      "Footwork",
+      "Juke",
+      "Chicago House"
+    ],
+    "labels": [
+      "Hyperdub"
+    ],
+    "notes": "Chicago footwork legend. Duo EP \"Feature Presentation\" with DJ Phil (Jul 2026) on Hyperdub featured here."
+  },
+  {
+    "name": "DJ Phil",
+    "source": "discovered",
+    "genres": [
+      "Footwork",
+      "Juke",
+      "Chicago House"
+    ],
+    "labels": [
+      "Hyperdub"
+    ],
+    "notes": "Chicago footwork producer. Duo EP \"Feature Presentation\" with DJ Manny (Jul 2026) on Hyperdub featured here."
   }
 ]

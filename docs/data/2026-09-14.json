@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-14",
+  "picks": [
+    {
+      "name": "Shonky",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery: self-released. Similar deep house/minimal territory to your DJ Koze and Palms Trax picks.",
+      "genres": ["Deep House", "Minimal House", "Techno"],
+      "bio": "French producer known for hypnotic, hard-grooving house with detailed polyrhythms. \"EP\" (September 14, 2026) is a self-released four-track 12\" -- Centro Sociale, Home Signal, Speak & Spell, On The Koon -- plus three digital-only bonus cuts, mastered by Marco Pellegrino at Analog Cuts.",
+      "why_listen": "Punishing, detail-rich deep house grooves that sit right at the house/techno line -- solid material for a driving, hypnotic stretch of a set.",
+      "links": {
+        "bandcamp": "https://shonky.bandcamp.com/album/ep"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://shonky.bandcamp.com/album/ep",
+      "release": {
+        "title": "EP",
+        "release_type": "EP",
+        "date": "2026-09-14"
+      }
+    },
+    {
+      "name": "DJ Manny & DJ Phil",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New release on Hyperdub. Similar Chicago footwork/juke territory to your DJ Diamond and Kush Jones picks.",
+      "genres": ["Footwork", "Juke", "Chicago House"],
+      "bio": "Two Chicago footwork legends, teaming up for their first duo EP on Kode9's Hyperdub. \"Feature Presentation\" (July 17, 2026) is four tracks -- Don't Worry, Make Me Wanna, Know How To Love, Unblockable (ft. DJ Clent) -- fusing hypersoul vocal chops, disco-flavoured juke and acid-riffed footwork.",
+      "why_listen": "Dense, soulful footwork from two genre veterans at the top of their game -- great source for high-energy transitions with real melodic hooks.",
+      "links": {
+        "bandcamp": "https://djmanny1.bandcamp.com/album/feature-presentation"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://djmanny1.bandcamp.com/album/feature-presentation",
+      "release": {
+        "title": "Feature Presentation",
+        "release_type": "EP",
+        "date": "2026-07-17"
+      }
+    }
+  ]
+}
