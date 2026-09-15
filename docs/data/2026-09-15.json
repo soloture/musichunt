@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-15",
+  "picks": [
+    {
+      "name": "Le Motel",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New label discovery: Constellation Tatsu. Similar ambient/field-recording territory to your Brian d'Souza and Andrew Pekler-adjacent picks.",
+      "genres": ["Ambient", "Field Recording", "Downtempo"],
+      "bio": "Brussels-based producer, composer and field recordist. \"Pozo de Agua\" (September 15, 2026) was largely made outdoors and on trains -- ripples, water drops, movement and air treated with the same weight as instruments, drifting in and out to form subtle polyrhythms and overlapping textures.",
+      "why_listen": "Immersive, environmentally-sourced ambient that rewards close listening -- ideal for an opening set or a contemplative wind-down.",
+      "links": {
+        "bandcamp": "https://ctatsu.bandcamp.com/album/pozo-de-agua"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://ctatsu.bandcamp.com/album/pozo-de-agua",
+      "release": {
+        "title": "Pozo de Agua",
+        "release_type": "album",
+        "date": "2026-09-15"
+      }
+    },
+    {
+      "name": "Overmono",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery: XL Recordings. Similar UK electronic/breakbeat territory to your HAAi and Max Cooper picks.",
+      "genres": ["Electronic", "Breakbeat", "Techno"],
+      "bio": "UK duo (brothers Tom and Ed Russell) at the top table of British electronic music. \"Pure Devotion\" (August 7, 2026, XL Recordings) is their second album -- 11 tracks spanning ambient, breakbeat hardcore and techno, pairing pummelling beats and chest-rattling bass with tender chords and guest vocals from John Joseph Holt, Jaz Karis and Kindora.",
+      "why_listen": "Big, emotionally direct dance music with real pop instincts -- anthemic peak-time material that also has genuine downtempo moments.",
+      "links": {
+        "bandcamp": "https://overmono.bandcamp.com/album/pure-devotion"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://overmono.bandcamp.com/album/pure-devotion",
+      "release": {
+        "title": "Pure Devotion",
+        "release_type": "album",
+        "date": "2026-08-07"
+      }
+    }
+  ]
+}
