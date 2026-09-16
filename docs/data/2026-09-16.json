@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-16",
+  "picks": [
+    {
+      "name": "Citizen Boy",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library (Bass playlist).",
+      "genres": ["Gqom", "Bass"],
+      "bio": "Already in your library. \"Sirens\" (August 27, 2026) explores the minimal, hardcore side of gqom -- stripped back, fewer melodies, focused on raw sounds, heavy rhythms and pure energy across four tracks: Sirens, Demolition, Blue Sea, Sirens 2.0.",
+      "why_listen": "A darker, more relentless take on gqom from an artist you already play -- good for a stripped-back, drum-forward stretch of a set.",
+      "links": {
+        "bandcamp": "https://citizenboysa.bandcamp.com/album/sirens-2"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://citizenboysa.bandcamp.com/album/sirens-2",
+      "release": {
+        "title": "Sirens",
+        "release_type": "EP",
+        "date": "2026-08-27"
+      }
+    },
+    {
+      "name": "DJ.MC",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New label discovery: Moveltraxx. Similar Chicago footwork/juke territory to your DJ Manny and Kush Jones picks.",
+      "genres": ["Footwork", "Juke", "Ghetto House"],
+      "bio": "Chicago South Side footwork mainstay, making music since 2001. \"[MTXLT902] STFU & Footwork\" (August 14, 2026) is a five-track EP for Moveltraxx's Footwork Appreciation Month -- experimental yet dancefloor-ready, built from his own voice, soulful samples and hypnotic drum programming.",
+      "why_listen": "Raw, low-end Chicago footwork from a scene veteran -- solid source for high-tempo transitions with real grit.",
+      "links": {
+        "bandcamp": "https://djmcworld.bandcamp.com/album/mtxlt902-stfu-footwork"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://djmcworld.bandcamp.com/album/mtxlt902-stfu-footwork",
+      "release": {
+        "title": "STFU & Footwork",
+        "release_type": "EP",
+        "date": "2026-08-14"
+      }
+    }
+  ]
+}

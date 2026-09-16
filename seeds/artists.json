@@ -1167,13 +1167,15 @@
     "name": "Citizen Boy",
     "source": "rekordbox",
     "genres": [
-      "Dance"
+      "Gqom",
+      "Bass"
     ],
     "playlists": [
       "Bass"
     ],
     "track_count": 1,
-    "labels": []
+    "labels": [],
+    "notes": "\"Sirens\" EP (Aug 2026) -- minimal, hardcore gqom."
   },
   {
     "name": "Clap! Clap!",
@@ -7060,5 +7062,18 @@
       "XL Recordings"
     ],
     "notes": "UK duo (Tom and Ed Russell). Second album \"Pure Devotion\" (Aug 2026) on XL Recordings featured here."
+  },
+  {
+    "name": "DJ.MC",
+    "source": "discovered",
+    "genres": [
+      "Footwork",
+      "Juke",
+      "Ghetto House"
+    ],
+    "labels": [
+      "Moveltraxx"
+    ],
+    "notes": "Chicago South Side footwork mainstay since 2001. \"STFU & Footwork\" EP (Aug 2026) on Moveltraxx featured here."
   }
 ]
