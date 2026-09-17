@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-17",
+  "picks": [
+    {
+      "name": "FJAAK",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery: self-released. Similar raw, analogue techno territory to your Answer Code Request and Phase Fatale picks.",
+      "genres": ["Techno", "Electro"],
+      "bio": "Berlin duo known for raw, analogue-driven techno. \"015\" (September 17, 2026) is a four-track EP -- Serotonin, Threshold, Bio Data, Wax Pack -- with lead single \"Serotonin\" previewed ahead of the full release.",
+      "why_listen": "Straight-up, hardware-driven Berlin techno with real grit -- solid peak-time material for a driving stretch of a set.",
+      "links": {
+        "bandcamp": "https://fjaak.bandcamp.com/album/fjaak-015"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://fjaak.bandcamp.com/album/fjaak-015",
+      "release": {
+        "title": "015",
+        "release_type": "EP",
+        "date": "2026-09-17"
+      }
+    },
+    {
+      "name": "Alex Nut Presents Sum Of Its Parts",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on Eglo Records from a label you already follow.",
+      "genres": ["Broken Beat", "Spiritual Jazz", "Soul"],
+      "bio": "Alex Nut's new collaborative project, drawing on a rotating cast of UK musicians (Sam Crowe of Lianne La Havas, Junior Ali-Balogun of Sault/Cleo Sol, Duane Atherley of Kokoroko). \"The Message EP\" (June 5, 2026) pairs a 10-minute spiritual jazz original with a Boddhi Satva Ancestral Soul remix that resets it into slowed, dubbed broken beat.",
+      "why_listen": "A deep, musician-led spiritual jazz/broken-beat crossover from a label you already trust -- the Boddhi Satva remix in particular is DJ-friendly.",
+      "links": {
+        "bandcamp": "https://alexandernut.bandcamp.com/album/alex-nut-presents-sum-of-its-parts-the-message-ep"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://alexandernut.bandcamp.com/album/alex-nut-presents-sum-of-its-parts-the-message-ep",
+      "release": {
+        "title": "The Message EP",
+        "release_type": "EP",
+        "date": "2026-06-05"
+      }
+    }
+  ]
+}
