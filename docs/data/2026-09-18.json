@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-18",
+  "picks": [
+    {
+      "name": "Romare",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library (slow playlist).",
+      "genres": ["Sample-based", "Downtempo", "House"],
+      "bio": "Already in your library. \"Oblivion\" (September 18, 2026) is his fifth album -- 13 tracks of sample-led downtempo, broken beats and house grooves on his own All You See imprint, directing his sample craft toward technology, the environment and power.",
+      "why_listen": "A genre-fluid, era-hopping sample-based record from an artist you already play -- good for a wide range of moods across a set, from downtempo openers to house-grooved peaks.",
+      "links": {
+        "bandcamp": "https://romaremusic.bandcamp.com/album/oblivion"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://romaremusic.bandcamp.com/album/oblivion",
+      "release": {
+        "title": "Oblivion",
+        "release_type": "album",
+        "date": "2026-09-18"
+      }
+    },
+    {
+      "name": "Dorisburg / Human Space Machine",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Dorisburg already in your library (Nous'klaer Audio roster).",
+      "genres": ["Tech House", "Dub Techno"],
+      "bio": "Already have Dorisburg in your library. \"Se upp i backen / Lore\" (September 18, 2026) is a two-track split on Nous'klaer Audio -- Dorisburg serves a sun-drenched tech house groove on the A-side, while Human Space Machine gives the B a polyrhythmic, heady dub-tech cut.",
+      "why_listen": "A solid two-tracker from a label you already trust -- Dorisburg's side is sunny and direct, the flip is deeper and more polyrhythmic.",
+      "links": {
+        "bandcamp": "https://nousklaer.bandcamp.com/album/se-upp-i-backen-lore"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://nousklaer.bandcamp.com/album/se-upp-i-backen-lore",
+      "release": {
+        "title": "Se upp i backen / Lore",
+        "release_type": "EP",
+        "date": "2026-09-18"
+      }
+    }
+  ]
+}

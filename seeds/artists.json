@@ -1888,7 +1888,7 @@
     "labels": [],
     "playlists": [],
     "track_count": 0,
-    "notes": "Nous'klaer Audio roster."
+    "notes": "Nous'klaer Audio roster. Split \"Se upp i backen / Lore\" with Human Space Machine (Sept 2026)."
   },
   {
     "name": "Drake & Future",
@@ -5143,8 +5143,10 @@
       "slow"
     ],
     "track_count": 1,
-    "labels": [],
-    "notes": "Similar artist to Clap! Clap!; also already crops up via label comps."
+    "labels": [
+      "All You See"
+    ],
+    "notes": "Similar artist to Clap! Clap!; also already crops up via label comps. Fifth album \"Oblivion\" (Sept 2026) on his own All You See imprint."
   },
   {
     "name": "Ron Trent",
@@ -7085,5 +7087,17 @@
     ],
     "labels": [],
     "notes": "Berlin duo, raw analogue techno. Self-released \"015\" EP (Sept 2026) featured here."
+  },
+  {
+    "name": "Human Space Machine",
+    "source": "discovered",
+    "genres": [
+      "Dub Techno",
+      "Tech House"
+    ],
+    "labels": [
+      "Nous'klaer Audio"
+    ],
+    "notes": "Nous'klaer Audio roster. Split \"Se upp i backen / Lore\" with Dorisburg (Sept 2026) featured here."
   }
 ]
