@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-19",
+  "picks": [
+    {
+      "name": "DJ Jeff the Lastborn",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New label discovery: Nyege Nyege Tapes. Similar percussive/ritual-electronic territory to your Nihiloxica and Jay Mitta picks.",
+      "genres": ["Ugandan Traditional", "Percussion", "Electronic"],
+      "bio": "\"Kadodi Season Two\" (September 18, 2026, Nyege Nyege Tapes) continues the Kadodi lineage -- ritual percussive music from Mbale, Uganda originally performed for circumcision rites and cultural gatherings, here brought into a contemporary electronic context. Limited to 99 copies on cassette with custom artwork.",
+      "why_listen": "Trance-inducing, transfixing percussion recontextualized with modern electronic production -- a genuinely unique texture for an adventurous stretch of a set.",
+      "links": {
+        "bandcamp": "https://nyegenyegetapes.bandcamp.com/track/kadodi-season-two"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://nyegenyegetapes.bandcamp.com/track/kadodi-season-two",
+      "release": {
+        "title": "Kadodi Season Two",
+        "release_type": "EP",
+        "date": "2026-09-18"
+      }
+    },
+    {
+      "name": "Hollen",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New label discovery: Children Of Tomorrow. Similar groove-forward techno territory to your Scuba and Answer Code Request picks.",
+      "genres": ["Tech House", "Techno"],
+      "bio": "\"Warm Shuffle EP\" (2026, Children Of Tomorrow Records) is a four-track release -- Warm Shuffle, Swinger, Symmetry, Dynamic Bell -- ranging from groovy tech house to peak-time techno across a 104-142 BPM spread.",
+      "why_listen": "Versatile, groove-driven techno that can flex from warm-up to peak time -- a practical, well-produced addition to a driving set.",
+      "links": {
+        "bandcamp": "https://childrenoftomorrowrecords.bandcamp.com/album/warm-shuffle-ep"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://childrenoftomorrowrecords.bandcamp.com/album/warm-shuffle-ep",
+      "release": {
+        "title": "Warm Shuffle EP",
+        "release_type": "EP",
+        "date": "2026-08-21"
+      }
+    }
+  ]
+}
