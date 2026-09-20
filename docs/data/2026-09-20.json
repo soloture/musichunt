@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-20",
+  "picks": [
+    {
+      "name": "K-LONE",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library.",
+      "genres": ["Bass", "House", "Ambient Techno"],
+      "bio": "Already in your library. \"Have a Few Days Off\" (September 18, 2026) is his first outing on Wisdom Teeth since 2023's \"Swells\" -- a six-track mini-LP absorbing his full range of touchstones, from swinging minimal house through autonomic drum & bass to drifting ambient techno.",
+      "why_listen": "Vivid, joyful club production with real range -- bright chords and buoyant basslines that can slot into a warm-up or a peak-time turn.",
+      "links": {
+        "bandcamp": "https://k-lone.bandcamp.com/album/have-a-few-days-off"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://k-lone.bandcamp.com/album/have-a-few-days-off",
+      "release": {
+        "title": "Have a Few Days Off",
+        "release_type": "album",
+        "date": "2026-09-18"
+      }
+    },
+    {
+      "name": "Hodge (feat. Eris Drew & Om Unit remixes)",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New release on Local Action, a label you already follow. Remixes from Eris Drew and Om Unit, both already in your library.",
+      "genres": ["Techno", "Bass", "Breakbeat"],
+      "bio": "\"Wiggler / Trust (with Eris Drew & Om Unit Remixes)\" (August 11, 2026, LOC089) gives both tracks from Hodge's spring single a remix treatment -- Eris Drew reworks \"Wiggler,\" Om Unit reworks \"Trust.\"",
+      "why_listen": "Two trusted remixers you already play, applied to a strong original -- solid, versatile material for a driving stretch of a set.",
+      "links": {
+        "bandcamp": "https://hodgebristol.bandcamp.com/album/wiggler-trust-eris-drew-om-unit-remixes"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://hodgebristol.bandcamp.com/album/wiggler-trust-eris-drew-om-unit-remixes",
+      "release": {
+        "title": "Wiggler / Trust (with Eris Drew & Om Unit Remixes)",
+        "release_type": "EP",
+        "date": "2026-08-11"
+      }
+    }
+  ]
+}

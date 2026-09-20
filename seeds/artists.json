@@ -3172,10 +3172,12 @@
       "Bass",
       "House"
     ],
-    "labels": [],
+    "labels": [
+      "Wisdom Teeth"
+    ],
     "playlists": [],
     "track_count": 0,
-    "notes": "Soundman Chronicles roster; frequent Parris collaborator."
+    "notes": "Soundman Chronicles roster; frequent Parris collaborator. \"Have a Few Days Off\" (Sept 2026) on Wisdom Teeth featured here."
   },
   {
     "name": "Ka Baird",
@@ -7124,5 +7126,18 @@
       "Children Of Tomorrow"
     ],
     "notes": "\"Warm Shuffle EP\" (Aug 2026) on Children Of Tomorrow featured here."
+  },
+  {
+    "name": "Hodge",
+    "source": "discovered",
+    "genres": [
+      "Techno",
+      "Bass",
+      "Breakbeat"
+    ],
+    "labels": [
+      "Local Action"
+    ],
+    "notes": "Bristol producer. \"Wiggler / Trust\" with Eris Drew & Om Unit remixes (Aug 2026, LOC089) featured here."
   }
 ]
