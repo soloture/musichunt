@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-21",
+  "picks": [
+    {
+      "name": "Patricia Wolf",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New label discovery: Music To Watch Seeds Grow By (Ransom Note), the same series that gave you Brian d'Souza's Sunflowers.",
+      "genres": ["Ambient", "Field Recording"],
+      "bio": "Portland-based musician and field recordist. \"Yarrow\" (June 4, 2026) is the label's ninth release, made in response to an artist residency at the Rocky Mountain Biological Laboratory studying plants, pollinators and their ecological relationships -- each track reflects a different part of a plant's life cycle, weaving field recordings into the electronic framework.",
+      "why_listen": "Deeply considered, research-grounded ambient from a strong field-recording composer -- another good option for an opening set or a quiet interlude.",
+      "links": {
+        "bandcamp": "https://patriciawolf.bandcamp.com/album/music-to-watch-seeds-grow-by-009-patricia-wolf-yarrow"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://patriciawolf.bandcamp.com/album/music-to-watch-seeds-grow-by-009-patricia-wolf-yarrow",
+      "release": {
+        "title": "Music To Watch Seeds Grow By 009: Patricia Wolf (Yarrow)",
+        "release_type": "album",
+        "date": "2026-06-04"
+      }
+    },
+    {
+      "name": "Yushh",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New label discovery: Timedance. Similar UK bass/club territory to your Forest Drive West and DJ Sports-adjacent picks.",
+      "genres": ["Bass Music", "Breaks", "Techno"],
+      "bio": "\"Full Body AXY\" (June 12, 2026) is her debut five-track EP for Batu's Timedance label -- a low-end reset spanning body-focused club science and weightless release, with heavy sub frequencies, precise drum work and industrial dembow/downbeat permutations.",
+      "why_listen": "Detailed, bass-heavy club music with real emotional charge -- intense but dynamic, good for the darker or more disorienting stretch of a set.",
+      "links": {
+        "bandcamp": "https://yushh.bandcamp.com/album/full-body-axy"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://yushh.bandcamp.com/album/full-body-axy",
+      "release": {
+        "title": "Full Body AXY",
+        "release_type": "EP",
+        "date": "2026-06-12"
+      }
+    }
+  ]
+}

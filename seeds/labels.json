@@ -987,5 +987,31 @@
       "bandcamp": "https://wisdomteethuk.bandcamp.com"
     },
     "notes": "UK club label. K-LONE \"Have a Few Days Off\" (Sept 2026) featured here."
+  },
+  {
+    "name": "Music To Watch Seeds Grow By",
+    "source": "discovered",
+    "genres": [
+      "Ambient",
+      "Field Recording",
+      "New Age"
+    ],
+    "links": {
+      "bandcamp": "https://theransomnote.com"
+    },
+    "notes": "Ransom Note ambient/new-age cassette sub-label, plant-themed. Brian d'Souza (Sunflowers, #007, Sept 2026) and Patricia Wolf (Yarrow, #009, Jun 2026) featured here."
+  },
+  {
+    "name": "Timedance",
+    "source": "discovered",
+    "genres": [
+      "Bass Music",
+      "Techno",
+      "Breaks"
+    ],
+    "links": {
+      "bandcamp": "https://batutimedance.bandcamp.com"
+    },
+    "notes": "Bristol label run by Batu. Yushh \"Full Body AXY\" (Jun 2026) featured here."
   }
 ]
