@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-22",
+  "picks": [
+    {
+      "name": "Horatio Luna",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library (slow playlist).",
+      "genres": ["House", "Broken Beat", "Nu-Jazz"],
+      "bio": "Already in your library. \"Action Reaction\" (May 2026) is his most fully realized record to date, six years after debut \"Yes Doctor\" -- a fluid, genre-blurring set moving between jazz, broken beat and electronic soul, built around exploring dualities: jazz and house, improvisation and composition.",
+      "why_listen": "Dancefloor-friendly spaced-out synths and thumping bass woven around in-studio exchanges -- a precise yet exploratory record from an artist already in your rotation.",
+      "links": {
+        "bandcamp": "https://horatioluna.bandcamp.com/album/action-reaction"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://horatioluna.bandcamp.com/album/action-reaction",
+      "release": {
+        "title": "Action Reaction",
+        "release_type": "album",
+        "date": "2026-05-22"
+      }
+    },
+    {
+      "name": "Various Artists (curated by Shannen SP)",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New label discovery: TraTraTrax. Similar South African bass/gqom territory to your Citizen Boy and DJ Jeff the Lastborn picks.",
+      "genres": ["Gqom", "3-Step", "Amapiano"],
+      "bio": "\"Mzansi Bass\" (June 12, 2026, TRA032) is Colombian label TraTraTrax's new sampler series, curated by Shannen SP -- eight tracks of South African electronic underground from veterans like DJ Lag to newcomers like Jay Music, spanning 3-step, gqom and the darker sides of amapiano.",
+      "why_listen": "A murky, trance-inducing, deeply physical snapshot of the current South African underground -- embodied, groove-forward material for a peak or transitional stretch of a set.",
+      "links": {
+        "bandcamp": "https://tratratrax.bandcamp.com/album/mzansi-bass-curated-by-shannen-sp"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://tratratrax.bandcamp.com/album/mzansi-bass-curated-by-shannen-sp",
+      "release": {
+        "title": "Mzansi Bass curated by Shannen SP",
+        "release_type": "compilation",
+        "date": "2026-06-12"
+      }
+    }
+  ]
+}
