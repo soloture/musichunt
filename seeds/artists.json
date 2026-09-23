@@ -3848,12 +3848,18 @@
   {
     "name": "Malik Hendricks",
     "source": "rekordbox",
-    "genres": [],
+    "genres": [
+      "Deep House",
+      "Techno"
+    ],
     "playlists": [
       "UKHouse"
     ],
     "track_count": 1,
-    "labels": []
+    "labels": [
+      "Flat White Records"
+    ],
+    "notes": "\"Stretching EP\" (Mar 2026) on Flat White Records featured here."
   },
   {
     "name": "Man Jumping",
@@ -6979,7 +6985,7 @@
     "labels": [
       "Peach Discs"
     ],
-    "notes": "Featured on Peach Discs comp \"Peach Pals, Vol. 5\" (Aug 2026) with track \"Labda.\""
+    "notes": "Featured on Peach Discs comp \"Peach Pals, Vol. 5\" (Aug 2026) with track \"Labda.\" \"Lovin' U\" EP (Sept 2026) on Rekids featured here."
   },
   {
     "name": "Olof Dreijer",

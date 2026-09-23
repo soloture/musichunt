@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-23",
+  "picks": [
+    {
+      "name": "Fort Romeau",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library (featured on Peach Discs' Peach Pals, Vol. 5).",
+      "genres": ["Deep House", "House"],
+      "bio": "Already in your library. \"Lovin' U\" (September 11, 2026, Rekids) is a three-track EP -- Lovin' U, No Limit, Breathe (Trip Mix) -- balancing deep house warmth with his ear for hypnotic detail, from a slick vocal groover to an Italo-tinged deep houser to a dubby, church-organ shuffler.",
+      "why_listen": "Three distinct flavors of deep house from a dependable producer -- silky and groove-forward, useful across different points in a set.",
+      "links": {
+        "bandcamp": "https://rekids.bandcamp.com/album/lovin-u"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://rekids.bandcamp.com/album/lovin-u",
+      "release": {
+        "title": "Lovin' U",
+        "release_type": "EP",
+        "date": "2026-09-11"
+      }
+    },
+    {
+      "name": "Malik Hendricks",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library (UKHouse playlist). New label discovery: Flat White Records.",
+      "genres": ["Deep House", "Techno"],
+      "bio": "Already in your library. \"Stretching EP\" (March 20, 2026, Flat White Records) is a four-track release -- Stretching, Mono No Aware, After The Rain, Stretching (Beringei Remix) -- leaning between deep house and techno.",
+      "why_listen": "A solid deep house/techno crossover EP with a strong remix included -- versatile material for a mid-set stretch.",
+      "links": {
+        "bandcamp": "https://malikhendricks.bandcamp.com/album/stretching-ep"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://malikhendricks.bandcamp.com/album/stretching-ep",
+      "release": {
+        "title": "Stretching EP",
+        "release_type": "EP",
+        "date": "2026-03-20"
+      }
+    }
+  ]
+}
