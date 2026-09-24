@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-24",
+  "picks": [
+    {
+      "name": "Byron the Aquarius",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library (Bar playlist).",
+      "genres": ["Deep House", "Jazz", "Funk"],
+      "bio": "Already in your library. \"ORGASMANIA\" (July 30, 2026) returns to French label Skylax Records -- a deeper, freer, more unpredictable four-track statement where jazz instinct meets raw machine funk, opening with the spiritual, meditative \"Back 2 Zion (Tomorrow).\"",
+      "why_listen": "Cultured, heady deep house rooted in the Detroit lineage but never confined by it -- house music as expression rather than format, from an artist already in your rotation.",
+      "links": {
+        "bandcamp": "https://skylaxrecords.bandcamp.com/album/orgasmania-in-stock-now"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://skylaxrecords.bandcamp.com/album/orgasmania-in-stock-now",
+      "release": {
+        "title": "ORGASMANIA",
+        "release_type": "EP",
+        "date": "2026-07-30"
+      }
+    },
+    {
+      "name": "AFRIK-N-SOUL",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery: self-released. Similar soulful house territory to your Byron the Aquarius and Session Victim picks.",
+      "genres": ["Soulful House", "Afro House"],
+      "bio": "\"AFRIK-N-SOUL Sept 2026 Release\" (September 3, 2026) is a six-track set of soulful house edits and reworks, including vocal cuts and a Tevin Campbell-sampling flip.",
+      "why_listen": "Warm, vocal-driven soulful house -- a good source of feel-good grooves and edits for a mid-set stretch.",
+      "links": {
+        "bandcamp": "https://afrik-n-soul1.bandcamp.com/album/afrik-n-soul-sept-2026-release"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://afrik-n-soul1.bandcamp.com/album/afrik-n-soul-sept-2026-release",
+      "release": {
+        "title": "AFRIK-N-SOUL Sept 2026 Release",
+        "release_type": "EP",
+        "date": "2026-09-03"
+      }
+    }
+  ]
+}

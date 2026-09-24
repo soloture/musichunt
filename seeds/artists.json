@@ -1034,13 +1034,18 @@
     "name": "Byron the Aquarius",
     "source": "rekordbox",
     "genres": [
-      "R&B/Soul"
+      "Deep House",
+      "Jazz",
+      "Funk"
     ],
     "playlists": [
       "Bar"
     ],
     "track_count": 1,
-    "labels": []
+    "labels": [
+      "Skylax Records"
+    ],
+    "notes": "\"ORGASMANIA\" EP (Jul 2026) on Skylax Records featured here."
   },
   {
     "name": "CADEJO",
@@ -7173,5 +7178,15 @@
       "Timedance"
     ],
     "notes": "Debut EP \"Full Body AXY\" (Jun 2026) on Batu's Timedance label featured here."
+  },
+  {
+    "name": "AFRIK-N-SOUL",
+    "source": "discovered",
+    "genres": [
+      "Soulful House",
+      "Afro House"
+    ],
+    "labels": [],
+    "notes": "Soulful house edits/reworks project. \"Sept 2026 Release\" EP featured here."
   }
 ]
