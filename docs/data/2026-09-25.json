@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-25",
+  "picks": [
+    {
+      "name": "S.A.M.",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New label discovery: Kalahari Oyster Cult. Similar deep, hypnotic house/techno territory to your Fort Romeau and Hodge picks.",
+      "genres": ["Deep House", "Techno"],
+      "bio": "\"L.W.Y.S.\" (September 25, 2026, Kalahari Oyster Cult) is a vinyl-only, single-sided pressing with an engraved B-side -- a Bandcamp & One Eye Witness exclusive from the Copenhagen/Amsterdam-linked producer.",
+      "why_listen": "A rare, tightly-controlled single-track release built for the format -- a collector's cut with real weight for anyone tracking Kalahari Oyster Cult's output.",
+      "links": {
+        "bandcamp": "https://samofdelaphine.bandcamp.com/album/l-w-y-s-vinyl-only-release-single-sided-with-engraving-ltd-edition"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://samofdelaphine.bandcamp.com/album/l-w-y-s-vinyl-only-release-single-sided-with-engraving-ltd-edition",
+      "release": {
+        "title": "L.W.Y.S.",
+        "release_type": "single",
+        "date": "2026-09-25"
+      }
+    },
+    {
+      "name": "Bicep",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery: self-associated with Ninja Tune. Similar melodic house/techno territory to your Overmono and Fort Romeau picks.",
+      "genres": ["House", "Techno", "Electronic"],
+      "bio": "\"Air / Lemonder / Viper\" (September 25, 2026, Ninja Tune) is Bicep's first new music of the year -- a three-track EP featuring SOARR and Warp producer Clark with Saskia, paired with a three-part short film following UK free party crews across 24 hours.",
+      "why_listen": "A high-profile return from one of dance music's biggest crossover acts -- 'Air' and 'Viper' bring widescreen, festival-ready melodic house/techno energy for a peak-time stretch.",
+      "links": {
+        "bandcamp": "https://bicep.bandcamp.com/album/air-lemonder-viper"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://bicep.bandcamp.com/album/air-lemonder-viper",
+      "release": {
+        "title": "Air / Lemonder / Viper",
+        "release_type": "EP",
+        "date": "2026-09-25"
+      }
+    }
+  ]
+}
