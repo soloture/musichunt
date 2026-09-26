@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-26",
+  "picks": [
+    {
+      "name": "Anthony Naples",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library.",
+      "genres": ["House", "Deep House"],
+      "bio": "Already in your library. \"BBT / Seven\" (September 24, 2026, ANS) is a two-track single -- 'BBT' rides optimistic chords and a naive vocal over a thrumming bassline, while 'Seven' opens up into widescreen pads with a proggy undertow.",
+      "why_listen": "A tight, self-released two-tracker from a dependable house producer -- 'BBT' has an immediate, hooky bounce that works well as a set opener or riser.",
+      "links": {
+        "bandcamp": "https://anthonynaples.bandcamp.com/album/bbt-seven"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://anthonynaples.bandcamp.com/album/bbt-seven",
+      "release": {
+        "title": "BBT / Seven",
+        "release_type": "single",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "name": "Arnaud Le Texier",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New artist discovery on Children Of Tomorrow Records (already followed).",
+      "genres": ["Techno"],
+      "bio": "\"Ripple EP\" (September 18, 2026, Children Of Tomorrow Records) is a four-track release -- Residue, Howdy, Ripple, Granite -- from the label's own co-founder, delivering timeless, driving techno.",
+      "why_listen": "Straightforward, well-built techno from a label veteran -- solid, no-frills tools for a driving stretch of a set.",
+      "links": {
+        "bandcamp": "https://childrenoftomorrowrecords.bandcamp.com/album/ripple-ep"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://childrenoftomorrowrecords.bandcamp.com/album/ripple-ep",
+      "release": {
+        "title": "Ripple EP",
+        "release_type": "EP",
+        "date": "2026-09-18"
+      }
+    }
+  ]
+}
