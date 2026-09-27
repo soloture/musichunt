@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-27",
+  "picks": [
+    {
+      "name": "Luca Durán",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery on TraTraTrax (already followed). Similar Latin/bass-adjacent electronic territory to your Mzansi Bass pick.",
+      "genres": ["Ambient", "Techno", "House", "Experimental"],
+      "bio": "\"Killing Mariposas\" (September 18, 2026, TraTraTrax) is Luca Duran's full studio album debut on the label -- nine tracks combining field recordings, analogue synthesis and experimental production with fragments of cumbia, reggaeton and dembow, featuring Debit, Gavsborg, Rosa Pistola, Iceboy_Violet and kacha.",
+      "why_listen": "A dense, textural record that folds Latin American rhythm fragments into ambient/techno production -- interesting transitional or afters material with real depth.",
+      "links": {
+        "bandcamp": "https://lucaduran.bandcamp.com/album/killing-mariposas"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://lucaduran.bandcamp.com/album/killing-mariposas",
+      "release": {
+        "title": "Killing Mariposas",
+        "release_type": "album",
+        "date": "2026-09-18"
+      }
+    },
+    {
+      "name": "Ploy",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library. New remix, not a repeat of the Sept 11 pick.",
+      "genres": ["Techno", "Bass"],
+      "bio": "Already in your library. \"Remixes - 3\" (September 11, 2026, Timedance) opens with Verraco's reshape of Ploy's 2018 track 'Ramos' -- moulding it into a fierce, forward-charging techno weapon with a futurism-laced euphoria.",
+      "why_listen": "A classic Ploy cut retooled into a driving peak-time techno tool by Verraco -- immediate dancefloor impact from a trusted catalogue.",
+      "links": {
+        "bandcamp": "https://timedance.bandcamp.com/track/ploy-ramos-verraco-reshape"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://timedance.bandcamp.com/track/ploy-ramos-verraco-reshape",
+      "release": {
+        "title": "Remixes - 3",
+        "release_type": "single",
+        "date": "2026-09-11"
+      }
+    }
+  ]
+}
