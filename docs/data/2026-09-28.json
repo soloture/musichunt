@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-28",
+  "picks": [
+    {
+      "name": "Sub Basics",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery on Animalia. Similar dubby, genre-bending techno/dubstep territory to your Tubby Isiah and Hodge picks.",
+      "genres": ["Techno", "Dubstep", "Tech House"],
+      "bio": "\"Wavelengths 2\" (September 28, 2026, Animalia) is a four-track EP -- Lobby, Telepathy, Wonder, Encounter -- carrying Sub Basics' signature dubby interpretations of UK techno, dubstep and tech house, rolling and psychedelic.",
+      "why_listen": "Classic, rolling dub-techno tools with a genre-bending edge -- versatile groove material for a mid-set stretch.",
+      "links": {
+        "bandcamp": "https://subbasics.bandcamp.com/album/wavelengths-2"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://subbasics.bandcamp.com/album/wavelengths-2",
+      "release": {
+        "title": "Wavelengths 2",
+        "release_type": "EP",
+        "date": "2026-09-28"
+      }
+    },
+    {
+      "name": "Adam Ten & Yamagucci",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New artist discovery on Rekids (already followed).",
+      "genres": ["House", "Techno"],
+      "bio": "\"Keep Workin'\" (September 25, 2026, Rekids) is a two-track release pairing the original with a Radio Slave 'Ink Tones' remix.",
+      "why_listen": "A driving original plus a heavyweight Radio Slave remix -- reliable peak-time ammunition from a label already in your rotation.",
+      "links": {
+        "bandcamp": "https://rekids.bandcamp.com/album/keep-workin"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://rekids.bandcamp.com/album/keep-workin",
+      "release": {
+        "title": "Keep Workin'",
+        "release_type": "single",
+        "date": "2026-09-25"
+      }
+    }
+  ]
+}
