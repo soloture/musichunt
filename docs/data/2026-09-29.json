@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-29",
+  "picks": [
+    {
+      "name": "Sam Binga, Machinedrum & Cesco",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library (Sam Binga). New label discovery: Pineapple Records already followed; Machinedrum is a new discovery.",
+      "genres": ["Bass", "Electronic", "Genre-bending"],
+      "bio": "Already in your library (Sam Binga). \"Niche Flex\" (September 18, 2026, Pineapple Records) is a four-track EP -- Niche Flex, Run It Up, l00k, Stainless Meal -- a genre-bending collaboration between Sam Binga, Machinedrum and Cesco.",
+      "why_listen": "A loose, playful three-way collaboration spanning multiple styles of club music -- unpredictable, high-energy material for a set that wants to jump lanes.",
+      "links": {
+        "bandcamp": "https://pineapplerecords.bandcamp.com/album/niche-flex"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://pineapplerecords.bandcamp.com/album/niche-flex",
+      "release": {
+        "title": "Niche Flex",
+        "release_type": "EP",
+        "date": "2026-09-18"
+      }
+    },
+    {
+      "name": "Traxman",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library.",
+      "genres": ["Footwork", "Juke"],
+      "bio": "Already in your library. \"BRING REAL FOOTWORK BACK\" (September 3, 2026), from \"TRAXMAN presents BATTLE FUSION STYLE TRAKZ Vol 2,\" is classic, unfiltered Chicago footwork from one of the genre's originators.",
+      "why_listen": "Raw, foundational footwork straight from a Teklife legend -- essential ammunition for any footwork-adjacent stretch of a set.",
+      "links": {
+        "bandcamp": "https://traxman1.bandcamp.com/track/bring-real-footwork-back"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://traxman1.bandcamp.com/track/bring-real-footwork-back",
+      "release": {
+        "title": "BRING REAL FOOTWORK BACK",
+        "release_type": "single",
+        "date": "2026-09-03"
+      }
+    }
+  ]
+}
