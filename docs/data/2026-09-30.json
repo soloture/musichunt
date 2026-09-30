@@ -1,0 +1,43 @@
+{
+  "date": "2026-09-30",
+  "picks": [
+    {
+      "name": "DJ.MC",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library. New label discovery: Hyperdub.",
+      "genres": ["Footwork", "Juke", "Ghetto House"],
+      "bio": "Already in your library. \"Walk Ya Down\" (September 25, 2026, Hyperdub) is a two-track release pairing light and dark contrasts -- the title track dark and grimy over a ravey, growling synth line, while \"Ghetto Story 2\" is catchier, with airy pads over rolling toms.",
+      "why_listen": "A versatile two-tracker with both a moody peak-time weapon and a brighter, catchier flip -- covers two different moments in a set.",
+      "links": {
+        "bandcamp": "https://djmcworld.bandcamp.com/album/walk-ya-down"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://djmcworld.bandcamp.com/album/walk-ya-down",
+      "release": {
+        "title": "Walk Ya Down",
+        "release_type": "single",
+        "date": "2026-09-25"
+      }
+    },
+    {
+      "name": "Bitchin Bajas",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery on Drag City. Similar ambient/textural territory to your Patricia Wolf pick.",
+      "genres": ["Ambient", "Psychedelic", "Minimalism"],
+      "bio": "\"Isle Peaks\" (August 28, 2026, Drag City) is a hypnotic, minimalist EP from the Chicago trio (Cooper Crain, Dan Quinlivan, Rob Frye), blending psychedelia with drifting synth and reed textures.",
+      "why_listen": "Spacious, meditative ambient material -- good for intros, warmups or a comedown stretch late in a set.",
+      "links": {
+        "bandcamp": "https://bitchinbajas.bandcamp.com/album/isle-peaks"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://bitchinbajas.bandcamp.com/album/isle-peaks",
+      "release": {
+        "title": "Isle Peaks",
+        "release_type": "EP",
+        "date": "2026-08-28"
+      }
+    }
+  ]
+}
