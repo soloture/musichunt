@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-01",
+  "picks": [
+    {
+      "name": "Second Storey",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library. Launches his new label, High Canopy.",
+      "genres": ["Electronic", "IDM", "Ambient", "Bass", "Electro", "Techno"],
+      "bio": "Already in your library. \"Ladakh EP\" (September 18, 2026, High Canopy) launches Second Storey's own label, 20 years after his first vinyl release -- five tracks spanning mechanised, cerebral dancefloor workouts and deeper, more experimental ambient terrain.",
+      "why_listen": "A genre-roaming EP from a long-running favorite -- a new label to watch alongside dancefloor and headier textures in one release.",
+      "links": {
+        "bandcamp": "https://secondstorey.bandcamp.com/album/ladakh-ep-highcanopy1"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://secondstorey.bandcamp.com/album/ladakh-ep-highcanopy1",
+      "release": {
+        "title": "Ladakh EP",
+        "release_type": "EP",
+        "date": "2026-09-18"
+      }
+    },
+    {
+      "name": "Skepta",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library (Bass playlist). Here with Chase & Status and Suggs in club-skewed breakbeat territory.",
+      "genres": ["Breakbeat", "Big Beat", "Grime"],
+      "bio": "Already in your library. \"Innocent Smile\" (September 18, 2026, Big Smoke/Epic) pairs Skepta with Chase & Status and Madness's Suggs -- a fast, restless breakbeat-driven single with a Gorillaz-esque chorus, from Skepta's forthcoming album The Fork and Knife.",
+      "why_listen": "A high-octane, big-beat curveball from an unexpected pairing -- a fun, energetic change of pace for a set.",
+      "links": {
+        "website": "https://music.apple.com/us/album/innocent-smile-single/6808719787"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://music.apple.com/us/album/innocent-smile-single/6808719787",
+      "release": {
+        "title": "Innocent Smile",
+        "release_type": "single",
+        "date": "2026-09-18"
+      }
+    }
+  ]
+}
