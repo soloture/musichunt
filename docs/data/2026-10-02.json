@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-02",
+  "picks": [
+    {
+      "name": "Peverelist",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library.",
+      "genres": ["Techno", "Dubstep", "UK Bass"],
+      "bio": "Already in your library. \"Pace The Wrecks EP\" (October 2, 2026, Livity Sound Recordings) is out today -- four lean, potent workouts (Wreck I-IV) carrying his unmistakable sonic signature.",
+      "why_listen": "Fresh, functional club tools from a Bristol bass-music mainstay, out the day of this list -- reliable material across a range of tempos.",
+      "links": {
+        "bandcamp": "https://peverelist.bandcamp.com/album/pace-the-wrecks-ep"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://peverelist.bandcamp.com/album/pace-the-wrecks-ep",
+      "release": {
+        "title": "Pace The Wrecks EP",
+        "release_type": "EP",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "name": "El Búho",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library.",
+      "genres": ["Andino", "Cumbia", "Folktronica", "Downtempo"],
+      "bio": "Already in your library. \"Hogar\" (September 18, 2026) is a nine-track album exploring the many meanings of home, blending Andean folk textures with digital cumbia and downtempo electronica, featuring Pita Amor, Humazapas, and Ana Maria Vahos among others.",
+      "why_listen": "Warm, organic world-cumbia textures with a strong emotional core -- good for a slower, more atmospheric stretch of a set.",
+      "links": {
+        "bandcamp": "https://elbuho.bandcamp.com/album/hogar"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://elbuho.bandcamp.com/album/hogar",
+      "release": {
+        "title": "Hogar",
+        "release_type": "album",
+        "date": "2026-09-18"
+      }
+    }
+  ]
+}
