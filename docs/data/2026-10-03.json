@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-03",
+  "picks": [
+    {
+      "name": "Afriqua",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library. New label discovery: Nervous Records.",
+      "genres": ["House", "Dance"],
+      "bio": "Already in your library. \"Bottled Up\" (September 24, 2026, Nervous Records) is a fresh single with accompanying dub versions, continuing Afriqua's boundary-defying approach to dancefloor music.",
+      "why_listen": "A dependable, genre-roaming producer dropping a new one on a storied house label -- solid, flexible groove material.",
+      "links": {
+        "bandcamp": "https://afriqua.bandcamp.com/"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://afriqua.bandcamp.com/",
+      "release": {
+        "title": "Bottled Up",
+        "release_type": "single",
+        "date": "2026-09-24"
+      }
+    },
+    {
+      "name": "Yazmin Lacey",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery, remixed by Karen Nyame KG. Club-leaning UK funky/Afro-electronica territory.",
+      "genres": ["UK Funky", "Afro-Electronica", "Soul"],
+      "bio": "\"Sweetest Season (Karen Nyame KG Remix)\" (September 9, 2026) takes Yazmin Lacey's Femi Koleoso-produced summer single and reworks it through KG's African-polyrhythm-driven, club-ready lens.",
+      "why_listen": "A soulful vocal cut transformed into a percussive, Afro-infused club remix -- useful for bridging soul/vocal and dancefloor moments.",
+      "links": {
+        "bandcamp": "https://yazminlacey.bandcamp.com/track/sweetest-season"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://yazminlacey.bandcamp.com/track/sweetest-season",
+      "release": {
+        "title": "Sweetest Season (Karen Nyame KG Remix)",
+        "release_type": "single",
+        "date": "2026-09-09"
+      }
+    }
+  ]
+}
