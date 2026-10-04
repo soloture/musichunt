@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-04",
+  "picks": [
+    {
+      "name": "Logic1000",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library.",
+      "genres": ["Deep House", "UK Funky", "UK Bass", "Breakbeat"],
+      "bio": "Already in your library. \"Confirmation!\" (October 2, 2026, Therapy/Because Music) is her second studio album -- ten tracks featuring KUCKA, Jam City, Christine and the Queens, FAUZIA and yunè pinkù, spanning deep house, UK funky, breakbeat and tech house.",
+      "why_listen": "A high-profile, guest-stacked album from a dependable favorite -- bouncy, vocal-forward club tracks with real crossover range.",
+      "links": {
+        "bandcamp": "https://logic1000.bandcamp.com/album/confirmation"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://logic1000.bandcamp.com/album/confirmation",
+      "release": {
+        "title": "Confirmation!",
+        "release_type": "album",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "name": "Hodge",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library.",
+      "genres": ["House", "Techno"],
+      "bio": "Already in your library. \"Big Splash\" (October 2, 2026, Local Action) is his second full-length album and first since 2020's Shadows In Blue -- eight dancefloor-first house tracks inspired by deeper moments on the dance floor.",
+      "why_listen": "A fresh full-length from a dependable Bristol producer -- straightforward, well-built house tracks that translate across genre lines.",
+      "links": {
+        "bandcamp": "https://hodgebristol.bandcamp.com/album/big-splash"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://hodgebristol.bandcamp.com/album/big-splash",
+      "release": {
+        "title": "Big Splash",
+        "release_type": "album",
+        "date": "2026-10-02"
+      }
+    }
+  ]
+}
