@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-05",
+  "picks": [
+    {
+      "name": "nthng",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery, debut on topo2. Similar ambient/dub-techno territory to your Bitchin Bajas and Le Motel picks.",
+      "genres": ["Ambient", "Techno", "Dub", "Dream Pop", "Drum & Bass"],
+      "bio": "\"Last Light of the Sun\" (October 2, 2026, topo2) is nthng's fifth album and debut on the label -- a ten-track double LP moving fluidly between ambient, techno, dub, dream pop and drum & bass.",
+      "why_listen": "A genre-roaming, richly textured record -- useful for a broad set, from atmospheric intros through to driving dub-techno stretches.",
+      "links": {
+        "bandcamp": "https://nthng.bandcamp.com/album/last-light-of-the-sun"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://nthng.bandcamp.com/album/last-light-of-the-sun",
+      "release": {
+        "title": "Last Light of the Sun",
+        "release_type": "album",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "name": "Mergui",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery. Dancefloor-geared nu-disco.",
+      "genres": ["Nu-Disco", "Dance", "Pop"],
+      "bio": "\"Spotlight\" (October 2, 2026) is a slinky nu-disco single ahead of Mergui's upcoming \"Gut Feeling\" EP -- silky vocals over seventies-flavoured, elegant dancefloor-geared production, co-written with Jesse Shatkin and Alvaro Rodriguez.",
+      "why_listen": "Light, elegant nu-disco with real dancefloor intent -- a smooth, vocal-forward change of pace for a set.",
+      "links": {
+        "website": "https://www.culturefix.co.uk/mergui-spotlight/"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://www.culturefix.co.uk/mergui-spotlight/",
+      "release": {
+        "title": "Spotlight",
+        "release_type": "single",
+        "date": "2026-10-02"
+      }
+    }
+  ]
+}
