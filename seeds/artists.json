@@ -7326,5 +7326,30 @@
     ],
     "labels": [],
     "notes": "Discovered via \"Spotlight\" single (Oct 2, 2026), ahead of the \"Gut Feeling\" EP."
+  },
+  {
+    "name": "Tiger Stripes",
+    "source": "discovered",
+    "genres": [
+      "House",
+      "Electronic"
+    ],
+    "labels": [
+      "Rekids"
+    ],
+    "notes": "Sweden's Mikael Nordgren. Discovered via \"A Tiger Never Loses Its Stripes (Part 1)\" (Oct 2, 2026)."
+  },
+  {
+    "name": "Argento",
+    "source": "discovered",
+    "genres": [
+      "Ambient",
+      "Balearic",
+      "Jazz Fusion"
+    ],
+    "labels": [
+      "Music From Memory"
+    ],
+    "notes": "New project by David August. Discovered via \"Miraggi\" (Sept 10, 2026)."
   }
 ]

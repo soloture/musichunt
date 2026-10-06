@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-06",
+  "picks": [
+    {
+      "name": "Tiger Stripes",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "New artist discovery on Rekids (already followed).",
+      "genres": ["House", "Electronic"],
+      "bio": "\"A Tiger Never Loses Its Stripes (Part 1)\" (October 2, 2026, Rekids) is a four-track EP -- Slow, Twelve, Stay Hypnotic, Shape The Future -- from Sweden's Mikael Nordgren, previewing his upcoming sophomore album, his first in two decades.",
+      "why_listen": "Hypnotic, well-built house tracks from a veteran producer re-emerging on a trusted label -- solid groove tools for a mid-set stretch.",
+      "links": {
+        "bandcamp": "https://rekids.bandcamp.com/album/a-tiger-never-loses-its-stripes-part-1"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://rekids.bandcamp.com/album/a-tiger-never-loses-its-stripes-part-1",
+      "release": {
+        "title": "A Tiger Never Loses Its Stripes (Part 1)",
+        "release_type": "EP",
+        "date": "2026-10-02"
+      }
+    },
+    {
+      "name": "Argento",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery (David August's new project) on Music From Memory. Similar Balearic/ambient territory to your Bitchin Bajas and nthng picks.",
+      "genres": ["Ambient", "Balearic", "Jazz Fusion"],
+      "bio": "\"Miraggi\" (September 10, 2026, Music From Memory) introduces David August's Argento project -- an ambient LP shaped by time between Berlin and the Tuscan coast, blending ambient electronics, Balearic textures and acoustic percussion with drummer Lorenzo Setti, drawing on 1970s-80s Italian library music.",
+      "why_listen": "Warm, improvisation-rooted Balearic ambient -- good for a sunrise set or a slow, textural stretch.",
+      "links": {
+        "bandcamp": "https://music-from-memory.bandcamp.com/album/miraggi"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://music-from-memory.bandcamp.com/album/miraggi",
+      "release": {
+        "title": "Miraggi",
+        "release_type": "album",
+        "date": "2026-09-10"
+      }
+    }
+  ]
+}
