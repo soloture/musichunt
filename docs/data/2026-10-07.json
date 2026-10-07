@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-07",
+  "picks": [
+    {
+      "name": "Intellitronic",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery on Rubadub. Heinrich Mueller's (Drexciya/Arpanet/Dopplereffekt) machine-funk project.",
+      "genres": ["Electro", "Machine Funk"],
+      "bio": "\"Pixel\" (October 6, 2026, Rubadub) is the first full release of lost Intellitronic transmissions from Heinrich Mueller -- four tracks (Pixel, Stencil, Inkjet, Hex Colour Code) of early-90s-style machine funk.",
+      "why_listen": "Raw, hardware-driven electro from a legendary Drexciya-affiliated producer -- stark, rhythmic material for a driving stretch.",
+      "links": {
+        "bandcamp": "https://boomkat.com/artists/intellitronic/releases/7jnl4cjj/pixel"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://boomkat.com/artists/intellitronic/releases/7jnl4cjj/pixel",
+      "release": {
+        "title": "Pixel",
+        "release_type": "EP",
+        "date": "2026-10-06"
+      }
+    },
+    {
+      "name": "Christian Löffler",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery. Anniversary B-sides collection, out today.",
+      "genres": ["Ambient", "Deep House", "Techno", "Electronic"],
+      "bio": "\"Mare (B-Sides)\" (October 7, 2026) is a ten-years-later anniversary edition of his breakthrough album Mare -- seven previously unreleased tracks from the same sessions, spanning ambient, deep house and techno.",
+      "why_listen": "Melodic, emotionally rich production with real range -- useful for both atmospheric and deep-house stretches of a set.",
+      "links": {
+        "bandcamp": "https://christianloffler.bandcamp.com/album/mare-b-sides"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://christianloffler.bandcamp.com/album/mare-b-sides",
+      "release": {
+        "title": "Mare (B-Sides)",
+        "release_type": "album",
+        "date": "2026-10-07"
+      }
+    }
+  ]
+}
