@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-08",
+  "picks": [
+    {
+      "name": "DJ Python",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library. Lead single from a forthcoming EP.",
+      "genres": ["Reggaeton", "Deep House", "Ambient", "Trip-Hop"],
+      "bio": "Already in your library. \"Forgetful Angel\" (feat. Tony Bontana) (September 23, 2026, XL Recordings) is the lead single from his upcoming EP \"to accomplish many things\" (out Oct 23) -- a track meditating on distance, memory and letting go.",
+      "why_listen": "A moody, vocal-led preview of new material from a dependable favorite -- useful for a slower, more reflective stretch of a set.",
+      "links": {
+        "bandcamp": "https://djpythonnyc.bandcamp.com/album/to-accomplish-many-things"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://djpythonnyc.bandcamp.com/album/to-accomplish-many-things",
+      "release": {
+        "title": "Forgetful Angel",
+        "release_type": "single",
+        "date": "2026-09-23"
+      }
+    },
+    {
+      "name": "Ahadadream",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery. UK bass/grime/UK funky territory connected to your Karen Nyame KG and Eliza Rose-adjacent picks.",
+      "genres": ["UK Bass", "Grime", "UK Funky"],
+      "bio": "\"P ★ K I\" (September 18, 2026, Island/Dialled In Records) is his debut album -- eleven tracks blending UK bass, grime, UK funky and global club music, with guests including Nusrat Fateh Ali Khan, Eliza Rose, Capo Lee and Skrillex.",
+      "why_listen": "A bold, genre-spanning debut rooted in club culture with heavyweight guest turns -- versatile, percussive material across a set.",
+      "links": {
+        "website": "https://shop.islandrecords.co.uk/products/p-ki-cd"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://shop.islandrecords.co.uk/products/p-ki-cd",
+      "release": {
+        "title": "P ★ K I",
+        "release_type": "album",
+        "date": "2026-09-18"
+      }
+    }
+  ]
+}
