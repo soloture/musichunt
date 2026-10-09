@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-09",
+  "picks": [
+    {
+      "name": "Speedy J & Rødhåd present The Department Of Almost",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery on WSNWG. Dub techno/techno territory connected to your Hodge and Peverelist picks.",
+      "genres": ["Dub Techno", "Techno", "Ambient"],
+      "bio": "\"Second Office\" (October 9, 2026, WSNWG) is the debut album from Speedy J and Rødhåd's joint project -- eleven tracks from ten concentrated days in Berlin's WSNWG studio, pairing assertive dub techno grooves with wistful ambient passages.",
+      "why_listen": "A heavyweight pairing of two techno veterans working at full strength -- driving, dub-inflected tools with real atmosphere, out today.",
+      "links": {
+        "bandcamp": "https://rodhad.bandcamp.com/album/second-office-wsnwg020"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://rodhad.bandcamp.com/album/second-office-wsnwg020",
+      "release": {
+        "title": "Second Office",
+        "release_type": "album",
+        "date": "2026-10-09"
+      }
+    }
+  ]
+}
