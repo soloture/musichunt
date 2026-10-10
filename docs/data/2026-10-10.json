@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-10",
+  "picks": [
+    {
+      "name": "Maxime Denuc",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery on Light-Years. Similar genre-blurring classical/dance territory to your Second Storey and Christian Löffler picks.",
+      "genres": ["Ambient", "Balearic", "Electro", "Classical"],
+      "bio": "\"Club Imperiale\" (September 11, 2026, Light-Years) is a work of speculative historical fiction -- ten compositions for a MIDI-controlled pipe organ, recorded at St. Antonius Church in Düsseldorf, drawing on 1990s trance and techno.",
+      "why_listen": "A genuinely strange, singular concept record -- organ-driven takes on rave melodies make for a striking intro or late-set curveball.",
+      "links": {
+        "bandcamp": "https://maximedenuc.bandcamp.com/album/club-imperiale"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://maximedenuc.bandcamp.com/album/club-imperiale",
+      "release": {
+        "title": "Club Imperiale",
+        "release_type": "album",
+        "date": "2026-09-11"
+      }
+    },
+    {
+      "name": "Klara Lewis",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery on Editions Mego. Similar ambient/experimental territory to your Bitchin Bajas and Argento picks.",
+      "genres": ["Ambient", "Experimental", "IDM"],
+      "bio": "\"Opening\" (September 4, 2026, Editions Mego) is a 13-track album of abstract, experimental electronic composition.",
+      "why_listen": "Dense, abstract ambient textures from a veteran Editions Mego artist -- good for intros, warmups or a headier interlude.",
+      "links": {
+        "bandcamp": "https://klaralewis.bandcamp.com/album/opening"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://klaralewis.bandcamp.com/album/opening",
+      "release": {
+        "title": "Opening",
+        "release_type": "album",
+        "date": "2026-09-04"
+      }
+    }
+  ]
+}
