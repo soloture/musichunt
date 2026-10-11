@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-11",
+  "picks": [
+    {
+      "name": "DJ Die",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery on GutterFunk. Bristol drum & bass veteran, co-founder of Full Cycle Recordings.",
+      "genres": ["Drum & Bass", "Jungle"],
+      "bio": "\"Rock Steady\" (August 12, 2026, GutterFunk) is a single from Bristol drum & bass legend DJ Die -- co-founder of Full Cycle Recordings and a core member of Reprazent, whose New Forms won the 1997 Mercury Prize.",
+      "why_listen": "A heavyweight jungle/drum & bass cut from one of the genre's founding figures -- a solid peak-time tool from a deep catalogue worth digging into.",
+      "links": {
+        "bandcamp": "https://gutterfunkuk.bandcamp.com/track/dj-die-rock-steady"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://gutterfunkuk.bandcamp.com/track/dj-die-rock-steady",
+      "release": {
+        "title": "Rock Steady",
+        "release_type": "single",
+        "date": "2026-08-12"
+      }
+    }
+  ]
+}
