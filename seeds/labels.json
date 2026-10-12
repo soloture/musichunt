@@ -1098,5 +1098,26 @@
       "Bass"
     ],
     "notes": "Bristol drum & bass/jungle label. Discovered via DJ Die's \"Rock Steady\" (Aug 12, 2026)."
+  },
+  {
+    "name": "Sister Midnight",
+    "source": "discovered",
+    "genres": [
+      "House",
+      "Techno",
+      "Balearic"
+    ],
+    "notes": "Roman Fl\u00fcgel's Berlin label. Discovered via \"Conga Dream\" (Oct 9, 2026)."
+  },
+  {
+    "name": "Amancay",
+    "source": "discovered",
+    "genres": [
+      "House",
+      "Techno",
+      "Afro House",
+      "Melodic House"
+    ],
+    "notes": "Buenos Aires collective/label. Discovered via This & That's \"Devotion EP\" (Sept 16, 2026)."
   }
 ]

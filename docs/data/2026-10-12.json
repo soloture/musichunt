@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-12",
+  "picks": [
+    {
+      "name": "Roman Flügel & Zillas On Acid",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery on Sister Midnight. Minimal/tech-house territory connected to your Afriqua and Tiger Stripes picks.",
+      "genres": ["Deep House", "Minimal Techno", "Balearic"],
+      "bio": "\"Conga Dream\" (October 9, 2026, Sister Midnight) is a four-track collaboration between veteran German producer Roman Flügel and Zillas On Acid -- deep, percussive house and minimal techno built around looping conga rhythms.",
+      "why_listen": "A rhythmic, groove-forward collaboration from a dependable studio hand -- versatile house/techno crossover tools for a mid-set stretch.",
+      "links": {
+        "bandcamp": "https://sistermidnightentertainment.bandcamp.com/album/conga-dream"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://sistermidnightentertainment.bandcamp.com/album/conga-dream",
+      "release": {
+        "title": "Conga Dream",
+        "release_type": "EP",
+        "date": "2026-10-09"
+      }
+    },
+    {
+      "name": "This & That",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery on Amancay. Buenos Aires house/techno territory.",
+      "genres": ["Afro House", "Indie Dance", "Techno"],
+      "bio": "\"Devotion EP\" (September 16, 2026, Amancay) is a solo three-track outing from Buenos Aires producer Facundo Ciaponi -- Devotion, Back To 85', and Drop It, blending afro house, indie dance and techno.",
+      "why_listen": "Warm, groove-centered house with an indie-dance edge -- flexible material from a South American scene worth tracking.",
+      "links": {
+        "bandcamp": "https://amancaymusica.bandcamp.com/album/this-that-devotion-ep"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://amancaymusica.bandcamp.com/album/this-that-devotion-ep",
+      "release": {
+        "title": "Devotion EP",
+        "release_type": "EP",
+        "date": "2026-09-16"
+      }
+    }
+  ]
+}
