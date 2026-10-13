@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-13",
+  "picks": [
+    {
+      "name": "Loraine James",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery, self-released. Hyperdub-adjacent IDM/experimental electronic territory connected to your Klara Lewis and Argento picks.",
+      "genres": ["IDM", "Experimental", "UK Bass"],
+      "bio": "\"It's Nothing Personal.\" (September 4, 2026, self-released) is a surprise, Bandcamp-only full-length from London producer Loraine James -- nine tracks dropped with little advance notice on Bandcamp Friday, mixed and written entirely by James with mastering from Telefon Tel Aviv's Joshua Eustis. It follows her Hyperdub album \"Detached From The Rest Of You\" from earlier this year.",
+      "why_listen": "Restless, glitch-fractured IDM rhythms from one of UK electronic music's sharpest current voices -- a surprise release worth digging into for intros, transitions or a headier moment in a set.",
+      "links": {
+        "bandcamp": "https://lorainejames.bandcamp.com/album/it-s-nothing-personal"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://lorainejames.bandcamp.com/album/it-s-nothing-personal",
+      "release": {
+        "title": "It's Nothing Personal.",
+        "release_type": "album",
+        "date": "2026-09-04"
+      }
+    }
+  ]
+}
