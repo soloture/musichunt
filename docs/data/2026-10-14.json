@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-14",
+  "picks": [
+    {
+      "name": "Karen y Los Remedios",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery on ZZK Records. Latin electronic/cumbia territory connected to your Nicola Cruz and ZZK-adjacent picks.",
+      "genres": ["Cumbia", "Latin Electronic", "Experimental"],
+      "bio": "\"Bestiaria\" (October 8, 2026, ZZK Records) is the sophomore album from Mexican \"cumbia noir\" group Karen y Los Remedios -- twelve tracks of ritualistic, myth-steeped cumbia drawing on figures like water nymphs and witches, following their 2023 debut \"Silencio.\"",
+      "why_listen": "Dark, hypnotic cumbia rhythms with a theatrical, folkloric edge -- a striking change of texture for a set that wants to move away from house and techno without losing the groove.",
+      "links": {
+        "bandcamp": "https://zzkrecords.bandcamp.com/music"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://zzkrecords.bandcamp.com/music",
+      "release": {
+        "title": "Bestiaria",
+        "release_type": "album",
+        "date": "2026-10-08"
+      }
+    }
+  ]
+}
