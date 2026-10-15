@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-15",
+  "picks": [
+    {
+      "name": "Actress",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery on Ninja Tune. Experimental/IDM-adjacent electronic territory connected to your Klara Lewis and Loraine James picks.",
+      "genres": ["IDM", "Experimental", "Techno"],
+      "bio": "\"Radical Frame\" (September 18, 2026, Ninja Tune) is Darren Cunningham's eighth album as Actress -- eight tracks of fractured, abstract electronics featuring CASISDEAD on \"Live By You\" and Rainy Miller on the 16-minute closer \"Sheets,\" his first full-length for the label since 2023's \"LXXXVIII.\"",
+      "why_listen": "Warped, abstracted techno and IDM from one of the UK's most singular electronic producers -- dense, strange material for a headier stretch of a set.",
+      "links": {
+        "bandcamp": "https://ninjatune.bandcamp.com/music"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://ninjatune.bandcamp.com/music",
+      "release": {
+        "title": "Radical Frame",
+        "release_type": "album",
+        "date": "2026-09-18"
+      }
+    }
+  ]
+}
