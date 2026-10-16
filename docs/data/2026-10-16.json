@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-16",
+  "picks": [
+    {
+      "name": "Nikki Nair",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery on Hyperdub. Bass/club-adjacent territory connected to your Loraine James and Actress picks.",
+      "genres": ["Club", "Bass", "Experimental"],
+      "bio": "\"Majestic Animals\" (October 16, 2026, Hyperdub) is Nikki Nair's first solo EP for the label -- four tracks (\"Groundhogs,\" \"Tapir Spectrum,\" \"Primate Indicator,\" \"Walrus2\") each named for an animal, following his 2025 collaborative record \"Nagoya\" with Foodman on the same label.",
+      "why_listen": "Springy, drum-forward club tracks with a playful, left-field edge -- fresh out today and built for a set that wants texture without losing momentum.",
+      "links": {
+        "bandcamp": "https://hyperdub.bandcamp.com/music"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://hyperdub.bandcamp.com/music",
+      "release": {
+        "title": "Majestic Animals",
+        "release_type": "EP",
+        "date": "2026-10-16"
+      }
+    },
+    {
+      "name": "Dorisburg",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Dorisburg already in your library (Nous'klaer Audio roster). New EP on Kalawila's Mountain Explosion Device label.",
+      "genres": ["Techno", "Tech House"],
+      "bio": "\"Venom\" (October 16, 2026, Mountain Explosion Device) is a two-track EP from Dorisburg (Alexander Berg) -- the title track and \"Serum\" -- his first release of the year and the third release on Kalawila's Stockholm label.",
+      "why_listen": "A fresh, mind-bending cut from a producer already in your library -- sharp, texture-driven techno straight off today's release date.",
+      "links": {
+        "bandcamp": "https://mountainexplosiondevice.bandcamp.com"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://mountainexplosiondevice.bandcamp.com",
+      "release": {
+        "title": "Venom",
+        "release_type": "EP",
+        "date": "2026-10-16"
+      }
+    }
+  ]
+}
