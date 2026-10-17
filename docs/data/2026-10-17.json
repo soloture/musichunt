@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-17",
+  "picks": [
+    {
+      "name": "Lamin Fofana",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library (The Trilogy Tapes roster). New album on Shelter Press.",
+      "genres": ["Ambient", "Experimental", "Electronic"],
+      "bio": "\"Corps Perdu\" (October 16, 2026, Shelter Press) is a ten-track double LP from Lamin Fofana, informed by scholars and poets working in the Black Studies tradition and taking its title from Aime Cesaire's 1950 poetry collection -- tracks include \"To Become Liquid\" and \"Ode to Guinea,\" following 2025's \"Works In Metal.\"",
+      "why_listen": "Dense, poetic ambient/electronic work from an artist already in your library -- strong material for intros, warmups, or a contemplative stretch of a set.",
+      "links": {
+        "bandcamp": "https://shelterpress.bandcamp.com"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://shelterpress.bandcamp.com",
+      "release": {
+        "title": "Corps Perdu",
+        "release_type": "album",
+        "date": "2026-10-16"
+      }
+    }
+  ]
+}
