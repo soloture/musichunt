@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-18",
+  "picks": [
+    {
+      "name": "Tristan Arp",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery on Kapsela, Objekt's label. Connected to your Wisdom Teeth-adjacent (Facta, K-LONE) and experimental club picks.",
+      "genres": ["Experimental Club", "Techno", "UK Bass"],
+      "bio": "\"(re)weave\" (April 17, 2026, Kapsela, KAPS005) is a four-track 12\" from Detroit-born, London-based producer Tristan Arp -- wiry ostinatos, earthy percussion, field recordings and syncopated kicks, written while moving between Mexico, New York, Detroit and London and inspired by re-reading Borges.",
+      "why_listen": "Dense, labyrinthine experimental club tracks that reuse and recycle motifs from the artist's past work -- a deeper cut from earlier this year, but a genuinely interesting new entry for a headier or more textural stretch of a set. Research was unusually dry today; flagging the age of this one transparently.",
+      "links": {
+        "bandcamp": "https://objekt.bandcamp.com"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://objekt.bandcamp.com",
+      "release": {
+        "title": "(re)weave",
+        "release_type": "EP",
+        "date": "2026-04-17"
+      }
+    }
+  ]
+}
