@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-19",
+  "picks": [
+    {
+      "name": "Space Ghost",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library (House playlist, \"Sea Snake Island\"/\"Endless Light\"). First solo album since 2022, on his own Peace World Records.",
+      "genres": ["Ambient", "Downtempo", "House"],
+      "bio": "\"Back From Reality\" (October 9, 2026, Peace World Records) is Space Ghost's first solo album since 2022 -- steeped in late-'90s/early-2000s PS2-era ambient and electronic nostalgia, written over five years while balancing a day job with music. Tracks include \"System Reset\" and the downtempo title cut.",
+      "why_listen": "A warm, nostalgic ambient/downtempo detour from an artist already in your library -- strong material for intros, warmups, or a late-night wind-down stretch.",
+      "links": {
+        "bandcamp": "https://space-ghost.bandcamp.com"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://space-ghost.bandcamp.com",
+      "release": {
+        "title": "Back From Reality",
+        "release_type": "album",
+        "date": "2026-10-09"
+      }
+    }
+  ]
+}
