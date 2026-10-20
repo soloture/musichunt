@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-20",
+  "picks": [
+    {
+      "name": "Masayoshi Fujita",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery on Erased Tapes. Vibraphone-led ambient/experimental territory connected to your Klara Lewis and Lamin Fofana picks.",
+      "genres": ["Ambient", "Experimental", "Modern Classical"],
+      "bio": "\"Forest of Tranquillity\" (title track single, October 13, 2026, Erased Tapes) previews Japanese vibraphonist Masayoshi Fujita's upcoming sixth Erased Tapes album, grown out of his commission to score Expo 2025's living-nature installation in Osaka -- the full album (due November 13) reacts to live weather sensor data, following 2024's \"Migratory.\"",
+      "why_listen": "Warm, mallet-driven ambient composition with a genuinely unusual generative concept behind it -- strong for intros, warmups, or a contemplative turn in a set.",
+      "links": {
+        "bandcamp": "https://erasedtapesmusic.bandcamp.com"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://erasedtapesmusic.bandcamp.com",
+      "release": {
+        "title": "Forest of Tranquillity",
+        "release_type": "single",
+        "date": "2026-10-13"
+      }
+    }
+  ]
+}
