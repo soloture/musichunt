@@ -1,0 +1,43 @@
+{
+  "date": "2026-10-21",
+  "picks": [
+    {
+      "name": "Last Nubian",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library. New single from his Ships of the Pharaohs project, on First Word Records.",
+      "genres": ["Broken Beat", "Jazz-Funk", "Soul"],
+      "bio": "\"Joys\" (July 30, 2026, First Word Records) is the second single from Ships of the Pharaohs, the London collective led by producer Last Nubian with vocalist Achante, keys player Goldbar and bassist Dougan -- a warm, bossa-tinged cut ahead of their \"Part 1\" EP, featuring soulful harmonies over keys, percussion and synth strings.",
+      "why_listen": "Warm, jazz-fusion broken beat from an artist already in your library -- good textured material for a mellower stretch of a set.",
+      "links": {
+        "bandcamp": "https://firstwordrecords.bandcamp.com"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://firstwordrecords.bandcamp.com",
+      "release": {
+        "title": "Joys",
+        "release_type": "single",
+        "date": "2026-07-30"
+      }
+    },
+    {
+      "name": "Children of Zeus",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery on First Word Records. Connected to today's Last Nubian pick and your broken beat/jazz-funk picks.",
+      "genres": ["Soul", "Hip-Hop", "Broken Beat"],
+      "bio": "\"As The World Burns...\" (September 4, 2026, First Word Records) is the third album from Manchester soul/hip-hop duo Children of Zeus -- sixteen tracks finding moments of respite from personal and global anxieties, with guests including Knucks on \"Before We Drown\" and Anieszka on \"Water & Vibes.\"",
+      "why_listen": "Smooth, soulful UK hip-hop/broken-beat songwriting with real guest-feature firepower -- good for a warmer, vocal-led stretch of a set.",
+      "links": {
+        "bandcamp": "https://childrenofzeus.bandcamp.com"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://childrenofzeus.bandcamp.com",
+      "release": {
+        "title": "As The World Burns...",
+        "release_type": "album",
+        "date": "2026-09-04"
+      }
+    }
+  ]
+}
