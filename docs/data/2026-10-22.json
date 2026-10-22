@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-22",
+  "picks": [
+    {
+      "name": "Boy Harsher",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery, first full-length since 2022. Darkwave/coldwave-adjacent territory that can cross into techno-leaning sets.",
+      "genres": ["Darkwave", "Coldwave", "Industrial"],
+      "bio": "\"GET MEAN\" (September 18, 2026) is the third studio album from Jae Matthews and Augustus Muller's Boy Harsher -- twelve tracks on grief and renewal, recorded across eight locations in the US, Mexico and Italy, including the singles \"Jeans\" and \"Hard Beat.\"",
+      "why_listen": "Icy, pulsing synth-driven darkwave with real club weight -- a strong texture change for a set that wants to go moodier and more industrial without losing momentum.",
+      "links": {
+        "bandcamp": "https://boyharsher.bandcamp.com"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://boyharsher.bandcamp.com",
+      "release": {
+        "title": "GET MEAN",
+        "release_type": "album",
+        "date": "2026-09-18"
+      }
+    }
+  ]
+}
