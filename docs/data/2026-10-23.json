@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-23",
+  "picks": [
+    {
+      "name": "Dengue Dengue Dengue",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library (Bass/slow playlists). New album on Club Romantico -- a different release and label from their August \"Abisal\" EP on Kebrada.",
+      "genres": ["Latin American Electronic", "Bass", "Psychedelic Cumbia"],
+      "bio": "\"Vestigio\" (October 22, 2026, Club Romantico) is a 10-track album from Lima duo Felipe Salmon and Rafael Pereira, mastered by Loric Sih -- their most radical reworking yet of polyrhythm and traditional Peruvian textures, with features from Los Hijos De Lamas (\"Pantano\") and Siete Catorce (\"Señal\").",
+      "why_listen": "Dense, percussion-forward bass music that still carries their signature tropical/psychedelic edge -- a fresh full-length from an artist already proven in your sets, one day old.",
+      "links": {
+        "bandcamp": "https://denguedenguedengue.bandcamp.com/album/vestigio"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://denguedenguedengue.bandcamp.com/album/vestigio",
+      "release": {
+        "title": "Vestigio",
+        "release_type": "album",
+        "date": "2026-10-22"
+      }
+    }
+  ]
+}
