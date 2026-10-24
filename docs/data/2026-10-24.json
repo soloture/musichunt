@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-24",
+  "picks": [
+    {
+      "name": "DJ Python",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library. Full EP now out -- previously featured the lead single \"Forgetful Angel\" on Oct 8 as a preview; this is the complete 5-track release.",
+      "genres": ["Reggaeton", "Deep House", "Ambient", "Trip-Hop"],
+      "bio": "\"to accomplish many things\" (October 23, 2026, XL Recordings) is DJ Python's companion EP to 2025's \"i was put on this earth\" -- five tracks moving through reggaeton, ambient, deep house, trip-hop, shoegaze and pop, with guest vocals from ari, Tony Bontana and EDEN.",
+      "why_listen": "The dreamy, vocal-led follow-through on a single you already picked -- \"Honey Bee\" and \"Mi Fai Sorridere\" widen the EP past the lead single into warmer, pop-adjacent territory, good for a reflective stretch of a set.",
+      "links": {
+        "bandcamp": "https://djpythonnyc.bandcamp.com/album/to-accomplish-many-things"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://djpythonnyc.bandcamp.com/album/to-accomplish-many-things",
+      "release": {
+        "title": "to accomplish many things",
+        "release_type": "EP",
+        "date": "2026-10-23"
+      }
+    }
+  ]
+}
