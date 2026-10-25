@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-25",
+  "picks": [
+    {
+      "name": "Mia Koden",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery on Ilian Tape. Connected to your Martinou pick -- also an Ilian Tape-affiliated producer.",
+      "genres": ["Dubstep", "Breaks", "Techno"],
+      "bio": "\"Decode Vol.2\" (October 15, 2026, Ilian Tape) is the second EP from the former Sicaria Sound member for the Munich label, following 2023's \"Decode\" -- four tracks (\"A-killa Rift,\" \"Slink,\" \"Earshotta,\" \"Dread by Dawn\") mining dark, moody dubstep and breaks, mastered by Tangible Air.",
+      "why_listen": "Heavy, grimy low-end with a breaks backbone -- functional, weighty material for a darker stretch of a set.",
+      "links": {
+        "bandcamp": "https://iliantape.bandcamp.com/album/itx047-decode-vol-2"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://iliantape.bandcamp.com/album/itx047-decode-vol-2",
+      "release": {
+        "title": "Decode Vol.2",
+        "release_type": "EP",
+        "date": "2026-10-15"
+      }
+    }
+  ]
+}
