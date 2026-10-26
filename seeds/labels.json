@@ -1133,5 +1133,18 @@
       "bandcamp": "https://firstwordrecords.bandcamp.com"
     },
     "notes": "London label (est. 2004), modern soul/broken beat. Artists include Children of Zeus, Werkha, Last Nubian."
+  },
+  {
+    "name": "WVWV",
+    "source": "discovered",
+    "genres": [
+      "Trance",
+      "House",
+      "Latin American Electronic"
+    ],
+    "links": {
+      "bandcamp": "https://wvwv.bandcamp.com"
+    },
+    "notes": "Latin American-leaning trance/house label; released DJ One Go, Octoptic."
   }
 ]

@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-26",
+  "picks": [
+    {
+      "name": "DJ One Go",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery on WVWV. Guadalajara, Mexico producer -- connects to your Latin American electronic picks (Nicola Cruz, Dengue Dengue Dengue, ZZK/Comeme-adjacent).",
+      "genres": ["Trance", "House", "Latin American Electronic"],
+      "bio": "\"Estacion De Trance\" (October 21, 2026, WVWV) is a five-track EP from the Guadalajara producer -- high-energy house and trance cuts, following prior Bandcamp releases like TUNEL DE VIENTO and Cumbia Rave.",
+      "why_listen": "Driving, trance-inflected house from a Mexican scene connection -- useful peak-energy material with a different regional flavor than most of your current rotation.",
+      "links": {
+        "bandcamp": "https://wvwv.bandcamp.com"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://wvwv.bandcamp.com",
+      "release": {
+        "title": "Estacion De Trance",
+        "release_type": "EP",
+        "date": "2026-10-21"
+      }
+    }
+  ]
+}
