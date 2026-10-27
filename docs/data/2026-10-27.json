@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-27",
+  "picks": [
+    {
+      "name": "Clark",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist discovery on Throttle Records. Clark featured on Bicep's \"Air / Lemonder / Viper\" (Sept 25) -- already adjacent to your library through that collaboration.",
+      "genres": ["IDM", "Techno", "Electronic"],
+      "bio": "\"Steep Stims II\" (October 23, 2026, Throttle Records) gathers Clark's Modal, Opponent and Entity Stims EPs alongside the previously unreleased track \"Naiveventide\" -- a sequel compilation to 2025's Access Virus-constrained \"Steep Stims.\"",
+      "why_listen": "Hooky, hardware-synth-driven dancefloor material from a veteran IDM/techno producer -- functional and texturally distinct from most of your current rotation.",
+      "links": {
+        "bandcamp": "https://clark.bandcamp.com/album/steep-stims-ii"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://clark.bandcamp.com/album/steep-stims-ii",
+      "release": {
+        "title": "Steep Stims II",
+        "release_type": "album",
+        "date": "2026-10-23"
+      }
+    }
+  ]
+}
