@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-29",
+  "picks": [
+    {
+      "name": "Conducta",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist/label discovery -- Up Ya Archives is Nia Archives' label. Another dry research day; this is a genuine new-to-the-pool discovery, about four and a half months old rather than brand new, disclosed per usual practice. Exact release-page link unconfirmable via search, so the purchase link points to the label's confirmed-live Bandcamp root.",
+      "genres": ["UK Garage", "Jungle", "Breakbeat"],
+      "bio": "\"SOUNDBOY JOHNNY\" (June 16, 2026, Up Ya Archives) is Conducta's first full project for Nia Archives' label -- a three-track EP (\"Low Can U Go\" feat. Blvk H3ro, \"Soundboy Johnny,\" \"In Your Arms\") that pushes the UK garage producer into breakbeat and jungle territory, cranking up the BPM and toughening the low-end.",
+      "why_listen": "A respected UKG producer stepping into jungle/breaks -- tougher, faster material than his usual output, good for a shift into higher-energy territory.",
+      "links": {
+        "bandcamp": "https://upyarchives.bandcamp.com"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://upyarchives.bandcamp.com",
+      "release": {
+        "title": "SOUNDBOY JOHNNY",
+        "release_type": "EP",
+        "date": "2026-06-16"
+      }
+    }
+  ]
+}

@@ -1159,5 +1159,18 @@
       "bandcamp": "https://keysound.bandcamp.com"
     },
     "notes": "London label (est. 2005) run by Blackdown and Dusk; UK bass/dubstep/grime foundational imprint."
+  },
+  {
+    "name": "Up Ya Archives",
+    "source": "discovered",
+    "genres": [
+      "Jungle",
+      "UK Garage",
+      "Breakbeat"
+    ],
+    "links": {
+      "bandcamp": "https://upyarchives.bandcamp.com"
+    },
+    "notes": "London label launched April 2025 by Nia Archives; 150-170bpm focus."
   }
 ]
