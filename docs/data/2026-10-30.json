@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-30",
+  "picks": [
+    {
+      "name": "Eerie Enterprise",
+      "type": "artist",
+      "source_type": "associated",
+      "source_note": "New collaborative project from upsammy (already seeded via Dekmantel/PAN) and Piezo. A different, new release from upsammy's April \"Seismo\" collaboration with Valentina Magaletti.",
+      "genres": ["Ambient", "Experimental", "IDM/Experimental"],
+      "bio": "\"Places Remember Events\" (October 30, 2026, Dekmantel) is the debut album from Eerie Enterprise -- the joint project of Dutch producer upsammy (Thessa Torsing) and Italian producer Piezo (Luca Mucci) -- nine tracks developed over a year and a half, opening with the title track and \"Decay + Collapse.\"",
+      "why_listen": "Melodic, ambient-leaning electronica from two distinctive producers working together for the first time -- out today, a strong headphones-first pick for a contemplative stretch of a set.",
+      "links": {
+        "bandcamp": "https://dekmantel.bandcamp.com"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://dekmantel.bandcamp.com",
+      "release": {
+        "title": "Places Remember Events",
+        "release_type": "album",
+        "date": "2026-10-30"
+      }
+    }
+  ]
+}
