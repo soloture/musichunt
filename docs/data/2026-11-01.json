@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-01",
+  "picks": [
+    {
+      "name": "Anthony Naples",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library (previously seeded for the Sept 24 \"BBT / Seven\" single) -- a different, full-length release on his own ANS label. Dry research day; exact Bandcamp album-page slug unconfirmable via search, so the purchase link points to his confirmed-live Bandcamp root.",
+      "genres": ["House", "Deep House", "Ambient"],
+      "bio": "\"In Studio Magic\" (ANS Records) is Naples' seventh full-length -- ten tracks shaped between 2024 and 2025, recorded, produced, and mixed entirely by himself, leaning further into live instrumentation and studio texture than his club-facing singles.",
+      "why_listen": "A more patient, textural side of a producer usually filed under tight house tracks -- good material for a late-set or warm-up stretch where atmosphere matters more than punch.",
+      "links": {
+        "bandcamp": "https://anthonynaples.bandcamp.com"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://anthonynaples.bandcamp.com",
+      "release": {
+        "title": "In Studio Magic",
+        "release_type": "album",
+        "date": "2026-02-20"
+      }
+    }
+  ]
+}
