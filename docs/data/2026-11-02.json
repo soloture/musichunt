@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-02",
+  "picks": [
+    {
+      "name": "Gold Panda",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library. Dry research day -- caught two near-miss duplicates before settling here (Oceanic's \"ICI\" and Hodge's \"Big Splash\" were both already published in August and October). This is a genuine new-to-the-pool discovery for this artist, about five months old rather than brand new. Exact Bandcamp album-page slug unconfirmable via search (though a fan's public collection confirms it's sold there), so the purchase link points to his confirmed-live Bandcamp root.",
+      "genres": ["Electronic", "IDM"],
+      "bio": "\"TON UP\" (June 26, 2026, Studio Barnhus) is Gold Panda's (Derwin Schlecker) new full-length, following 2023's The Work -- eight rough-hewn dance tracks and two shorter interludes, led by the single \"Ding The Motor,\" sticking to his sampler-heavy, textured production style.",
+      "why_listen": "A sampler-warped, dance-leaning side of a producer usually filed under headphone electronica -- good for a textural, rhythmically off-kilter stretch of a set.",
+      "links": {
+        "bandcamp": "https://goldpanda.bandcamp.com"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://goldpanda.bandcamp.com",
+      "release": {
+        "title": "TON UP",
+        "release_type": "album",
+        "date": "2026-06-26"
+      }
+    }
+  ]
+}
