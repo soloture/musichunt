@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-03",
+  "picks": [
+    {
+      "name": "George FitzGerald",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library. Unusually duplicate-heavy research day -- three strong-looking leads (Four Tet's Wingdings album, Hodge's \"Big Splash,\" Oceanic's \"ICI\") all turned out to already be published, and a Mente Orgánica lead turned out to be a 2025 release misdated as 2026. Exact Bandcamp track-page link unconfirmable via search (the artist's own Bandcamp page is confirmed live with his recent catalog, just not yet showing this specific single in the index), so the purchase link points to his confirmed-live Bandcamp root.",
+      "genres": ["House", "Techno"],
+      "bio": "\"The Ladder\" (September 1, 2026, Domino) is George FitzGerald's first new music since his trio of 2024 standalone singles -- a track that began during a session with Ghost Culture near Glastonbury and was finished at FitzGerald's south-east London studio.",
+      "why_listen": "A reliable UK house/techno producer's return single -- peak-time energy with an early-2000s house influence, useful as a riser or a late-set injection of momentum.",
+      "links": {
+        "bandcamp": "https://georgefitzgerald.bandcamp.com"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://georgefitzgerald.bandcamp.com",
+      "release": {
+        "title": "The Ladder",
+        "release_type": "single",
+        "date": "2026-09-01"
+      }
+    }
+  ]
+}
