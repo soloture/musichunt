@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-05",
+  "picks": [
+    {
+      "name": "DJ Plead",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist/label discovery -- Smalltown Supersound. Unusually duplicate/year-confusion-heavy research day: Karen y Los Remedios \"Bestiaria\" and Legowelt's \"A Philosophy of Tracking\" both turned out to be already-published or misdated. Exact Bandcamp release-page link unconfirmable via search, so the purchase link points to the label's confirmed-live Bandcamp root.",
+      "genres": ["Techno", "House", "Dabke"],
+      "bio": "\"Please\" (2026, Smalltown Supersound) is the second album from Melbourne producer Jarred Beeler, aka DJ Plead -- built from roughly 120 demos recorded between 2023 and 2025, fusing techno, house and dub with the dabke and mijwiz-flecked keys of a Levantine dancing circle.",
+      "why_listen": "A genuinely distinct hybrid sound -- Levantine melodic instrumentation folded into club rhythm rather than bolted onto it -- useful for a set that wants a regional texture shift without losing the floor.",
+      "links": {
+        "bandcamp": "https://smalltownsupersoundofficial.bandcamp.com"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://smalltownsupersoundofficial.bandcamp.com",
+      "release": {
+        "title": "Please",
+        "release_type": "album",
+        "date": "2026-06-26"
+      }
+    }
+  ]
+}

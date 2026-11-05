@@ -1172,5 +1172,18 @@
       "bandcamp": "https://upyarchives.bandcamp.com"
     },
     "notes": "London label launched April 2025 by Nia Archives; 150-170bpm focus."
+  },
+  {
+    "name": "Smalltown Supersound",
+    "source": "discovered",
+    "genres": [
+      "Electronic",
+      "Experimental",
+      "House"
+    ],
+    "links": {
+      "bandcamp": "https://smalltownsupersoundofficial.bandcamp.com"
+    },
+    "notes": "Norwegian label run by Joakim Haugland."
   }
 ]
