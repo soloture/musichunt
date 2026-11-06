@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-06",
+  "picks": [
+    {
+      "name": "Carlos Niño & Friends feat. Saul Williams",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library (previously seeded via \"Bubble Bath for Giants\" in August) -- a different, standalone collaborative release, not a duplicate. Follows the pair's December 2024 live meeting in an LA park. Exact Bandcamp track-page link unconfirmable via search, so the purchase link points to his confirmed-live Bandcamp root.",
+      "genres": ["Spiritual Jazz", "Spoken Word", "Ambient"],
+      "bio": "\"Elysian Invocation / Pollen on the Earth\" (February 6, 2026, Leaving Records) is a standalone two-track EP pairing LA scene-builder Carlos Niño with poet/musician Saul Williams -- two roughly 15-minute longform pieces recorded after the pair's first proper collaboration in a forested LA park in December 2024.",
+      "why_listen": "A patient, spoken-word-led meditation piece -- good for an ambient interlude or a set's quieter opening stretch, away from club rhythm entirely.",
+      "links": {
+        "bandcamp": "https://carlosnino.bandcamp.com"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://carlosnino.bandcamp.com",
+      "release": {
+        "title": "Elysian Invocation / Pollen on the Earth",
+        "release_type": "EP",
+        "date": "2026-02-06"
+      }
+    }
+  ]
+}
