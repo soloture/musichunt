@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-07",
+  "picks": [
+    {
+      "name": "Vakula",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "Oath already seeded. Two near-miss leads dropped along the way: a Batu EP on Oath sub-label Lethal Press turned out to be 2025 material misdated as 2026, and Idle Hands/Timedance both came up dry. Exact Bandcamp release-page link unconfirmable via search, so the purchase link uses the label's already-confirmed Bandcamp root.",
+      "genres": ["Deep House", "Ambient House"],
+      "bio": "\"Times\" (May 8, 2026, Oath) is a four-track, hardware-led EP from Ukrainian producer Vakula -- preceded by two advance singles, \"Atmos Time\" and \"Soul Time.\"",
+      "why_listen": "Deep, patient hardware-jam house from a long-running, idiosyncratic producer -- useful for a hypnotic, less-is-more stretch of a set.",
+      "links": {
+        "bandcamp": "https://oathcreations.bandcamp.com"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://oathcreations.bandcamp.com",
+      "release": {
+        "title": "Times",
+        "release_type": "EP",
+        "date": "2026-05-08"
+      }
+    }
+  ]
+}
