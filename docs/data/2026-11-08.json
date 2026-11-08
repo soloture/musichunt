@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-08",
+  "picks": [
+    {
+      "name": "KiF Productions",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "Music To Watch Seeds Grow By already seeded (two earlier editions from this plant-themed cassette series -- Brian d'Souza's Sunflowers and Patricia Wolf's Yarrow -- were already published, caught via dedup check). This is the series' next edition, not yet covered.",
+      "genres": ["Ambient", "New Age", "Field Recording"],
+      "bio": "\"Passiflora\" (Music To Watch Seeds Grow By 010, shipped around August 12, 2026) is the tenth edition of the label's plant-themed cassette series, from English duo KiF Productions (Will Cookson and Tom Haverly) -- five tracks tracing the passion flower's life cycle, dedicated to Keith McIvor (Optimo) and his Tranquility Mixes.",
+      "why_listen": "Calm, structured ambient built around a single plant's biology -- good for a slow-build opener or a come-down stretch late in a set.",
+      "links": {
+        "bandcamp": "https://kifproductions.bandcamp.com"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://kifproductions.bandcamp.com",
+      "release": {
+        "title": "Music To Watch Seeds Grow By 010: Passiflora",
+        "release_type": "EP",
+        "date": "2026-08-12"
+      }
+    }
+  ]
+}
