@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-09",
+  "picks": [
+    {
+      "name": "Baltra",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist/label discovery -- 96 and Forever is Baltra's own imprint. Dry research day across several label and artist checks (Rhythm Section, Nous'klaer Audio, Emma-Jean Thackray, DJ Paypal, Guedra Guedra, Afrikan Sciences, Sascha Funke all came up empty). Confirmed live on his own Bandcamp page.",
+      "genres": ["House", "Disco", "Electronic"],
+      "bio": "\"In the Afterglow\" EP (reviewed by DJ Mag Jan 14, 2026, on his own label 96 and Forever) -- warm, melodic house/disco tracks including \"Lost,\" \"Keep Coming Back,\" \"Twisted Ways,\" and \"Echoes of Us.\"",
+      "why_listen": "Sun-warmed, disco-inflected house from a producer with a strong melodic signature -- good for a daytime or sunset-adjacent stretch of a set.",
+      "links": {
+        "bandcamp": "https://baltra.bandcamp.com"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://baltra.bandcamp.com",
+      "release": {
+        "title": "In the Afterglow",
+        "release_type": "EP",
+        "date": "2026-01-14"
+      }
+    }
+  ]
+}

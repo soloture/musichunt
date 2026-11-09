@@ -1185,5 +1185,17 @@
       "bandcamp": "https://smalltownsupersoundofficial.bandcamp.com"
     },
     "notes": "Norwegian label run by Joakim Haugland."
+  },
+  {
+    "name": "96 and Forever",
+    "source": "discovered",
+    "genres": [
+      "House",
+      "Disco"
+    ],
+    "links": {
+      "bandcamp": "https://96andforeverrecords.bandcamp.com"
+    },
+    "notes": "Baltra's own imprint."
   }
 ]
