@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-10",
+  "picks": [
+    {
+      "name": "Dungen",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist/label discovery. Caught two near-miss duplicates before settling here (Nikki Nair's Hyperdub EP and Severed Heads' Dark Entries reissue were both already published in October and August respectively). Exact Bandcamp album-page link unconfirmable via search, so the purchase link points to the artist's confirmed-live Bandcamp root.",
+      "genres": ["Psych Rock", "Swedish Psych"],
+      "bio": "\"Vidrig vår\" (September 25, 2026, Skolhaus) is Swedish psych band Dungen's 12th studio album -- ten songs, their first since 2022's \"En är för mycket och tusen aldrig nog,\" an open, personal account of a long relationship ending, produced by Gustav Ejstes and Mattias Glavå.",
+      "why_listen": "A different texture entirely from the electronic-heavy picks this week -- warm, melodic Swedish psych rock, useful if a set calls for a live-band interlude or a change of instrumentation.",
+      "links": {
+        "bandcamp": "https://dungen.bandcamp.com"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://dungen.bandcamp.com",
+      "release": {
+        "title": "Vidrig vår",
+        "release_type": "album",
+        "date": "2026-09-25"
+      }
+    }
+  ]
+}
