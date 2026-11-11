@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-11",
+  "picks": [
+    {
+      "name": "dgoHn",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "Planet Mu already seeded. Dropped a Pearson Sound lead after confirming the \"Red Sky\" EP everyone was tracking for a Nov 11 Hessle Audio release is actually from 2022 -- a year-confusion false positive carried over from a prior day's notes. Exact Bandcamp link unconfirmable via search, but Planet Mu's own release page explicitly links out to a Bandcamp purchase option.",
+      "genres": ["Drum and Bass", "Breakcore", "Drumfunk"],
+      "bio": "\"Tessares\" (June 26, 2026, Planet Mu) is dgoHn's (John Cunnane) fourth album and first for the label -- playful, unconventional drum & bass that contrasts sparse, melodic passages with complex drumfunk and breakcore programming.",
+      "why_listen": "Technically dense but playful drum & bass -- good for a faster, more rhythmically intricate stretch of a set that wants to avoid straightforward jungle tropes.",
+      "links": {
+        "bandcamp": "https://planetmu.bandcamp.com"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://planetmu.bandcamp.com",
+      "release": {
+        "title": "Tessares",
+        "release_type": "album",
+        "date": "2026-06-26"
+      }
+    }
+  ]
+}
