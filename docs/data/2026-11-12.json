@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-12",
+  "picks": [
+    {
+      "name": "Shed",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "Dekmantel Records already seeded. A different Shed EP on Ilian Tape (\"Applications II\") was previously confirmed stale; this is a separate, genuinely new-to-the-pool album on Dekmantel instead. Exact Bandcamp album-page link unconfirmable via search, so the purchase link uses the label's already-confirmed Bandcamp root.",
+      "genres": ["Techno", "House"],
+      "bio": "\"Rave Echoes\" (May 2026, Dekmantel) is Shed's new album -- eight tracks (\"Loot 25,\" \"Everybody,\" \"Rave Predator,\" two mixes of \"Password,\" \"Double Scoop,\" \"Taking You Home,\" \"Rave Echoes\") mapping the afterglow of the rave rather than its peak.",
+      "why_listen": "A veteran Berlin techno producer's take on comedown/afterglow energy rather than peak-time -- useful for a set's later, more reflective stretch.",
+      "links": {
+        "bandcamp": "https://dekmantel.bandcamp.com"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://dekmantel.bandcamp.com",
+      "release": {
+        "title": "Rave Echoes",
+        "release_type": "album",
+        "date": "2026-05-29"
+      }
+    }
+  ]
+}
