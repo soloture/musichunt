@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-14",
+  "picks": [
+    {
+      "name": "I. JORDAN",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "Peach Discs already seeded. New artist discovery -- I. JORDAN's label debut. Exact Bandcamp release-page link unconfirmable via search, so the purchase link uses the label's already-confirmed Bandcamp root.",
+      "genres": ["House", "UK Garage"],
+      "bio": "\"Soft Serve Summer\" (July 17, 2026, Peach Discs) is I. JORDAN's debut EP for the label -- four original tracks (lead single \"Your Love\") plus a closing remix of \"Little Tinker\" from label co-founder Gramrcy, showcasing a brighter, housier, more personal side of her sound.",
+      "why_listen": "Sun-soaked, melodic house from a UK garage-rooted producer stepping into a warmer register -- good for a bright, feel-good stretch of a set.",
+      "links": {
+        "bandcamp": "https://peachdiscs.bandcamp.com"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://peachdiscs.bandcamp.com",
+      "release": {
+        "title": "Soft Serve Summer",
+        "release_type": "EP",
+        "date": "2026-07-17"
+      }
+    }
+  ]
+}
