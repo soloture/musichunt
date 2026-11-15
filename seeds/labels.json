@@ -1198,5 +1198,17 @@
       "bandcamp": "https://96andforeverrecords.bandcamp.com"
     },
     "notes": "Baltra's own imprint."
+  },
+  {
+    "name": "Freerange Records",
+    "source": "discovered",
+    "genres": [
+      "House",
+      "Deep House"
+    ],
+    "links": {
+      "bandcamp": "https://freerangerecords.bandcamp.com"
+    },
+    "notes": "Jimpster's London house label."
   }
 ]

@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-15",
+  "picks": [
+    {
+      "name": "Soul Clap",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist/label discovery -- Freerange Records. Extremely dry research day (50+ searches across labels and artists, with two year-confusion false positives caught: Branko's \"OBG\" turned out to be 2022, Forest Drive West's \"Mantis 1920\" was already published in August). Exact Bandcamp release-page link unconfirmable via search, so the purchase link uses the label's confirmed-live Bandcamp root.",
+      "genres": ["House", "Funk", "Deep House"],
+      "bio": "\"Drowning In Your Love\" (January 30, 2026, Freerange) is Soul Clap's first release for the label -- a five-track EP featuring Shaun J. Wright on vocals, pairing a deep, funk-inflected house title track with two versions of \"EFUNK Anthem.\"",
+      "why_listen": "Classic Chicago-rooted house/funk songwriting from a duo with deep genre pedigree -- warm, vocal-led material for a groove-forward stretch of a set.",
+      "links": {
+        "bandcamp": "https://freerangerecords.bandcamp.com"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://freerangerecords.bandcamp.com",
+      "release": {
+        "title": "Drowning In Your Love",
+        "release_type": "EP",
+        "date": "2026-01-30"
+      }
+    }
+  ]
+}
