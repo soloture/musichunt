@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-16",
+  "picks": [
+    {
+      "name": "ELOQ & V. Christie",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "Shall Not Fade already seeded -- this lands on the label's Time Is Now sub-imprint (cat. TIN081). Pairing of Copenhagen producer ELOQ and Norwegian producer V. Christie.",
+      "genres": ["UK Garage", "House", "Speed Garage"],
+      "bio": "\"Permafrost\" (November 6, 2026, Time Is Now / Shall Not Fade) is a four-track 12\" from Danish producer ELOQ (August Fenger Janson) and Norwegian producer V. Christie (Vebjørn Christie), pairing the title track \"Coldsnap\" with garage/speed-garage cuts \"Fools (Wizards Theme)\" and \"Nightshifter (Assassin's Theme)\" plus closer \"Anchor.\"",
+      "why_listen": "Hands-up UKG/speed garage energy from two scene-connected producers -- built for a peak-time, high-tempo stretch of a set.",
+      "links": {
+        "bandcamp": "https://eloqeloqeloq.bandcamp.com/album/permafrost"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://eloqeloqeloq.bandcamp.com/album/permafrost",
+      "release": {
+        "title": "Permafrost",
+        "release_type": "EP",
+        "date": "2026-11-06"
+      }
+    },
+    {
+      "name": "Azzi On The Beat",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "Nyege Nyege Tapes already seeded (prior picks: Kazi/Kadodi Season Two). New artist discovery -- his debut album for the label.",
+      "genres": ["Afro-Electronic", "Street Pop", "Experimental"],
+      "bio": "\"Mara Gram\" (November 12, 2026, Nyege Nyege Tapes) is the debut album from Lagos producer Azzi On The Beat (Waris Rasheed), canonizing mara, a Lagos street-pop dance style, across 18 tracks of ecstatic, unhinged productions. He has previously played MoMA PS1, Tresor, and Unsound.",
+      "why_listen": "Raw, high-energy Lagos street-pop pushed into eccentric electronic territory -- a good jolt of fresh regional club sound for a set.",
+      "links": {
+        "bandcamp": "https://nyegenyegetapes.bandcamp.com/album/mara-gram"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://nyegenyegetapes.bandcamp.com/album/mara-gram",
+      "release": {
+        "title": "Mara Gram",
+        "release_type": "album",
+        "date": "2026-11-12"
+      }
+    }
+  ]
+}
