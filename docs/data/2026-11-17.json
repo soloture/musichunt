@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-17",
+  "picks": [
+    {
+      "name": "Niagara",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "Príncipe already seeded. An earlier lead on the trio's \"Pais & Filhos\" album turned out to be from 2020 and was dropped at the time; this is a genuinely new, dated album.",
+      "genres": ["House", "Techno", "Punk House"],
+      "bio": "\"Catedral Gótica\" (October 30, 2026, Príncipe, cat. P068) is an album from Lisbon trio Niagara (Sara Eckerson, António and Alberto Arruda), who've been a core act on the label since the 2010s, known for a slowed-down, post-punk-inflected take on house and techno set apart from the label's faster kuduro/batida side.",
+      "why_listen": "Lo-fi, punk-leaning house with a loose, hypnotic pulse -- a good off-kilter change of texture in a set built on Príncipe's faster club styles.",
+      "links": {
+        "bandcamp": "https://principediscos.bandcamp.com/album/catedral-g-tica"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://principediscos.bandcamp.com/album/catedral-g-tica",
+      "release": {
+        "title": "Catedral Gótica",
+        "release_type": "album",
+        "date": "2026-10-30"
+      }
+    },
+    {
+      "name": "UNIIQU3",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "Local Action already seeded. New artist discovery -- her debut album for the label.",
+      "genres": ["Jersey Club", "Club", "Bass"],
+      "bio": "\"Mass Appeal\" (November 6, 2026, Local Action) is the debut album from Newark Jersey club producer UNIIQU3, a ten-track record with guest turns from Cakes Da Killa, Spank Rock, Leonce, Samurai Breaks, and BÉBE YANA, following over a decade championing the genre.",
+      "why_listen": "High-energy, bounce-heavy Jersey club with strong vocal features throughout -- built for a peak, dancefloor-driving stretch of a set.",
+      "links": {
+        "bandcamp": "https://uniiqu3.bandcamp.com/album/mass-appeal"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://uniiqu3.bandcamp.com/album/mass-appeal",
+      "release": {
+        "title": "Mass Appeal",
+        "release_type": "album",
+        "date": "2026-11-06"
+      }
+    }
+  ]
+}
