@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-18",
+  "picks": [
+    {
+      "name": "Trolley Route",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "Dekmantel already seeded. New alias discovery -- Trolley Route is Oscar Mulero's techno-focused alias, making its Dekmantel UFO-series debut.",
+      "genres": ["Techno"],
+      "bio": "\"New Visual Order\" (November 6, 2026, Dekmantel, cat. DKMNTL-UFO23) is a four-track EP from Trolley Route, Oscar Mulero's alias (revived in 2023), marking his first release on Dekmantel's UFO series.",
+      "why_listen": "Straight, hypnotic techno from a veteran Spanish producer -- a solid, no-frills driver for a peak techno stretch of a set.",
+      "links": {
+        "bandcamp": "https://oscarmulero-oficial.bandcamp.com/album/new-visual-order"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://oscarmulero-oficial.bandcamp.com/album/new-visual-order",
+      "release": {
+        "title": "New Visual Order",
+        "release_type": "EP",
+        "date": "2026-11-06"
+      }
+    },
+    {
+      "name": "XTAL",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "Mule Musiq already seeded. New artist discovery -- his label debut.",
+      "genres": ["Tech House", "Minimal", "House"],
+      "bio": "\"Off-Axis\" (October 2, 2026, Mule Musiq) is a four-track EP and the label debut of XTAL, a Japanese DJ/producer (half of Kawasaki duo Traks Boys since '95) making solo productions since 2016 -- minimal loops and dubby, off-kilter rhythms across tracks \"Off-Axis,\" \"Arches,\" \"Lilt,\" and \"Morse Signals.\"",
+      "why_listen": "Understated, dubby tech house with a loose, rolling groove -- good for a late-night, head-down stretch of a set.",
+      "links": {
+        "bandcamp": "https://mulemusiq.bandcamp.com/album/off-axis"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://mulemusiq.bandcamp.com/album/off-axis",
+      "release": {
+        "title": "Off-Axis",
+        "release_type": "EP",
+        "date": "2026-10-02"
+      }
+    }
+  ]
+}
