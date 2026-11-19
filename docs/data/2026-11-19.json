@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-19",
+  "picks": [
+    {
+      "name": "L'Eclair",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library (seeded from Rekordbox as \"Leclair\"). New release from the Geneva instrumental duo.",
+      "genres": ["Jazz Fusion", "Dub", "Funk"],
+      "bio": "\"Echo\" (November 6, 2026, Innovative Leisure) is a five-track EP from Geneva brothers Stef and Yavor Lilov's band L'Eclair, following their 2025 album \"Cloud Drifter\" and introducing a studio lineup expanded with bass, synth, and percussion.",
+      "why_listen": "Sleek, instrumental jazz-fusion blending drum'n'bass, footwork, dub and funk -- good for a groove-driven, genre-crossing moment in a set.",
+      "links": {
+        "bandcamp": "https://leclairband.bandcamp.com/album/echo"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://leclairband.bandcamp.com/album/echo",
+      "release": {
+        "title": "Echo",
+        "release_type": "EP",
+        "date": "2026-11-06"
+      }
+    },
+    {
+      "name": "dBridge",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "fabric Originals already seeded -- this is on FABRICLIVE, fabric's companion imprint. dBridge's debut original EP for the label, following his 2010 FabricLive.50 mix with Instra:mental.",
+      "genres": ["Drum and Bass", "Autonomic"],
+      "bio": "\"Curiosity Clicks\" (November 19, 2026, FABRICLIVE) is a four-track EP from Darren White, aka dBridge -- a drum & bass pioneer, Bad Company founding member, and head of Exit Records, best known for co-founding the atmospheric \"autonomic\" sound with Instra:mental.",
+      "why_listen": "Moody, atmospheric drum & bass from one of the genre's defining producers -- a strong pick for a deeper, more cerebral d&b stretch of a set.",
+      "links": {
+        "bandcamp": "https://dbridge.bandcamp.com/album/curiosity-clicks"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://dbridge.bandcamp.com/album/curiosity-clicks",
+      "release": {
+        "title": "Curiosity Clicks",
+        "release_type": "EP",
+        "date": "2026-11-19"
+      }
+    }
+  ]
+}

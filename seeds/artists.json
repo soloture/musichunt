@@ -3628,7 +3628,9 @@
       "slow"
     ],
     "track_count": 1,
-    "labels": []
+    "labels": [
+      "Innovative Leisure"
+    ]
   },
   {
     "name": "Legowelt",
@@ -7879,5 +7881,19 @@
     "playlists": [],
     "track_count": 0,
     "notes": "Japanese DJ/producer, half of Traks Boys (Kawasaki); Off-Axis is his Mule Musiq debut."
+  },
+  {
+    "name": "dBridge",
+    "source": "discovered",
+    "genres": [
+      "Drum and Bass",
+      "Autonomic"
+    ],
+    "labels": [
+      "fabric Originals"
+    ],
+    "playlists": [],
+    "track_count": 0,
+    "notes": "Darren White; Bad Company founding member, Exit Records head; Curiosity Clicks is his debut original EP on FABRICLIVE."
   }
 ]
