@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-20",
+  "picks": [
+    {
+      "name": "Dwarde",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "Up Ya Archives already seeded. New artist discovery -- his label debut.",
+      "genres": ["Jungle", "Hardcore", "Drum and Bass"],
+      "bio": "\"Energy Exchange\" (Up Ya Archives, cat. UYA014) is a four-track EP from Dinn Warde, aka Dwarde -- a Darlington-born, London-based jungle producer and a key figure in the contemporary jungle/breakbeat revival, with two jungle cuts and two brighter, vocal-led hardcore tracks.",
+      "why_listen": "Big-vocal jungle and hardcore from one of the revival scene's most distinctive voices -- good for an energetic, nostalgic-leaning stretch of a set.",
+      "links": {
+        "bandcamp": "https://upyarchives.bandcamp.com"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://upyarchives.bandcamp.com",
+      "release": {
+        "title": "Energy Exchange",
+        "release_type": "EP",
+        "date": "2026-10-30"
+      }
+    },
+    {
+      "name": "DJ Die",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "GutterFunk already seeded (previously picked for \"Rock Steady\" in August). This is a new, distinct single.",
+      "genres": ["Drum and Bass", "Jungle"],
+      "bio": "\"Once Upon A Time\" (November 6, 2026, GutterFunk) is a new single from Bristol drum & bass legend DJ Die (Daniel Kausman) -- co-founder of Full Cycle Recordings and a core member of Reprazent -- a nostalgic ode to the cassette-tape era of the jungle underground.",
+      "why_listen": "Warm, nostalgic jungle from a genre veteran -- a good rolling, reflective moment in a drum & bass-leaning set.",
+      "links": {
+        "bandcamp": "https://gutterfunkuk.bandcamp.com/track/dj-die-once-upon-a-time"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://gutterfunkuk.bandcamp.com/track/dj-die-once-upon-a-time",
+      "release": {
+        "title": "Once Upon A Time",
+        "release_type": "single",
+        "date": "2026-11-06"
+      }
+    }
+  ]
+}
