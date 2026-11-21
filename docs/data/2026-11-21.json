@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-21",
+  "picks": [
+    {
+      "name": "MYTRON",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "Already in your library (previously picked for \"Propeller\" in August). This is a new, distinct release on the same Multi Culti label.",
+      "genres": ["Leftfield Disco", "Dub", "Psychedelic"],
+      "bio": "\"Ascorbic\" (November 6, 2026, Multi Culti) is a new single from London-based producer MYTRON, a hardware-driven multi-instrumentalist known for psychedelic, leftfield-disco and dub-inflected grooves.",
+      "why_listen": "Warm, hardware-driven psychedelic groove -- a good lo-fi, head-nodding change of pace in a set.",
+      "links": {
+        "bandcamp": "https://mytron.bandcamp.com/album/ascorbic"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://mytron.bandcamp.com/album/ascorbic",
+      "release": {
+        "title": "Ascorbic",
+        "release_type": "single",
+        "date": "2026-11-06"
+      }
+    },
+    {
+      "name": "Chris Stevo",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "Refuge Recordings already seeded. New artist discovery. Exact Bandcamp release-page link unconfirmable via search, so the purchase link uses the label's confirmed-live Bandcamp root.",
+      "genres": ["Tech House", "House", "Minimal"],
+      "bio": "\"Tito's Groove\" (October 30, 2026, Refuge Recordings) is a tech house-leaning EP from Australian DJ/producer Chris Stevo (Wollongong), whose prior work has landed on Interfonic and Motive Deep.",
+      "why_listen": "Rolling, percussive tech house with a deep-tech edge -- a solid groove-driver for a club-focused stretch of a set.",
+      "links": {
+        "bandcamp": "https://refugerecordings.bandcamp.com"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://refugerecordings.bandcamp.com",
+      "release": {
+        "title": "Tito's Groove",
+        "release_type": "EP",
+        "date": "2026-10-30"
+      }
+    }
+  ]
+}
