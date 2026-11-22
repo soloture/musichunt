@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-22",
+  "picks": [
+    {
+      "name": "Sascha Funke",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist/label discovery -- Kompakt. Previously came up empty on 11-09 before this album was confirmed out.",
+      "genres": ["Techno", "House", "Minimal", "Disco House"],
+      "bio": "\"Planes In Reverse\" (November 6, 2026, Kompakt, cat. KOMPAKTCD189D) is Sascha Funke's fourth album and first full-length on Kompakt in nearly a decade -- ten tracks spanning techno, house, minimalism and disco house, with Julienne Dessagne of Fantastic Twins featured on the title track.",
+      "why_listen": "A veteran Berlin producer's long-awaited album return -- varied enough to work across several different moods in a set.",
+      "links": {
+        "bandcamp": "https://saschafunke.bandcamp.com/album/planes-in-reverse"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://saschafunke.bandcamp.com/album/planes-in-reverse",
+      "release": {
+        "title": "Planes In Reverse",
+        "release_type": "album",
+        "date": "2026-11-06"
+      }
+    },
+    {
+      "name": "Bodhi",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "Hotflush Recordings already seeded. New artist discovery.",
+      "genres": ["UK Bass", "Garage", "House"],
+      "bio": "\"Echoic\" (November 13, 2026, Hotflush Recordings) is a seven-track EP from Cardiff duo Bodhi (Luke Welsby and Olly Howells), whose UK bass/house sound draws on disco, garage and bassline, with standout cuts \"Clippa\" and \"Quaresma Dub.\"",
+      "why_listen": "Groovy, bassline-driven UK bass with a garage edge -- good for a bouncier, bass-forward stretch of a set.",
+      "links": {
+        "bandcamp": "https://wearebodhi.bandcamp.com/album/preorder-echoic"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://wearebodhi.bandcamp.com/album/preorder-echoic",
+      "release": {
+        "title": "Echoic",
+        "release_type": "EP",
+        "date": "2026-11-13"
+      }
+    }
+  ]
+}

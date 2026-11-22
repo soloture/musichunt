@@ -1210,5 +1210,18 @@
       "bandcamp": "https://freerangerecords.bandcamp.com"
     },
     "notes": "Jimpster's London house label."
+  },
+  {
+    "name": "Kompakt",
+    "source": "discovered",
+    "genres": [
+      "Techno",
+      "House",
+      "Minimal"
+    ],
+    "links": {
+      "bandcamp": "https://kompakt.bandcamp.com"
+    },
+    "notes": "Long-running Cologne techno/house label; Sascha Funke's Planes In Reverse featured here."
   }
 ]
