@@ -1223,5 +1223,31 @@
       "bandcamp": "https://kompakt.bandcamp.com"
     },
     "notes": "Long-running Cologne techno/house label; Sascha Funke's Planes In Reverse featured here."
+  },
+  {
+    "name": "Quiet Details",
+    "source": "discovered",
+    "genres": [
+      "Ambient",
+      "Electro",
+      "Experimental"
+    ],
+    "links": {
+      "bandcamp": "https://quietdetails.bandcamp.com"
+    },
+    "notes": "Home for Smackos & Dim Garden (Legowelt side project) collaborations."
+  },
+  {
+    "name": "El Nino Diablo Music",
+    "source": "discovered",
+    "genres": [
+      "Electronic",
+      "Ambient",
+      "Club"
+    ],
+    "links": {
+      "bandcamp": "https://elninodiablo.bandcamp.com"
+    },
+    "notes": "Elninodiablo's (Stephanos Pantelas) own imprint."
   }
 ]

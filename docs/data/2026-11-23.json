@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-23",
+  "picks": [
+    {
+      "name": "Smackos & Dim Garden",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Smackos is Danny Wolfers' (Legowelt, already in your library) alias; Dim Garden is his wife. New label discovery -- Quiet Details.",
+      "genres": ["Ambient", "Electro", "Experimental"],
+      "bio": "\"Serenity Commando\" (November 11, 2026, Quiet Details, cat. qd56) is the second collaboration album from Smackos (Danny Wolfers, aka Legowelt) and Dim Garden, following their earlier \"The Art of the DX7.\"",
+      "why_listen": "A warmer, more intimate side project from a prolific electro/house figure -- good for a reflective, ambient-leaning moment in a set.",
+      "links": {
+        "bandcamp": "https://quietdetails.bandcamp.com/album/serenity-commando"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://quietdetails.bandcamp.com/album/serenity-commando",
+      "release": {
+        "title": "Serenity Commando",
+        "release_type": "album",
+        "date": "2026-11-11"
+      }
+    },
+    {
+      "name": "Elninodiablo",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist/label discovery -- El Nino Diablo Music, his own imprint.",
+      "genres": ["Electronic", "Ambient", "Club"],
+      "bio": "\"DRK NGHT FTHSL\" (November 11, 2026, El Nino Diablo Music, cat. ELNDM0016) is the second album from Stephanos Pantelas, aka Elninodiablo -- a Cyprus-born, Berlin-based producer and longtime queer-club DJ -- twelve tracks written and recorded over thirteen years tracing personal upheaval and reconciliation, with Elodie Gervaise among the featured collaborators.",
+      "why_listen": "Genre-blurring, emotionally direct electronic music from a DJ with deep club pedigree (supported by Four Tet, remixed by Prins Thomas) -- good for a set's more personal, dreamlike stretches.",
+      "links": {
+        "bandcamp": "https://elninodiablo.bandcamp.com"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://elninodiablo.bandcamp.com",
+      "release": {
+        "title": "DRK NGHT FTHSL",
+        "release_type": "album",
+        "date": "2026-11-11"
+      }
+    }
+  ]
+}
