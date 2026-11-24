@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-24",
+  "picks": [
+    {
+      "name": "Zelooperz & Black Noi$e",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Black Noi$e already in your library. New label discovery -- Tan Cressida (Earl Sweatshirt's label), Zelooperz's debut there.",
+      "genres": ["Hip Hop", "Experimental Hip Hop"],
+      "bio": "\"Pin Breakers\" (November 13, 2026, Tan Cressida, cat. TC015D) is an eleven-track album from Detroit rapper Zelooperz produced entirely by Black Noi$e, his first release on Earl Sweatshirt's label, featuring a guest verse from Danny Brown on \"Nostradamus.\"",
+      "why_listen": "Warped, bass-heavy experimental hip hop production paired with Zelooperz's unpredictable flow -- good for a left-field, head-turning moment in a set.",
+      "links": {
+        "bandcamp": "https://zelooperz.bandcamp.com/album/pin-breakers-2"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://zelooperz.bandcamp.com/album/pin-breakers-2",
+      "release": {
+        "title": "Pin Breakers",
+        "release_type": "album",
+        "date": "2026-11-13"
+      }
+    },
+    {
+      "name": "CASSIMM & WARED",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "Nervous Records already seeded. New artist discovery.",
+      "genres": ["House", "Tech House"],
+      "bio": "\"Move To The Music\" (November 6, 2026, Nervous Records) is a house collaboration between London-based Italian producer CASSIMM -- known for releases on Toolroom, Defected and SNATCH! -- and WARED.",
+      "why_listen": "Clean, driving house built for the dancefloor -- a reliable groove-driver from a dependable house producer.",
+      "links": {
+        "bandcamp": "https://nervousrecords.bandcamp.com/album/move-to-the-music"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://nervousrecords.bandcamp.com/album/move-to-the-music",
+      "release": {
+        "title": "Move To The Music",
+        "release_type": "single",
+        "date": "2026-11-06"
+      }
+    }
+  ]
+}

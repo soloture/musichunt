@@ -1249,5 +1249,17 @@
       "bandcamp": "https://elninodiablo.bandcamp.com"
     },
     "notes": "Elninodiablo's (Stephanos Pantelas) own imprint."
+  },
+  {
+    "name": "Tan Cressida",
+    "source": "discovered",
+    "genres": [
+      "Hip Hop",
+      "Experimental Hip Hop"
+    ],
+    "links": {
+      "bandcamp": "https://zelooperz.bandcamp.com"
+    },
+    "notes": "Earl Sweatshirt's label; Zelooperz & Black Noi$e's Pin Breakers is his debut there."
   }
 ]
