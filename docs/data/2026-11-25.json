@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-25",
+  "picks": [
+    {
+      "name": "The Bug / YL Hooi",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "The Bug already in your library. New label discovery -- Pressure, Kevin Martin's own imprint. Latest entry in his ongoing Ladybug collaboration series.",
+      "genres": ["Dub", "Post-Punk", "Dancehall"],
+      "bio": "\"Ladybug 5\" (November 20, 2026, Pressure) pairs Kevin Richard Martin (The Bug) with Melbourne artist YL Hooi (Valya Ying-Li Hooi, of Kallista Kult), the latest in his ongoing Ladybug split-release series following entries with Dis Fig, Friday Night Plans and Hollie Cook.",
+      "why_listen": "Heavy, dub-weighted production meeting YL Hooi's dreamy, post-punk-inflected vocals -- a good dark, atmospheric change of pace in a set.",
+      "links": {
+        "bandcamp": "https://thebugylhooi.bandcamp.com/album/ladybug-5"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://thebugylhooi.bandcamp.com/album/ladybug-5",
+      "release": {
+        "title": "Ladybug 5",
+        "release_type": "EP",
+        "date": "2026-11-20"
+      }
+    },
+    {
+      "name": "Josh Ludlow",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "Rhythm Section International already seeded. New artist discovery -- a rare solo EP from a member of London duo Make A Dance, with a longtime connection to label head Bradley Zero.",
+      "genres": ["Techno", "House", "EBM"],
+      "bio": "\"Brain Music\" (October 30, 2026, Rhythm Section International, cat. RS080LP) is a four-track EP from Josh Ludlow (of London duo Make A Dance), mixing Detroit techno influences, acid lines and off-centre house rhythms.",
+      "why_listen": "Dissociative, dancefloor-built club tracks with an EBM/acid edge -- a strong driver for a darker, more hypnotic stretch of a set.",
+      "links": {
+        "bandcamp": "https://joshludlow.bandcamp.com/album/brain-music"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://joshludlow.bandcamp.com/album/brain-music",
+      "release": {
+        "title": "Brain Music",
+        "release_type": "EP",
+        "date": "2026-10-30"
+      }
+    }
+  ]
+}

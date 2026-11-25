@@ -1261,5 +1261,18 @@
       "bandcamp": "https://zelooperz.bandcamp.com"
     },
     "notes": "Earl Sweatshirt's label; Zelooperz & Black Noi$e's Pin Breakers is his debut there."
+  },
+  {
+    "name": "Pressure",
+    "source": "discovered",
+    "genres": [
+      "Dub",
+      "Bass",
+      "Dancehall"
+    ],
+    "links": {
+      "bandcamp": "https://pressurerecords.bandcamp.com"
+    },
+    "notes": "The Bug's (Kevin Martin) own label; home of the ongoing Ladybug collaboration series."
   }
 ]
