@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-26",
+  "picks": [
+    {
+      "name": "Kotoa",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "Wah Wah 45s already seeded. New artist discovery -- first vinyl pressing compiling their two 2026 digital EPs.",
+      "genres": ["Jazz", "Dub", "Trip Hop", "Afrobeat"],
+      "bio": "\"Earthwise / Out of the Dark\" (November 13, 2026, Wah Wah 45s, cat. WAHLP039) is the first vinyl release for South East London five-piece Kotoa, compiling their two 2026 digital EPs (produced by Benedic Lamdin, aka Nostalgia 77) into a 10-track LP spanning dub, trip hop and African-inspired jazz.",
+      "why_listen": "Warm, horn-and-rhythm-driven jazz with a dub undertow -- a good organic, live-band change of texture in a set.",
+      "links": {
+        "bandcamp": "https://kotoa.bandcamp.com/album/earthwise-out-of-the-dark"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://kotoa.bandcamp.com/album/earthwise-out-of-the-dark",
+      "release": {
+        "title": "Earthwise / Out of the Dark",
+        "release_type": "album",
+        "date": "2026-11-13"
+      }
+    },
+    {
+      "name": "Grand River",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "Editions Mego already seeded. New artist discovery -- her first album for the label since 2023's \"All Above.\"",
+      "genres": ["Ambient", "Experimental", "Minimalism"],
+      "bio": "\"Temporary\" (November 20, 2026, Editions Mego) is the new album from Aimee Portioli, aka Grand River -- a Dutch-Italian, Berlin-based composer mixing synths (Buchla Easel, DX7, MS-20) with acoustic instruments, led by the single \"Let me know when you're pure.\"",
+      "why_listen": "Atmospheric yet rhythmically complex ambient/experimental composition -- good for a set's more spacious, textural stretches.",
+      "links": {
+        "bandcamp": "https://grandrivermusic.bandcamp.com/album/temporary"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://grandrivermusic.bandcamp.com/album/temporary",
+      "release": {
+        "title": "Temporary",
+        "release_type": "album",
+        "date": "2026-11-20"
+      }
+    }
+  ]
+}
