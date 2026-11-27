@@ -1274,5 +1274,30 @@
       "bandcamp": "https://pressurerecords.bandcamp.com"
     },
     "notes": "The Bug's (Kevin Martin) own label; home of the ongoing Ladybug collaboration series."
+  },
+  {
+    "name": "Hemlock Recordings",
+    "source": "discovered",
+    "genres": [
+      "Bass",
+      "Techno",
+      "Experimental"
+    ],
+    "links": {
+      "bandcamp": "https://hemlockrecordings.bandcamp.com"
+    },
+    "notes": "Untold's own label."
+  },
+  {
+    "name": "Wonderwheel Recordings",
+    "source": "discovered",
+    "genres": [
+      "World",
+      "East African Retro-Pop"
+    ],
+    "links": {
+      "bandcamp": "https://alsarahthenubatones.bandcamp.com"
+    },
+    "notes": "Home label for Alsarah & The Nubatones."
   }
 ]

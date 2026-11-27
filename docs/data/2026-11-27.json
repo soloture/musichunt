@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-27",
+  "picks": [
+    {
+      "name": "Untold",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library. New label discovery -- Hemlock Recordings, his own imprint. Part of a run of 2026 releases following his return to activity.",
+      "genres": ["Bass", "Techno", "Experimental"],
+      "bio": "\"Crop Milk\" (October 30, 2026, Hemlock Recordings, cat. HEK038) is a new EP from UK producer Untold (Jack Dunning), part of a string of 2026 releases on his own Hemlock label following his quiet resurfacing last year.",
+      "why_listen": "Sparse, bass-heavy club tracks from a long-running UK underground figure -- good for a leftfield, rhythmically unusual stretch of a set.",
+      "links": {
+        "bandcamp": "https://untoldhemlock.bandcamp.com/album/hek038-crop-milk-ep"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://untoldhemlock.bandcamp.com/album/hek038-crop-milk-ep",
+      "release": {
+        "title": "Crop Milk",
+        "release_type": "EP",
+        "date": "2026-10-30"
+      }
+    },
+    {
+      "name": "Alsarah & The Nubatones",
+      "type": "artist",
+      "source_type": "similar",
+      "source_note": "New artist/label discovery -- Wonderwheel Recordings. El Búho (already in your library) provides the closing remix on this EP.",
+      "genres": ["East African Retro-Pop", "Sudanese", "World"],
+      "bio": "\"Seasons of the Road Remix EP\" (November 6, 2026, Wonderwheel Recordings) closes out remixes of the Brooklyn-based, Sudanese-led band's 2025 album, with this final remix -- El Búho reimagining the Sufi love song \"Sudani\" as \"Sudani (El Búho Remix).\"",
+      "why_listen": "Nubian-rooted East African retro-pop reworked with a gentle, cumbia-adjacent touch -- a good warm, melodic change of pace in a set.",
+      "links": {
+        "bandcamp": "https://alsarahthenubatones.bandcamp.com/album/seasons-of-the-road-remix-ep"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://alsarahthenubatones.bandcamp.com/album/seasons-of-the-road-remix-ep",
+      "release": {
+        "title": "Seasons of the Road Remix EP",
+        "release_type": "EP",
+        "date": "2026-11-06"
+      }
+    }
+  ]
+}
