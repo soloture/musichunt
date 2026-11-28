@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-28",
+  "picks": [
+    {
+      "name": "Dego",
+      "type": "artist",
+      "source_type": "dj_set_artist",
+      "source_note": "Already in your library (as Dego & Kaidi). New label discovery -- 2000 Black, his own collective/imprint. First release on the label.",
+      "genres": ["Broken Beat", "House", "Boogie"],
+      "bio": "\"Power\" (October 23, 2026, 2000 Black, cat. 2061BLACK) is a three-track EP from 4Hero co-founder and 2000Black collective leader Dego, written and produced with Mr Mensah and featuring vocals from Shantéh Fuller, arriving four years after his \"Love Was Not Your Goal\" LP.",
+      "why_listen": "Mid-tempo house and boogie from a broken-beat pioneer with decades of pedigree -- a smooth, soulful driver for a groove-focused stretch of a set.",
+      "links": {
+        "bandcamp": "https://dego.bandcamp.com/album/power"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://dego.bandcamp.com/album/power",
+      "release": {
+        "title": "Power",
+        "release_type": "EP",
+        "date": "2026-10-23"
+      }
+    },
+    {
+      "name": "Budino",
+      "type": "artist",
+      "source_type": "label_watch",
+      "source_note": "Altered Circuits already seeded. New artist discovery -- her first original release on the label, made for her own DJ sets.",
+      "genres": ["Italo Disco", "House", "Electro"],
+      "bio": "\"Signal EP\" (October 26, 2026, Altered Circuits, cat. ALT027) is a four-track EP from Berlin-based Italian producer Valentina Bodini, aka Budino -- her first original release on the label, grown out of material made for her own DJ sets.",
+      "why_listen": "Italo-leaning electro/house built with a DJ's instincts -- a solid, functional pick for a club-focused stretch of a set.",
+      "links": {
+        "bandcamp": "https://alteredcircuitsbrussels.bandcamp.com/album/signal-ep"
+      },
+      "bandcamp_embed": null,
+      "purchase_link": "https://alteredcircuitsbrussels.bandcamp.com/album/signal-ep",
+      "release": {
+        "title": "Signal EP",
+        "release_type": "EP",
+        "date": "2026-10-26"
+      }
+    }
+  ]
+}

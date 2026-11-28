@@ -1299,5 +1299,18 @@
       "bandcamp": "https://alsarahthenubatones.bandcamp.com"
     },
     "notes": "Home label for Alsarah & The Nubatones."
+  },
+  {
+    "name": "2000 Black",
+    "source": "discovered",
+    "genres": [
+      "Broken Beat",
+      "House",
+      "Boogie"
+    ],
+    "links": {
+      "bandcamp": "https://2000black.bandcamp.com"
+    },
+    "notes": "Dego's (4Hero) own collective/label."
   }
 ]
